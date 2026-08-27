@@ -6,7 +6,7 @@ import { useAuth } from '../contexts/AuthContext';
 const Home = () => {
   const [sessions, setSessions] = useState<any[]>([]);
   const [mode, setMode] = useState<'simple' | 'journey'>('journey');
-  const { user, signOut } = useAuth();
+  const { signOut } = useAuth();
   const navigate = useNavigate();
 
   useEffect(() => {
@@ -14,7 +14,7 @@ const Home = () => {
   }, []);
 
   const fetchSessions = async () => {
-    const { data, error } = await supabase
+    const { data } = await supabase
       .from('sessions')
       .select('*')
       .order('session_number');
