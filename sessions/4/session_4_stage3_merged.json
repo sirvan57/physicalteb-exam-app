@@ -1,0 +1,400 @@
+{
+  "session_id": "spine-examination-scribe-01",
+  "stage": 3,
+  "registry": [
+    {"section_id": "§1", "parent_id": null, "level": 1, "order_index": 1, "title_fa": "مروری بر آناتومی ستون فقرات", "title_en": "Overview of Spinal Anatomy"},
+    {"section_id": "§1.1", "parent_id": "§1", "level": 2, "order_index": 1, "title_fa": "تقسیمات ستون فقرات", "title_en": "Divisions of the Spine"},
+    {"section_id": "§1.2", "parent_id": "§1", "level": 2, "order_index": 2, "title_fa": "ساختمان یک مهره", "title_en": "Structure of a Vertebra"},
+    {"section_id": "§1.3", "parent_id": "§1", "level": 2, "order_index": 3, "title_fa": "زوائد مهره", "title_en": "Vertebral Processes"},
+    {"section_id": "§1.4", "parent_id": "§1", "level": 2, "order_index": 4, "title_fa": "خروج اعصاب از ستون فقرات", "title_en": "Nerve Root Exits"},
+    {"section_id": "§2", "parent_id": null, "level": 1, "order_index": 2, "title_fa": "بررسی از نمای خلفی", "title_en": "Posterior View Examination"},
+    {"section_id": "§2.1", "parent_id": "§2", "level": 2, "order_index": 1, "title_fa": "لندمارک‌های آناتومیک", "title_en": "Anatomical Landmarks"},
+    {"section_id": "§3", "parent_id": null, "level": 1, "order_index": 3, "title_fa": "مشاهده بیمار از نمای جانبی", "title_en": "Lateral View Examination"},
+    {"section_id": "§4", "parent_id": null, "level": 1, "order_index": 4, "title_fa": "ارزیابی راستای ستون فقرات", "title_en": "Assessment of Spinal Alignment"},
+    {"section_id": "§5", "parent_id": null, "level": 1, "order_index": 5, "title_fa": "یافته‌های غیرطبیعی هنگام مشاهده", "title_en": "Abnormal Inspection Findings"},
+    {"section_id": "§5.1", "parent_id": "§5", "level": 2, "order_index": 1, "title_fa": "اسکولیوز", "title_en": "Scoliosis"},
+    {"section_id": "§5.2", "parent_id": "§5", "level": 2, "order_index": 2, "title_fa": "علل اختلاف ارتفاع شانه", "title_en": "Causes of Shoulder Height Asymmetry"},
+    {"section_id": "§5.3", "parent_id": "§5", "level": 2, "order_index": 3, "title_fa": "علل اختلاف ارتفاع لگن", "title_en": "Causes of Pelvic Height Asymmetry"},
+    {"section_id": "§6", "parent_id": null, "level": 1, "order_index": 6, "title_fa": "بررسی پوست", "title_en": "Skin Examination"},
+    {"section_id": "§7", "parent_id": null, "level": 1, "order_index": 7, "title_fa": "لمس (Palpation)", "title_en": "Palpation"},
+    {"section_id": "§7.1", "parent_id": "§7", "level": 2, "order_index": 1, "title_fa": "لمس زوائد خاری", "title_en": "Palpation of Spinous Processes"},
+    {"section_id": "§7.2", "parent_id": "§7", "level": 2, "order_index": 2, "title_fa": "لمس مفاصل فاست گردنی", "title_en": "Palpation of Cervical Facet Joints"},
+    {"section_id": "§7.3", "parent_id": "§7", "level": 2, "order_index": 3, "title_fa": "بررسی Step-off", "title_en": "Step-off Assessment"},
+    {"section_id": "§7.4", "parent_id": "§7", "level": 2, "order_index": 4, "title_fa": "لمس مفصل ساکروایلیاک (SI Joint)", "title_en": "Palpation of SI Joint"},
+    {"section_id": "§7.5", "parent_id": "§7", "level": 2, "order_index": 5, "title_fa": "حساسیت مهره‌ای", "title_en": "Vertebral Tenderness"},
+    {"section_id": "§7.6", "parent_id": "§7", "level": 2, "order_index": 6, "title_fa": "بررسی عضلات پاراورترال", "title_en": "Palpation of Paraspinal Muscles"},
+    {"section_id": "§7.7", "parent_id": "§7", "level": 2, "order_index": 7, "title_fa": "لمس عصب سیاتیک", "title_en": "Palpation of Sciatic Nerve"},
+    {"section_id": "§8", "parent_id": null, "level": 1, "order_index": 8, "title_fa": "دامنه حرکتی (Range of Motion)", "title_en": "Range of Motion"},
+    {"section_id": "§8.1", "parent_id": "§8", "level": 2, "order_index": 1, "title_fa": "دامنه حرکتی ستون فقرات گردنی", "title_en": "Cervical ROM"},
+    {"section_id": "§8.2", "parent_id": "§8", "level": 2, "order_index": 2, "title_fa": "دامنه حرکتی ستون فقرات کمری و توراسیک", "title_en": "Thoracolumbar ROM"},
+    {"section_id": "§9", "parent_id": null, "level": 1, "order_index": 9, "title_fa": "تست‌های اختصاصی ستون فقرات", "title_en": "Special Spinal Tests"},
+    {"section_id": "§9.1", "parent_id": "§9", "level": 2, "order_index": 1, "title_fa": "تست خم شدن به جلو آدامز", "title_en": "Adams Forward Bend Test"},
+    {"section_id": "§9.2", "parent_id": "§9", "level": 2, "order_index": 2, "title_fa": "تست شوئرمن", "title_en": "Scheuermann's Kyphosis"},
+    {"section_id": "§9.3", "parent_id": "§9", "level": 2, "order_index": 3, "title_fa": "تست اصالح شده شوبر", "title_en": "Modified Schober Test"},
+    {"section_id": "§10", "parent_id": null, "level": 1, "order_index": 10, "title_fa": "تست‌های ارزیابی رادیکولوپاتی", "title_en": "Tests for Radiculopathy"},
+    {"section_id": "§10.1", "parent_id": "§10", "level": 2, "order_index": 1, "title_fa": "تست Straight Leg Raise (SLR)", "title_en": "Straight Leg Raise Test"},
+    {"section_id": "§10.2", "parent_id": "§10", "level": 2, "order_index": 2, "title_fa": "تست متقاطع (Crossed SLR)", "title_en": "Crossed SLR Test"},
+    {"section_id": "§10.3", "parent_id": "§10", "level": 2, "order_index": 3, "title_fa": "تست Spurling", "title_en": "Spurling Test"},
+    {"section_id": "§11", "parent_id": null, "level": 1, "order_index": 11, "title_fa": "معاینه نورولوژی", "title_en": "Neurological Examination"},
+    {"section_id": "§11.1", "parent_id": "§11", "level": 2, "order_index": 1, "title_fa": "ارزیابی قدرت عضلات", "title_en": "Muscle Strength Assessment"},
+    {"section_id": "§11.2", "parent_id": "§11", "level": 2, "order_index": 2, "title_fa": "مقیاس درجه‌بندی قدرت عضالنی", "title_en": "MRC Grading Scale"},
+    {"section_id": "§11.3", "parent_id": "§11", "level": 2, "order_index": 3, "title_fa": "معاینه حسی", "title_en": "Sensory Examination"},
+    {"section_id": "§11.4", "parent_id": "§11", "level": 2, "order_index": 4, "title_fa": "نقشه درماتوم و میوتوم", "title_en": "Dermatome and Myotome Maps"}
+  ],
+  "sections": [
+    {
+      "section_id": "§1",
+      "bullets": [
+        {"content_ref": "b1", "text": "مروری بر آناتومی ستون فقرات"}
+      ]
+    },
+    {
+      "section_id": "§1.1",
+      "bullets": [
+        {"content_ref": "b1", "text": "تقسیمات ستون فقرات: **33 مهره** تشکیل‌دهنده."},
+        {"content_ref": "b2", "text": "مهره‌های گردنی (Cervical): ==7 مهره== (C1 تا C7)."},
+        {"content_ref": "b3", "text": "مهره‌های سینه‌ای (Thoracic): ==12 مهره== (T1 تا T12)."},
+        {"content_ref": "b4", "text": "مهره‌های کمری (Lumbar): ==5 مهره== (L1 تا L5)."},
+        {"content_ref": "b5", "text": "مهره خاجی (Sacral): ==5 مهره== (S1 تا S5) که به هم جوش خورده‌اند."},
+        {"content_ref": "b6", "text": "مهره دنبالچه (Coccygeal): معمولاً به هم جوش خورده."}
+      ]
+    },
+    {
+      "section_id": "§1.2",
+      "bullets": [
+        {"content_ref": "b1", "text": "ساختمان یک مهره (Vertebra): هر مهره از دو بخش اصلی تشکیل شده: **جسم مهره** (Body) در قسمت قدامی و **قوس مهره** (Posterior Arch) در قسمت خلفی."},
+        {"content_ref": "b2", "text": "قوس مهره (Posterior Elements): به ترتیب از **پدیکل** (Pedicle)، سپس **لامینا** (Lamina) و در نهایت **زائده خاری** (Spinous Process) که در خط وسط قرار دارد و قابل لمس است."},
+        {"content_ref": "b3", "text": "**زائده عرضی** (Transverse Process): در دو طرف مهره، محل اتصال عضلات و رباط‌ها."},
+        {"content_ref": "b4", "text": "**زائده مفصلی** (Articular Process): شامل **Superior** و **Inferior Articular Process** که از junction بین پدیکل و لامینا منشأ گرفته و مفصل فاست (Zygapophyseal Joint) را تشکیل می‌دهند."},
+        {"content_ref": "b5", "text": "مفاصل اختصاصی در ناحیه سرویکال (C2-C7): ==مفاصل آنکورتبرال (Uncovertebral Joint) یا مفصل لوشکا (Luschka's Joint)==."}
+      ]
+    },
+    {
+      "section_id": "§1.3",
+      "bullets": [
+        {"content_ref": "b1", "text": "زوائد مهره (Vertebral Processes): هر مهره دارای ==7 زائده== است: یک زائده خاری (Spinous)، دو زائده عرضی (Transverse)، دو زائده فوقانی مفصلی (Superior Articular) و دو زائده تحتانی مفصلی (Inferior Articular)."}
+      ]
+    },
+    {
+      "section_id": "§1.4",
+      "bullets": [
+        {"content_ref": "b1", "text": "خروج اعصاب (Nerve Root Exits): در ناحیه گردنی ==8 ریشه عصبی== وجود دارد اما فقط 7 مهره گردنی داریم."},
+        {"content_ref": "b2", "text": "قاعده گردنی: ریشه عصب C1 از ==باالی مهره C1== خارج می‌شود."},
+        {"content_ref": "b3", "text": "اعصاب C1 تا C7: از باالی مهره هم‌شماره خود خارج می‌شوند (مثلاً عصب C4 از بین C3 و C4 خارج می‌شود)."},
+        {"content_ref": "b4", "text": "عصب C8: از بین مهره **C7 و T1** خارج می‌شود و مهره متناظر ندارد."},
+        {"content_ref": "b5", "text": "قاعده توراسیک و لومبار: از مهره T1 به بعد، تمام اعصاب ==از زیر مهره هم‌شماره== خود خارج می‌شوند (مثلاً عصب T1 از زیر مهره T1 خارج می‌شود)."}
+      ]
+    },
+    {
+      "section_id": "§2",
+      "bullets": [
+        {"content_ref": "b1", "text": "در نمای خلفی (Posterior View): موارد زیر بررسی می‌شوند."}
+      ]
+    },
+    {
+      "section_id": "§2.1",
+      "bullets": [
+        {"content_ref": "b1", "text": "**زوائد خاری** (Spinous Processes) و **عضلات پاراورتبرال** (Paravertebral Muscles) در دو طرف خط وسط."},
+        {"content_ref": "b2", "text": "**خارهای خاصره‌ای** (Iliac Crests) و **خار خاصره‌ای فوقانی خلفی** (Posterior Superior Iliac Spine - PSIS)."},
+        {"content_ref": "b3", "text": "فرورفتگی‌های پوستی (Skin Dimples) معمولاً محل PSIS را مشخص می‌کنند."},
+        {"content_ref": "b4", "text": "لندمارک‌های خطی: خط فرضی بین دو **Iliac Crest** معمولاً از ==زائده خاری مهره L4== عبور می‌کند. خط فرضی اتصال‌دهنده **PSIS** ها موازی ==مهره S1== عبور می‌کند."},
+        {"content_ref": "b5", "text": "مهره‌های **T1** و **C7** معمولاً برجسته‌تر از سایر مهره‌ها هستند و در خم شدن سر به جلو واضح‌تر دیده می‌شوند."}
+      ]
+    },
+    {
+      "section_id": "§3",
+      "bullets": [
+        {"content_ref": "b1", "text": "در نمای جانبی (Lateral View): انحنای طبیعی ستون فقرات بررسی می‌شود."},
+        {"content_ref": "b2", "text": "**لوردوز گردنی** (Cervical Lordosis)، **کیفوز توراسیک** (Thoracic Kyphosis) و **لوردوز کمری** (Lumbar Lordosis)."},
+        {"content_ref": "b3", "text": "افزایش یا کاهش این انحناها می‌تواند نشان‌دهنده بیماری‌های مادرزادی، دژنراتیو یا اختلالات وضعیتی باشد."}
+      ]
+    },
+    {
+      "section_id": "§4",
+      "bullets": [
+        {"content_ref": "b1", "text": "راستای ستون فقرات: ستون فقرات باید کاملاً مستقیم باشد."},
+        {"content_ref": "b2", "text": "خط فرضی از **C7** به طور طبیعی از ==شکاف بین باسن (Gluteal Cleft)== عبور می‌کند."},
+        {"content_ref": "b3", "text": "موارد بررسی: تقارن و هم‌راستایی **شانه‌ها**، تقارن و هم‌سطح بودن **Iliac Crest**، تقارن **Gluteal Folds** و وجود هرگونه انحراف جانبی تنه."}
+      ]
+    },
+    {
+      "section_id": "§5",
+      "bullets": [
+        {"content_ref": "b1", "text": "یافته‌های غیرطبیعی هنگام مشاهده: به هرگونه عدم تقارن (Asymmetry) توجه کنید. معمولاً به صورت **افتادگی یک شانه** (Shoulder Drop) است که تشخیص اولیه اسکولیوز می‌باشد."}
+      ]
+    },
+    {
+      "section_id": "§5.1",
+      "bullets": [
+        {"content_ref": "b1", "text": "اسکولیوز (Scoliosis): انحنای جانبی ستون فقرات همراه با ==چرخش مهره‌ها (Rotation)==."},
+        {"content_ref": "b2", "text": "یافته‌های معاینه: عدم تقارن تنه، اختلاف ارتفاع و افتادگی شانه، برجسته شدن یک سمت قفسه سینه یا ناحیه کمری و انحراف محور ستون فقرات."}
+      ]
+    },
+    {
+      "section_id": "§5.2",
+      "bullets": [
+        {"content_ref": "b1", "text": "علل اختلاف ارتفاع شانه (Shoulder Height Asymmetry):"},
+        {"content_ref": "b2", "text": "**اسکولیوز** (Scoliosis)."},
+        {"content_ref": "b3", "text": "**ناهنجاری اشپرینگل** (Sprengel Deformity): یک کتف در وضعیت بالاتری قرار دارد، کوچک‌تر و حاوی دفورمیتی است."},
+        {"content_ref": "b4", "text": "**Winging Scapula**: لبه داخلی کتف از دیواره قفسه سینه فاصله می‌گیرد (معمولاً به دلیل ضعف عضله **Serratus Anterior**)."},
+        {"content_ref": "b5", "text": "Shoulder drop همراه با Winging Scapula نشان‌دهنده ضعف ==عضله Trapezius== یا عصب **Spinal Accessory** است."},
+        {"content_ref": "b6", "text": "علل Winging Scapula: ضعف عضلات **Serratus Anterior** (مهم‌ترین)، **Trapezius** و **Rhomboid Major/Minor**."}
+      ]
+    },
+    {
+      "section_id": "§5.3",
+      "bullets": [
+        {"content_ref": "b1", "text": "علل اختلاف ارتفاع لگن (Pelvic Height Asymmetry):"},
+        {"content_ref": "b2", "text": "**اختلاف طول اندام تحتانی** (Leg Length Discrepancy): نوع **True** به دلیل کوتاهی واقعی استخوان فمور یا تیبیا و نوع **Functional** به دلیل وضعیت غیرطبیعی لگن یا ستون فقرات."},
+        {"content_ref": "b3", "text": "**اسکولیوز** (Scoliosis) به عنوان تشخیص افتراقی اولیه."},
+        {"content_ref": "b4", "text": "**دفورمیتی مفصل ران** (Hip Deformity) مانند **Abduction** یا **Adduction** غیرطبیعی هیپ."},
+        {"content_ref": "b5", "text": "انحراف کل تنه به یک سمت (Trunk Shift): یک پوسچر ضد درد که معمولاً در **فتق دیسک کمری** (Lumbar Disc Herniation) دیده می‌شود و بیمار برای کاهش فشار روی ریشه عصبی تنه را متمایل می‌کند."}
+      ]
+    },
+    {
+      "section_id": "§6",
+      "bullets": [
+        {"content_ref": "b1", "text": "بررسی پوست (Skin Examination): پوست روی ستون فقرات از نظر ضایعات مادرزادی و اکتسابی بررسی می‌شود."},
+        {"content_ref": "b2", "text": "ضایعات قابل توجه: **Birthmark**، **Port Wine Stain**، **Hairy Patch**، **Lipoma**."},
+        {"content_ref": "b3", "text": "وجود این ضایعات ممکن است با ناهنجاری‌های استخوانی زمینه‌ای مانند ==Spina Bifida== همراه باشد."},
+        {"content_ref": "b4", "text": "ضایعات مرتبط با **نوروفیبروماتوز** (Neurofibromatosis): **لکه‌های قهوه‌ای یکنواخت** (Café-au-lait Macules)، **Skin Tags** و **تومورهای فیبری** (Fibrous tumors)."},
+        {"content_ref": "b5", "text": "وجود تعداد متعدد لکه‌های Café-au-lait، به‌ویژه در ناحیه آگزیلاری، یکی از معیارهای تشخیصی نوروفیبروماتوز محسوب می‌شود."}
+      ]
+    },
+    {
+      "section_id": "§7",
+      "bullets": [
+        {"content_ref": "b1", "text": "لمس (Palpation): هدف ارزیابی وضعیت مهره‌ها، مفاصل، عضلات و شناسایی حساسیت موضعی، اسپاسم عضلانی یا ناپایداری است."}
+      ]
+    },
+    {
+      "section_id": "§7.1",
+      "bullets": [
+        {"content_ref": "b1", "text": "لمس زوائد خاری (Spinous Processes): بیمار در وضعیت نشسته یا ایستاده. با استفاده از شست، تمام زوائد خاری از بالا به پایین لمس می‌شوند."},
+        {"content_ref": "b2", "text": "لندمارک‌ها: زوائد خاری **T1** و **C7** برجسته‌ترین و قابل‌لمس‌ترین مهره‌ها هستند."}
+      ]
+    },
+    {
+      "section_id": "§7.2",
+      "bullets": [
+        {"content_ref": "b1", "text": "لمس مفاصل فاست گردنی (Cervical Facet Joints): در فاصله ==1 تا 2 سانتی‌متر== خارج از زوائد خاری مهره‌های C2 تا C7."},
+        {"content_ref": "b2", "text": "برای لمس بهتر، عضلات گردن باید شل باشند (لمس عمقی)."},
+        {"content_ref": "b3", "text": "این مفاصل در عمق عضله تراپزیوس واقع شده‌اند."},
+        {"content_ref": "b4", "text": "وجود درد هنگام لمس، مطرح‌کننده بیماری‌های مفصل فاست (التهاب یا آرتروز) است."}
+      ]
+    },
+    {
+      "section_id": "§7.3",
+      "bullets": [
+        {"content_ref": "b1", "text": "بررسی Step-off: در ناحیه کمری، بررسی کنید که آیا یک مهره نسبت به مهره مجاور به سمت قدام برجسته‌تر (Prominent) یا به عقب رفته (Recessed) است."},
+        {"content_ref": "b2", "text": "Step-off: برجستگی یا عقب‌رفتگی غیرطبیعی یک زائده خاری نسبت به مهره بالایی."},
+        {"content_ref": "b3", "text": "وجود Step-off معمولاً مطرح‌کننده ==Spondylolisthesis== (لغزش قدامی مهره) است که معمولاً در اثر شکستگی Pars Interarticularis رخ می‌دهد."}
+      ]
+    },
+    {
+      "section_id": "§7.4",
+      "bullets": [
+        {"content_ref": "b1", "text": "لمس مفصل ساکروایلیاک (SI Joint): در حالت طبیعی قابل لمس نیست."},
+        {"content_ref": "b2", "text": "محل آن تقریباً روی فرورفتگی **PSIS** (به پهنای یک بند انگشت پایین‌تر) قرار دارد."},
+        {"content_ref": "b3", "text": "حساسیت (Tenderness) این ناحیه به نفع **ساکروایلئیت** (Sacroiliitis) و **اسپوندیلیت آنکیلوزان** (Ankylosing Spondylitis) است."},
+        {"content_ref": "b4", "text": "ساکروایلئیت ممکن است یک‌طرفه یا دوطرفه باشد، اما در اسپوندیلیت آنکیلوزان معمولاً ==درگیری دوطرفه== مشاهده می‌شود و همراه با محدودیت **Range of Motion** است."},
+        {"content_ref": "b5", "text": "اسپوندیلیت آنکیلوزان از **اسپوندیلوآرتروپاتی‌های سرونگاتیو** (Seronegative Spondyloarthropathies) محسوب می‌شود."}
+      ]
+    },
+    {
+      "section_id": "§7.5",
+      "bullets": [
+        {"content_ref": "b1", "text": "حساسیت مهره‌ای (Vertebral Tenderness): وجود درد روی زوائد خاری (Spinous Process) می‌تواند مطرح‌کننده موارد زیر باشد:"},
+        {"content_ref": "b2", "text": "بدخیمی استخوانی و متاستاز، آرتریت، عفونت، استئومیلیت، دررفتگی و شکستگی مهره (همراه با تندرنس قابل توجه)."},
+        {"content_ref": "b3", "text": "نتیجه: حساسیت روی مهره‌ها همیشه باید **جدی تلقی شود**."}
+      ]
+    },
+    {
+      "section_id": "§7.6",
+      "bullets": [
+        {"content_ref": "b1", "text": "بررسی عضلات پاراورترال (Paraspinal Muscles): در دو طرف ستون فقرات لمس می‌شوند."},
+        {"content_ref": "b2", "text": "موارد ارزیابی: حساسیت، اسپاسم یا سفتی عضله، افزایش تون عضلانی و وجود توده."},
+        {"content_ref": "b3", "text": "یافته طبیعی: عضلات باید نرم، قرینه، بدون درد و بدون اسپاسم باشند."},
+        {"content_ref": "b4", "text": "یافته غیرطبیعی: اسپاسم عضلانی، عضله سفت (Firm) و گره‌دار (Knotted) که گاهی حتی در مشاهده نیز قابل تشخیص است."}
+      ]
+    },
+    {
+      "section_id": "§7.7",
+      "bullets": [
+        {"content_ref": "b1", "text": "لمس عصب سیاتیک (Sciatic Nerve): بیمار به پهلوی سالم می‌خوابد. مفصل ران و زانو در سمت معاینه در حالت فلکشن قرار می‌گیرند."},
+        {"content_ref": "b2", "text": "ناحیه بین **ایسکیال تیوبروزیته** (Ischial Tuberosity) و **تروکانتر بزرگ** (Greater Trochanter) لمس می‌شود. عصب سیاتیک از شیار سیاتیک (Sciatic Notch) عبور می‌کند."},
+        {"content_ref": "b3", "text": "عصب سیاتیک از ریشه‌های عصبی **L4 تا S3** تشکیل می‌شود و بزرگ‌ترین عصب بدن است."},
+        {"content_ref": "b4", "text": "به علت عمق زیاد، لمس مستقیم آن در بیشتر افراد امکان‌پذیر نیست."},
+        {"content_ref": "b5", "text": "وجود درد و تندرنس هنگام لمس ممکن است نشان‌دهنده **سیاتیکا** (Sciatica) باشد که تشخیص افتراقی مهم آن **سندرم پیریفورمیس** (Piriformis Syndrome) است."}
+      ]
+    },
+    {
+      "section_id": "§8",
+      "bullets": [
+        {"content_ref": "b1", "text": "دامنه حرکتی (Range of Motion - ROM): یکی از مهم‌ترین بخش‌های معاینه فیزیکی."},
+        {"content_ref": "b2", "text": "کاهش ROM می‌تواند ناشی از بیماری‌های عضلانی، آسیب لیگامانی، بیماری‌های دژنراتیو، التهاب مفاصل، شکستگی یا درگیری ریشه عصبی باشد."},
+        {"content_ref": "b3", "text": "حرکات باید به‌صورت **فعال** انجام شوند و در صورت نیاز با حرکت **غیرفعال** تکمیل شوند."},
+        {"content_ref": "b4", "text": "در تمام حرکات، وجود درد، محدودیت حرکت، اسپاسم عضلانی و کیفیت حرکت ارزیابی می‌شود."}
+      ]
+    },
+    {
+      "section_id": "§8.1",
+      "bullets": [
+        {"content_ref": "b1", "text": "دامنه حرکتی ستون فقرات گردنی (Cervical ROM): گردن متحرک‌ترین قسمت ستون فقرات است."},
+        {"content_ref": "b2", "text": "حرکات طبیعی گردن:"},
+        {"content_ref": "b3", "text": "**فلکشن** (Flexion): خم شدن سر به جلو به طوری که چانه به قفسه سینه نزدیک شود."},
+        {"content_ref": "b4", "text": "**اکستنشن** (Extension): خم شدن سر به عقب به طوری که فرد بتواند سقف را ببیند."},
+        {"content_ref": "b5", "text": "**چرخش** (Rotation): چرخاندن سر به راست و چپ به طوری که فرد بتواند شانه همان سمت را ببیند."},
+        {"content_ref": "b6", "text": "**خم شدن جانبی** (Lateral Flexion): خم کردن گوش به سمت شانه."}
+      ]
+    },
+    {
+      "section_id": "§8.2",
+      "bullets": [
+        {"content_ref": "b1", "text": "دامنه حرکتی ستون فقرات کمری و توراسیک (Thoracolumbar ROM):"},
+        {"content_ref": "b2", "text": "حرکات شامل: خم شدن به جلو (Flexion)، خم شدن به عقب (Extension)، خم شدن به طرفین (Lateral Bending) و چرخش تنه (Rotation)."},
+        {"content_ref": "b3", "text": "در انجام **فلکشن** (Flexion)، بیمار با زانوهای صاف به سمت جلو خم می‌شود و باید بتواند انگشتان دست را تا زانوها پایین بیاورد."},
+        {"content_ref": "b4", "text": "در این حرکت موارد زیر بررسی می‌شوند: دامنه حرکت مهره‌های کمری، انعطاف‌پذیری عضلات **همسترینگ**، وجود درد و تقارن دو طرف تنه."},
+        {"content_ref": "b5", "text": "در افراد سالم، حرکت یکنواخت و بدون درد است. **لوردوز کمر** باید در حین فلکشن از بین برود."},
+        {"content_ref": "b6", "text": "==باقی‌ماندن لوردوز کمری== همراه با کاهش دامنه فلکشن، می‌تواند مطرح‌کننده **اسپوندیلوآرتروپاتی‌ها** به عنوان تشخیص افتراقی باشد."}
+      ]
+    },
+    {
+      "section_id": "§9",
+      "bullets": [
+        {"content_ref": "b1", "text": "تست‌های اختصاصی ستون فقرات: متناسب با شرح حال و معاینه فیزیکی در صورت لزوم انجام می‌شوند."}
+      ]
+    },
+    {
+      "section_id": "§9.1",
+      "bullets": [
+        {"content_ref": "b1", "text": "تست خم شدن به جلو آدامز (Adams Forward Bend Test): مهم‌ترین تست غربالگری اسکولیوز."},
+        {"content_ref": "b2", "text": "روش انجام: بیمار ایستاده، پاها کنار هم، زانوها صاف، بازوها آویزان. بیمار به آرامی از کمر به جلو خم می‌شود تا ستون فقرات موازی زمین شود. معاینه‌کننده از پشت مشاهده می‌کند."},
+        {"content_ref": "b3", "text": "تفسیر: در فرد طبیعی، دو نیمه قفسه سینه و دو سمت ناحیه کمری ==متقارن== هستند و هیچ برجستگی یک‌طرفه دیده نمی‌شود."},
+        {"content_ref": "b4", "text": "تست مثبت: یک قسمت قفسه سینه یا ناحیه کمری برجسته‌تر باشد. این برجستگی **Rib Prominence** یا **Thoracic Hump** نام دارد."},
+        {"content_ref": "b5", "text": "تست مثبت = درخواست رادیوگرافی ایستاده ستون فقرات و اندازه‌گیری زاویه **Cobb** (اسکولیوز ساختاری)."}
+      ]
+    },
+    {
+      "section_id": "§9.2",
+      "bullets": [
+        {"content_ref": "b1", "text": "کیفوز شوئرمن (Scheuermann's Kyphosis): در بیماران مبتلا، هنگام خم شدن به جلو، کیفوز ==از بین نمی‌رود== (Rigid Kyphosis)."},
+        {"content_ref": "b2", "text": "تفاوت با کیفوز وضعیتی (Postural Kyphosis): در کیفوز وضعیتی، با خم شدن یا اصلاح وضعیت، انحنا کاهش می‌یابد اما در شوئرمن، انحنا ثابت باقی می‌ماند."},
+        {"content_ref": "b3", "text": "اهمیت بالینی: شایع‌ترین علت کیفوز ساختاری در نوجوانان است و به دلیل اختلال رشد صفحات انتهایی مهره‌ها ایجاد می‌شود."},
+        {"content_ref": "b4", "text": "بهترین نما برای مشاهده این یافته، نمای **جانبی** بیمار است."}
+      ]
+    },
+    {
+      "section_id": "§9.3",
+      "bullets": [
+        {"content_ref": "b1", "text": "تست اصالح شده شوبر (Modified Schober Test): برای ارزیابی میزان فلکشن ستون فقرات کمری، به‌ویژه در **Ankylosing Spondylitis** و **Spondyloarthritis**."},
+        {"content_ref": "b2", "text": "روش انجام:"},
+        {"content_ref": "b3", "text": "بیمار کاملاً صاف می‌ایستد. لندمارکی روی PSIS پیدا کرده و با یک خط به هم وصل می‌کنیم."},
+        {"content_ref": "b4", "text": "از آن خط ==10 سانتی‌متر به بالا== و ==5 سانتی‌متر به پایین== علامت می‌زنیم (مجموعاً 15 سانتی‌متر)."},
+        {"content_ref": "b5", "text": "از بیمار خواسته می‌شود تا حداکثر ممکن به جلو خم شود و فاصله جدید اندازه‌گیری می‌شود."},
+        {"content_ref": "b6", "text": "نتیجه طبیعی: فاصله باید حداقل ==5 تا 6 سانتی‌متر افزایش== پیدا کند (مثلاً از 15 به 21 سانتی‌متر برسد)."},
+        {"content_ref": "b7", "text": "نتیجه غیرطبیعی: اگر افزایش کمتر از ==5 سانتی‌متر== باشد، تست مثبت است و محدودیت حرکت ستون فقرات کمری مطرح می‌شود."}
+      ]
+    },
+    {
+      "section_id": "§10",
+      "bullets": [
+        {"content_ref": "b1", "text": "تست‌های ارزیابی رادیکولوپاتی (Radiculopathy Tests): برای بررسی درگیری ریشه‌های عصبی، دیسک بین مهره‌ای و تنگی فورامن."}
+      ]
+    },
+    {
+      "section_id": "§10.1",
+      "bullets": [
+        {"content_ref": "b1", "text": "تست Straight Leg Raise (SLR): هدف ارزیابی تحریک ریشه‌های عصبی کمری، به‌ویژه در **Herniated Lumbar Disc**."},
+        {"content_ref": "b2", "text": "بیشترین ارزش تشخیصی برای درگیری ریشه‌های ==L5 و S1==."},
+        {"content_ref": "b3", "text": "روش انجام: بیمار به پشت (Supine) دراز می‌کشد. زانوها کاملاً صاف. معاینه‌کننده پاشنه پا را گرفته و اندام تحتانی را به آرامی از مفصل ران بالا می‌آورد."},
+        {"content_ref": "b4", "text": "موارد بررسی حین انجام: زاویه‌ای که درد ایجاد می‌شود، نوع درد و انتشار آن و تأثیر Dorsiflexion مچ پا بر شدت علائم."},
+        {"content_ref": "b5", "text": "یافته طبیعی: احساس کشش در همسترینگ یا باسن طبیعی است و نباید با درد رادیکولار اشتباه شود."},
+        {"content_ref": "b6", "text": "تست مثبت: ==درد تیرکشنده== (Radicular Pain) از کمر به سمت باسن، پشت ران، ساق یا کف پا انتشار یابد."},
+        {"content_ref": "b7", "text": "زاویه اهمیت: درد معمولاً در زاویه ==30 تا 70 درجه== فلکشن ران ایجاد می‌شود."},
+        {"content_ref": "b8", "text": "درد در زاویه کمتر از 30 درجه: ناشی از فتق بزرگ دیسک، تومور یا آبسه اپیدورال."},
+        {"content_ref": "b9", "text": "درد در زاویه بیشتر از 70 درجه: ناشی از کوتاهی همسترینگ، اسپاسم عضلانی یا بیماری مفصل هیپ."},
+        {"content_ref": "b10", "text": "**تست براگارد** (Bragard Test): برای تایید SLR، در زاویه‌ای که بیمار اظهار درد می‌کند، مچ پا را به سمت بالا (Dorsiflexion) خم می‌کنیم. اگر درد تشدید شود، احتمال فشار روی ریشه عصبی بسیار بیشتر است."},
+        {"content_ref": "b11", "text": "شایع‌ترین علت تست مثبت: **فتق دیسک کمری** (Lumbar Disc Herniation)."},
+        {"content_ref": "b12", "text": "حساسیت آزمون SLR: حدود **80%**، ویژگی: حدود **40%**. پس **منفی کاذب** (False Negative) کم و **مثبت کاذب** (False Positive) نسبتاً زیاد است."},
+        {"content_ref": "b13", "text": "نتیجه: منفی بودن تست، احتمال فتق دیسک را تا حد زیادی کاهش می‌دهد ولی مثبت بودن به‌تنهایی برای تشخیص قطعی کافی نیست."}
+      ]
+    },
+    {
+      "section_id": "§10.2",
+      "bullets": [
+        {"content_ref": "b1", "text": "تست متقاطع (Crossed Straight Leg Raise Test): روش انجام: ==اندام سالم== بالا آورده می‌شود."},
+        {"content_ref": "b2", "text": "تست مثبت: اگر در حین بالا آوردن اندام سالم، درد رادیکولار در اندام مبتال ایجاد شود."},
+        {"content_ref": "b3", "text": "اهمیت بالینی: حساسیت کمتر از SLR دارد اما **ویژگی (Specificity)** بسیار بیشتری دارد."},
+        {"content_ref": "b4", "text": "مثبت شدن این تست، احتمال **Herniated Lumbar Disc** را به میزان قابل توجهی افزایش می‌دهد."}
+      ]
+    },
+    {
+      "section_id": "§10.3",
+      "bullets": [
+        {"content_ref": "b1", "text": "تست Spurling: هدف ارزیابی **رادیکولوپاتی گردنی** (Cervical Radiculopathy). مهم‌ترین تست بالینی برای رادیکولوپاتی گردنی (معادل SLR در گردن)."},
+        {"content_ref": "b2", "text": "روش انجام: بیمار گردن را به سمت مبتال می‌چرخاند، سپس گردن در همان سمت اکستانسیون داده می‌شود. معاینه‌کننده ==فشار محوری (Axial Compression)== از باالی سر به سمت پایین وارد می‌کند."},
+        {"content_ref": "b3", "text": "مکانیسم: این وضعیت باعث کاهش قطر فورامن بین مهره‌ای می‌شود."},
+        {"content_ref": "b4", "text": "تست مثبت: ایجاد یا تشدید درد تیرکشنده، گزگز یا بی‌حسی در مسیر ریشه عصبی گردنی (مثلاً از گردن به شانه، بازو، ساعد و انگشتان)."},
+        {"content_ref": "b5", "text": "تفسیر بالینی: ==وجود درد محدود به گردن بدون انتشار== به اندام فوقانی، ارزش تشخیصی کمتری دارد."},
+        {"content_ref": "b6", "text": "علل مثبت شدن: **Herniated Cervical Disc**، **Cervical Spondylosis**، **Foraminal Stenosis** و **Osteophyte**."},
+        {"content_ref": "b7", "text": "موارد احتیاط: در بیماران با شک به **مایلوپاتی** یا ناپایداری ستون فقرات C1-C2 (در زمینه روماتیسم شدید گردن) نباید انجام شود."}
+      ]
+    },
+    {
+      "section_id": "§11",
+      "bullets": [
+        {"content_ref": "b1", "text": "معاینه نورولوژی (Neurological Examination): پس از بررسی ROM و تست‌های اختصاصی، قدرت عضلات اندام فوقانی و تحتانی ارزیابی می‌شود."}
+      ]
+    },
+    {
+      "section_id": "§11.1",
+      "bullets": [
+        {"content_ref": "b1", "text": "ارزیابی قدرت عضلات: هدف تشخیص **رادیکولوپاتی** (Radiculopathy)، **مایلوپاتی** (Myelopathy)، **نوروپاتی محیطی** (Peripheral Neuropathy)، بیماری‌های عضلانی و اختلالات نورون حرکتی فوقانی و تحتانی."},
+        {"content_ref": "b2", "text": "اصول معاینه: قدرت هر عضله باید به صورت **دو طرفه** مقایسه شود و در برابر مقاومت پزشک ارزیابی گردد."}
+      ]
+    },
+    {
+      "section_id": "§11.2",
+      "bullets": [
+        {"content_ref": "b1", "text": "مقیاس درجه‌بندی قدرت عضالنی (MRC Scale - Medical Research Council Scale): درجه‌بندی 0 تا 5."},
+        {"content_ref": "b2", "text": "**0/5**: ==هیچ انقباضی وجود ندارد== (فلج کامل - Complete Paralysis)."},
+        {"content_ref": "b3", "text": "**1/5**: انقباض قابل مشاهده (Flicker) ولی حرکتی ایجاد نمی‌شود."},
+        {"content_ref": "b4", "text": "**2/5**: حرکت فقط با **حذف نیروی جاذبه** (حرکت روی سطح صاف)."},
+        {"content_ref": "b5", "text": "**3/5**: حرکت **علیه جاذبه** ولی بدون مقاومت (بیمار بر مقاومت پزشک غلبه نمی‌کند)."},
+        {"content_ref": "b6", "text": "**4/5**: حرکت **علیه مقاومت** ولی ضعیف‌تر از حد طبیعی."},
+        {"content_ref": "b7", "text": "**5/5**: قدرت طبیعی و بدون ضعف (حرکت علیه مقاومت کامل بدون خستگی)."}
+      ]
+    },
+    {
+      "section_id": "§11.3",
+      "bullets": [
+        {"content_ref": "b1", "text": "معاینه حسی (Sensory Examination): در شک به ضایعه ریشه عصبی، مودالیتی‌های زیر بررسی می‌شوند:"},
+        {"content_ref": "b2", "text": "**لمس سطحی** (Light Touch)."},
+        {"content_ref": "b3", "text": "**Pin Prick** (حس درد و دما)."},
+        {"content_ref": "b4", "text": "**ویبریشن** (Vibration - حس ارتعاش)."},
+        {"content_ref": "b5", "text": "**پروپریوسپشن** (Proprioception - حس وضعیت مفصل / Joint Position Sense)."}
+      ]
+    },
+    {
+      "section_id": "§11.4",
+      "bullets": [
+        {"content_ref": "b1", "text": "نقشه درماتوم و میوتوم (کلیدی برای تعیین سطح ضایعه):"},
+        {"content_ref": "b2", "text": "**C5**: حرکت: **فلکشن شانه** (Shoulder Flexion) / **ابداکشن شانه** (Shoulder Abduction). حس: **دلتوئید** (Lateral arm)."},
+        {"content_ref": "b3", "text": "**C6**: حرکت: **فلکشن مچ** (Wrist Flexion) / **اکستنشن مچ** (Wrist Extension). حس: **ناحیه تنار** (Thumb and index finger)."},
+        {"content_ref": "b4", "text": "**C7**: حرکت: **اکستنشن آرنج** (Elbow Extension). حس: **سطح کف دستی فالانژ دیستال انگشت میانی** (Middle finger)."},
+        {"content_ref": "b5", "text": "**C8**: حرکت: **گرفتن دست** (Grip Strength). حس: **سطح کف دستی انگشت پنجم** (Little finger)."},
+        {"content_ref": "b6", "text": "**T1**: حرکت: **ابداکشن انگشتان** (Finger Abduction). حس: **سطح داخلی بازو** (Medial arm)."},
+        {"content_ref": "b7", "text": "**L2**: حرکت: **فلکشن هیپ** (Hip Flexion). حس: **ناحیه کشاله ران** (Mid inguinal region)."},
+        {"content_ref": "b8", "text": "**L3**: حرکت: **اکستنشن زانو** (Knee Extension). حس: **قسمت پروگزیمال قدامی ران** (Proximal anterior thigh)."},
+        {"content_ref": "b9", "text": "**L4**: حرکت: **دورسی فلکشن مچ پا** (Ankle Dorsiflexion). حس: **سطح داخلی ساق و پا** (Medial leg and foot)."},
+        {"content_ref": "b10", "text": "**L5**: حرکت: **اکستنشن انگشت شست پا** (Great Toe Extension). حس: **پشت اولین فضای بین انگشتی پا** (Dorsum of first web space)."},
+        {"content_ref": "b11", "text": "**S1**: حرکت: **پلانتار فلکشن مچ پا** (Ankle Plantar Flexion). حس: **سطح خارجی پا و پاشنه** (Lateral foot and heel)."},
+        {"content_ref": "b12", "text": "**S2**: حرکت: (معمولاً ارزیابی نمی‌شود). حس: **حفره پوپلیتئال** (Popliteal fossa)."}
+      ]
+    }
+  ],
+  "status": "COMPLETE",
+  "last_covered": "§11.4",
+  "resume_from": null
+}

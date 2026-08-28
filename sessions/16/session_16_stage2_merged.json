@@ -1,0 +1,1162 @@
+{
+  "session_id": "session_001",
+  "stage": 4,
+  "items": [
+    {
+      "id": "mcq_001",
+      "section_id": "§1",
+      "item_type": "short_answer_factual",
+      "question": "تعریف درد آگزیال (axial pain) گردن چیست؟",
+      "answer": "دردی در تمام یا بخشی از مسیر از تحتانی پس سری تا فوقانی بین دو کتف، در خط وسط یا مجاور آن."
+    },
+    {
+      "id": "mcq_002",
+      "section_id": "§1",
+      "item_type": "fill_blank",
+      "question": "درد رادیکوالر (radicular pain) گردن به صورت ........ در اندام فوقانی تظاهر می‌یابد.",
+      "answer": "درماتومال (dermatomal)"
+    },
+    {
+      "id": "mcq_003",
+      "section_id": "§1",
+      "item_type": "short_answer_factual",
+      "question": "آیا درد گردن در کار بالینی بیشتر است یا کمردرد (low back pain)؟",
+      "answer": "درد گردن بسیار بیشتر از کمردرد است."
+    },
+    {
+      "id": "mcq_004",
+      "section_id": "§1",
+      "item_type": "short_answer_factual",
+      "question": "چند درصد از بیماران گردن‌درد مزمن می‌شوند؟",
+      "answer": "حدود ۴۰ درصد."
+    },
+    {
+      "id": "mcq_005",
+      "section_id": "§1",
+      "item_type": "short_answer_factual",
+      "question": "چند درصد از بیماران گردن‌درد، درد شدید مختل‌کننده عملکرد را تجربه می‌کنند؟",
+      "answer": "۸ تا ۱۰ درصد."
+    },
+    {
+      "id": "mcq_006",
+      "section_id": "§1",
+      "item_type": "short_answer_factual",
+      "question": "شکایات شغلی مرتبط با گردن با افزایش سن چه تغییری می‌کند؟",
+      "answer": "بیشتر می‌شود."
+    },
+    {
+      "id": "mcq_007",
+      "section_id": "§1",
+      "item_type": "short_answer_factual",
+      "question": "اوج بروز رادیکولوپاتی گردنی (cervical radiculopathy) در چه سنی است؟",
+      "answer": "۵۰ تا ۵۴ سالگی."
+    },
+    {
+      "id": "mcq_008",
+      "section_id": "§1",
+      "item_type": "short_answer_conceptual",
+      "question": "رادیکولوپاتی گردنی از نظر شیوع با درد محوری گردن چه تفاوتی دارد؟",
+      "answer": "شیوع کمتری نسبت به درد محوری گردن دارد."
+    },
+    {
+      "id": "mcq_009",
+      "section_id": "§2",
+      "item_type": "fill_blank",
+      "question": "مهره دارای دو جزء ........ و ........ است.",
+      "answer": "قدامي (body) و خلفي (posterior elements: pedicle, lamina, spinous process, transverse processes)"
+    },
+    {
+      "id": "mcq_010",
+      "section_id": "§2",
+      "item_type": "short_answer_factual",
+      "question": "مفاصل لوشکا (Uncovertebral joints) از اتصال کدام زوائد در کدام مهره‌ها تشکیل می‌شوند؟",
+      "answer": "زوائد uncinate در پوسترولترال بادی مهره‌های C3 تا C7."
+    },
+    {
+      "id": "mcq_011",
+      "section_id": "§2",
+      "item_type": "short_answer_conceptual",
+      "question": "مفاصل لوشکا از چه نوع مفاصلی هستند و چه نقشی دارند؟",
+      "answer": "از نوع سینوویال (synovial) هستند و در پاتولوژی ناحیه گردن نقش دارند."
+    },
+    {
+      "id": "mcq_012",
+      "section_id": "§2",
+      "item_type": "short_answer_factual",
+      "question": "در نمای لترال گردن، کدام مهره به عنوان لندمارک اصلی شناخته می‌شود و چرا؟",
+      "answer": "مهره C2، زیرا تنها مهره گردنی با زائده خاری دوشاخه و برجسته است."
+    },
+    {
+      "id": "mcq_013",
+      "section_id": "§2",
+      "item_type": "short_answer_factual",
+      "question": "در نمای A-P گردن، چه علامتی در محل اتصال C7 به T1 دیده می‌شود؟",
+      "answer": "علامت <."
+    },
+    {
+      "id": "mcq_014",
+      "section_id": "§2",
+      "item_type": "short_answer_conceptual",
+      "question": "زوائد ترانسورس (transverse processes) در نمای A-P چگونه به عنوان لندمارک عمل می‌کنند؟",
+      "answer": "در ناحیه توراسیک تغییر جهت داده و رو به بالا قرار می‌گیرند."
+    },
+    {
+      "id": "mcq_015",
+      "section_id": "§2.1",
+      "item_type": "fill_blank",
+      "question": "شاخه شکمی (ventral ramus) ریشه عصبی شامل ........ است که از شاخ قدامی خارج می‌شوند.",
+      "answer": "آلفا موتور نورون‌ها (alpha motor neurons)"
+    },
+    {
+      "id": "mcq_016",
+      "section_id": "§2.1",
+      "item_type": "short_answer_factual",
+      "question": "فیبرهای حسی ریشه عصبی از کجا منشأ می‌گیرند؟",
+      "answer": "از گانگلیون (ganglion)."
+    },
+    {
+      "id": "mcq_017",
+      "section_id": "§2.1",
+      "item_type": "essay",
+      "question": "مسیر تشکیل عصب نخاعی (spinal nerve) و تقسیمات آن را توضیح دهید.",
+      "answer": "عصب نخاعی از پیوند شاخه شکمی (ventral ramus) و شاخه دورسال (dorsal ramus) تشکیل می‌شود، از سوراخ مهره‌ای خارج شده و به شاخه قدامی (که در شبکه براکیال شرکت می‌کند) و شاخه خلفی (که به شاخه‌های مدیال و لترال تقسیم می‌شود) تقسیم می‌گردد."
+    },
+    {
+      "id": "mcq_018",
+      "section_id": "§2.1",
+      "item_type": "short_answer_factual",
+      "question": "شاخه خلفی عصب گردنی به کدام ساختارهای غیرعصبی عصب‌دهی می‌کند و نقش آن‌ها در درد چیست؟",
+      "answer": "به دیسک بین مهره‌ای (آنولوس فیبروزوس)، مفصل زیگاپوفیزیال (فست) (پریوستئوم، کپسول مفصلی)، رباط طولی خلفی، و عضلات عصب‌دهی می‌کند و این ساختارها در ایجاد درد محوری گردن نقش دارند."
+    },
+    {
+      "id": "mcq_019",
+      "section_id": "§2.2",
+      "item_type": "short_answer_conceptual",
+      "question": "مکانیسم درد ارجاعی سوماتیک (somatic referred pain) در گردن را توضیح دهید.",
+      "answer": "از طریق همگرایی (convergence) در سیستم عصبی مرکزی: گیرنده‌های درد ساختارهای خلفی با نورون دوم در نخاع سیناپس می‌دهند که با گیرنده‌های درد اندام فوقانی مشترک است."
+    },
+    {
+      "id": "mcq_020",
+      "section_id": "§2.2",
+      "item_type": "short_answer_factual",
+      "question": "درگیری مفصل فست (facet joint) C2-C3 چه الگوی دردی ایجاد می‌کند؟",
+      "answer": "درد اکسیپیتال (occipital)."
+    },
+    {
+      "id": "mcq_021",
+      "section_id": "§2.2",
+      "item_type": "fill_blank",
+      "question": "درگیری مفاصل فست C3-C4 باعث ایجاد ........ می‌شود.",
+      "answer": "سردردهای اکسیپیتال (occipital headaches)"
+    },
+    {
+      "id": "mcq_022",
+      "section_id": "§2.2",
+      "item_type": "short_answer_factual",
+      "question": "الگوی درد ناشی از درگیری مفاصل فست C5-C6 چگونه است؟",
+      "answer": "مشابه با الگوی درد دیسک."
+    },
+    {
+      "id": "mcq_023",
+      "section_id": "§2.2",
+      "item_type": "short_answer_factual",
+      "question": "درگیری مفاصل فست C6-C7 به کدام نواحی درد ارجاع می‌دهد؟",
+      "answer": "به نواحی تحتانی‌تر شامل بورد تحتانی اسکاپولا (scapula)."
+    },
+    {
+      "id": "mcq_024",
+      "section_id": "§2.2",
+      "item_type": "short_answer_factual",
+      "question": "آیا تحریک مکانیکی دیسک‌های بین مهره‌ای الگوی درد مشابه مفاصل فست دارد؟",
+      "answer": "بله."
+    },
+    {
+      "id": "mcq_025",
+      "section_id": "§2.2",
+      "item_type": "short_answer_factual",
+      "question": "علآئم ناشی از درگیری یک مفصل یا دیسک به چه صورتی می‌تواند بروز کند؟",
+      "answer": "به صورت همان‌طرف (ipsilateral) یا دوطرفه."
+    },
+    {
+      "id": "mcq_026",
+      "section_id": "§2.2",
+      "item_type": "short_answer_conceptual",
+      "question": "تفاوت درد ناشی از دیسک با درد ناشی از مفصل زیگاپوفیزیال (zygapophyseal) چیست؟",
+      "answer": "درد دیسک درجه‌بندی بالا، در خط وسط (مجاور)، بدون سردرد، و منتشرشونده‌تر از درد مفصل زیگاپوفیزیال است."
+    },
+    {
+      "id": "mcq_027",
+      "section_id": "§3",
+      "item_type": "short_answer_factual",
+      "question": "شایع‌ترین علت رادیکولوپاتی گردنی چیست؟",
+      "answer": "فتق دیسک بین مهره‌ای گردن (Cervical Intervertebral Disc Herniation - CIDH)."
+    },
+    {
+      "id": "mcq_028",
+      "section_id": "§3",
+      "item_type": "short_answer_factual",
+      "question": "دومین علت شایع رادیکولوپاتی گردنی چیست؟",
+      "answer": "اسپوندیلوز گردنی (cervical spondylosis)."
+    },
+    {
+      "id": "mcq_029",
+      "section_id": "§3",
+      "item_type": "short_answer_factual",
+      "question": "کدام سه ساختار باعث آسیب‌پذیری عصبی در سوراخ‌های بین مهره‌ای (فرامینا) می‌شوند؟",
+      "answer": "مفاصل زیگاپوفیزیال، مفاصل اونکوورتبرال (لوشکا)، و دیسک بین مهره‌ای."
+    },
+    {
+      "id": "mcq_030",
+      "section_id": "§3",
+      "item_type": "short_answer_conceptual",
+      "question": "در رادیکولوپاتی گردنی، کدام درد شدیدتر است، درد گردن یا درد اندام فوقانی؟",
+      "answer": "درد اندام فوقانی شدیدتر از درد محوری گردن است."
+    },
+    {
+      "id": "mcq_031",
+      "section_id": "§3",
+      "item_type": "short_answer_factual",
+      "question": "ریشه‌های C5 و C6 درد را به کدام ناحیه ارجاع می‌دهند؟",
+      "answer": "به بازو."
+    },
+    {
+      "id": "mcq_032",
+      "section_id": "§3",
+      "item_type": "short_answer_factual",
+      "question": "ریشه C7 درد را به کدام ناحیه ارجاع می‌دهد؟",
+      "answer": "به ساعد."
+    },
+    {
+      "id": "mcq_033",
+      "section_id": "§3",
+      "item_type": "short_answer_factual",
+      "question": "ریشه C8 درد را به کدام ناحیه ارجاع می‌دهد؟",
+      "answer": "به دست."
+    },
+    {
+      "id": "mcq_034",
+      "section_id": "§3",
+      "item_type": "short_answer_factual",
+      "question": "درد عمدتاً در قسمت بالای کمر (با یا بدون علآئم در بازو) ممکن است از کدام ریشه‌ها ناشی شود؟",
+      "answer": "ریشه‌های C4 تا C6."
+    },
+    {
+      "id": "mcq_035",
+      "section_id": "§3",
+      "item_type": "short_answer_factual",
+      "question": "درد در قسمت پایین‌کنف همان‌طرف به کدام ریشه‌ها نسبت داده می‌شود؟",
+      "answer": "C7 یا C8."
+    },
+    {
+      "id": "mcq_036",
+      "section_id": "§3.1",
+      "item_type": "short_answer_factual",
+      "question": "در فتق دیسک از نوع پروتروژن (protrusion)، نسبت عرض به عمق چگونه است؟",
+      "answer": "عرض بیشتر از عمق است."
+    },
+    {
+      "id": "mcq_037",
+      "section_id": "§3.1",
+      "item_type": "short_answer_factual",
+      "question": "در فتق دیسک از نوع اکستروژن (extrusion)، نسبت عمق به عرض چگونه است؟",
+      "answer": "عمق بیشتر از عرض است."
+    },
+    {
+      "id": "mcq_038",
+      "section_id": "§3.1",
+      "item_type": "short_answer_factual",
+      "question": "سکوستریشن (sequestration) در فتق دیسک چیست؟",
+      "answer": "جداشدگی قطعه و حرکت به بالا یا پایین پس از اکستروژن."
+    },
+    {
+      "id": "mcq_039",
+      "section_id": "§3.1",
+      "item_type": "short_answer_factual",
+      "question": "نوع خفیف‌تر فتق دیسک چیست؟",
+      "answer": "بولجینگ (bulging)."
+    },
+    {
+      "id": "mcq_040",
+      "section_id": "§3.1",
+      "item_type": "short_answer_conceptual",
+      "question": "تفاوت پروتروژن و اکستروژن از نظر آناتومی و فشار بر ریشه عصبی چیست؟",
+      "answer": "در پروتروژن عرض دیسک هرنیه از عمق آن بیشتر است و در اکستروژن عمق از عرض بیشتر است و فشار بیشتری بر ریشه عصبی اعمال می‌کند."
+    },
+    {
+      "id": "mcq_041",
+      "section_id": "§3.2",
+      "item_type": "short_answer_factual",
+      "question": "اختلال داخلی دیسک (Internal Disc Disruption - IDD) چیست؟",
+      "answer": "به‌هم‌ریختگی معماری داخلی نوکلئوس پولیوزوس و/یا رشته‌های آنولار با تغییر شکل خارجی اندک یا بدون تغییر."
+    },
+    {
+      "id": "mcq_042",
+      "section_id": "§3.2",
+      "item_type": "fill_blank",
+      "question": "IDD معمولاً با پارگی‌های ........ در قسمت‌های لترال آنولوس شروع می‌شود.",
+      "answer": "رادیال (radial)"
+    },
+    {
+      "id": "mcq_043",
+      "section_id": "§3.2",
+      "item_type": "short_answer_conceptual",
+      "question": "روند ایجاد اختلال داخلی دیسک را توضیح دهید.",
+      "answer": "با پارگی‌های رادیال در قسمت‌های لترال آنولوس شروع شده، با به هم پیوستن آن‌ها پارگی‌های سیرکامفرانشیال (circumferential) ایجاد می‌شود که همراه با از دست رفتن آب دیسک و کلاپس (collapse) شدن آن است."
+    },
+    {
+      "id": "mcq_044",
+      "section_id": "§4.1",
+      "item_type": "short_answer_factual",
+      "question": "کشیدگی (strain) گردن چه نوع آسیبی است؟",
+      "answer": "آسیب عضلانی-تاندونی ناشی از اعمال نیروهای بیش از حد و اضافه بار بر ستون فقرات گردنی."
+    },
+    {
+      "id": "mcq_045",
+      "section_id": "§4.1",
+      "item_type": "short_answer_factual",
+      "question": "رگ به رگ شدن (sprain) گردن چیست؟",
+      "answer": "کشیدگی بیش از حد یا پارگی رباط‌های ستون فقرات."
+    },
+    {
+      "id": "mcq_046",
+      "section_id": "§4.1",
+      "item_type": "short_answer_conceptual",
+      "question": "چرا کشیدگی عضلانی در ناحیه گردن شایع‌تر از رگ به رگ شدن رباطی است؟",
+      "answer": "زیرا بسیاری از عضلات گردنی از طریق بافت میوفاشیال (myofascial) مستقیماً به استخوان متصل می‌شوند و به تاندون ختم نمی‌شوند."
+    },
+    {
+      "id": "mcq_047",
+      "section_id": "§4.1",
+      "item_type": "short_answer_factual",
+      "question": "چند درصد از دردهای محوری گردن ناشی از کشیدگی و رگ به رگ شدن است؟",
+      "answer": "۸۵ درصد."
+    },
+    {
+      "id": "mcq_048",
+      "section_id": "§4.1",
+      "item_type": "short_answer_factual",
+      "question": "فرم حاد کشیدگی گردن چه نام دارد و در چه جمعیتی شایع است؟",
+      "answer": "آسیب ویپلش (Whiplash injury) و شایع‌ترین آسیب در سرنشینان وسایل نقلیه موتوری است."
+    },
+    {
+      "id": "mcq_049",
+      "section_id": "§4.1",
+      "item_type": "short_answer_factual",
+      "question": "کدام عضلات بیشتر در کشیدگی گردن درگیر می‌شوند؟",
+      "answer": "تراپزیوس فوقانی (Upper Trapezius) و استرنوکلیدوماستوئید (SCM)."
+    },
+    {
+      "id": "mcq_050",
+      "section_id": "§4.1",
+      "item_type": "short_answer_factual",
+      "question": "تشخیص کشیدگی و رگ به رگ شدن گردن بر چه اساسی است؟",
+      "answer": "بر اساس تاریخچه و معاینه فیزیکی."
+    },
+    {
+      "id": "mcq_051",
+      "section_id": "§4.1",
+      "item_type": "short_answer_factual",
+      "question": "چه علآئمی در کشیدگی گردن دیده می‌شود؟",
+      "answer": "سردرد، خستگی یا سفتی گردن که با فعالیت کاهش می‌یابد، کاهش دامنه حرکتی، و لمس دردناک."
+    },
+    {
+      "id": "mcq_052",
+      "section_id": "§4.1",
+      "item_type": "short_answer_factual",
+      "question": "آیا علآئم نورولوژیک معمولاً در کشیدگی گردن وجود دارند؟",
+      "answer": "خیر."
+    },
+    {
+      "id": "mcq_053",
+      "section_id": "§4.1",
+      "item_type": "short_answer_factual",
+      "question": "آیا مانور اسپرلینگ (Spurling's maneuver) در کشیدگی گردن باید باعث درد ارجاعی در اندام فوقانی شود؟",
+      "answer": "خیر، نباید."
+    },
+    {
+      "id": "mcq_054",
+      "section_id": "§4.1",
+      "item_type": "short_answer_conceptual",
+      "question": "ضعف ناشی از تسلیم شدن (give-way weakness) در معاینه حرکتی چه تفاوتی با ضعف واقعی عصبی دارد؟",
+      "answer": "الگوی گوی-وی (give-way) قابل افتراق از ضعف واقعی عصبی است."
+    },
+    {
+      "id": "mcq_055",
+      "section_id": "§4.1",
+      "item_type": "short_answer_factual",
+      "question": "در کشیدگی گردن، چه تصویربرداری برای ارزیابی ناپایداری اندیکاسیون دارد؟",
+      "answer": "رادیوگرافی ساده گردن در حالت فلکشن (flexion) و اکستنشن (extension) به صورت A-P و لترال."
+    },
+    {
+      "id": "mcq_056",
+      "section_id": "§4.1",
+      "item_type": "short_answer_factual",
+      "question": "چه زمانی MRI یا الکترودیاگنوستیک در کشیدگی گردن اندیکاسیون دارد؟",
+      "answer": "در صورت وجود ناهنجاری‌های عصبی یا حرکتی یا درد قابل‌توجه در اندام‌ها."
+    },
+    {
+      "id": "mcq_057",
+      "section_id": "§4.1",
+      "item_type": "short_answer_factual",
+      "question": "خط اول دارویی در کشیدگی گردن چیست؟",
+      "answer": "NSAIDs (داروهای ضدالتهاب غیراستروئیدی) و استامینوفن (پاراستامول)."
+    },
+    {
+      "id": "mcq_058",
+      "section_id": "§4.1",
+      "item_type": "short_answer_factual",
+      "question": "آیا شل‌کننده‌های عضلانی معمولاً در کشیدگی گردن تجویز می‌شوند؟",
+      "answer": "خیر، مگر در اسپاسم شدید که تیزانیدین (Tizanidine) یا داروهای ضدافسردگی سه‌حلقه‌ای ممکن است تجویز شوند."
+    },
+    {
+      "id": "mcq_059",
+      "section_id": "§4.1",
+      "item_type": "short_answer_factual",
+      "question": "روش‌های فیزیکی در درمان کشیدگی گردن کدامند؟",
+      "answer": "ماساژ، گرمای سطحی و عمقی، تحریک الکتریکی."
+    },
+    {
+      "id": "mcq_060",
+      "section_id": "§4.1",
+      "item_type": "short_answer_factual",
+      "question": "گردنبند طبی نرم (soft cervical collar) در کشیدگی گردن چه کاربردی دارد و مدت استفاده از آن چقدر است؟",
+      "answer": "کاهش اختلالات خواب و کشش گردن، استفاده محدود به ۷۲ ساعت اول."
+    },
+    {
+      "id": "mcq_061",
+      "section_id": "§4.1",
+      "item_type": "short_answer_factual",
+      "question": "بازگشت تدریجی به فعالیت در کشیدگی گردن پس از چه مدتی آغاز می‌شود؟",
+      "answer": "۲ تا ۴ هفته پس از آسیب."
+    },
+    {
+      "id": "mcq_062",
+      "section_id": "§4.2",
+      "item_type": "short_answer_conceptual",
+      "question": "تفاوت درد رادیکوالر گردنی و رادیکولوپاتی گردنی چیست؟",
+      "answer": "درد رادیکوالر نشان‌دهنده تحریک‌پذیری بیش از حد ریشه عصبی است، در حالی که رادیکولوپاتی شامل نقایص رفلکسی و قدرتی ناشی از افت عملکرد ریشه عصبی است."
+    },
+    {
+      "id": "mcq_063",
+      "section_id": "§4.2",
+      "item_type": "short_answer_factual",
+      "question": "در رادیکولوپاتی گردنی، شدت کدام درد بیشتر است، درد اندام فوقانی یا درد گردن؟",
+      "answer": "درد اندام فوقانی."
+    },
+    {
+      "id": "mcq_064",
+      "section_id": "§4.2",
+      "item_type": "fill_blank",
+      "question": "ترتیب درگیری ریشه‌های عصبی گردنی از شایع به کمتر عبارت است از: .........",
+      "answer": "C7 > C6 > C8 > C5"
+    },
+    {
+      "id": "mcq_065",
+      "section_id": "§4.2",
+      "item_type": "short_answer_factual",
+      "question": "دومین علت شایع رادیکولوپاتی گردنی چیست؟",
+      "answer": "تغییرات اسپوندیلیتیک (آرتروزی)."
+    },
+    {
+      "id": "mcq_066",
+      "section_id": "§4.2",
+      "item_type": "short_answer_factual",
+      "question": "درد در لبه داخلی کتف مربوط به کدام ریشه‌هاست؟",
+      "answer": "C5, C6, C7."
+    },
+    {
+      "id": "mcq_067",
+      "section_id": "§4.2",
+      "item_type": "short_answer_factual",
+      "question": "درد در ناحیه ذوزنقه‌ای فوقانی ترجیحاً مربوط به کدام ریشه است؟",
+      "answer": "C5 (یا C6)."
+    },
+    {
+      "id": "mcq_068",
+      "section_id": "§4.2",
+      "item_type": "short_answer_factual",
+      "question": "درد در ناحیه پریکوردیوم (سودوآنژین) مربوط به کدام ریشه‌هاست؟",
+      "answer": "C5, C6."
+    },
+    {
+      "id": "mcq_069",
+      "section_id": "§4.2",
+      "item_type": "short_answer_factual",
+      "question": "درد در ناحیه اینسرشن دلتوئید و بازوی خارجی ترجیحاً مربوط به کدام ریشه است؟",
+      "answer": "C5 (با C5, C6)."
+    },
+    {
+      "id": "mcq_070",
+      "section_id": "§4.2",
+      "item_type": "short_answer_factual",
+      "question": "درد در بازوی پشتی داخلی مربوط به کدام ریشه است؟",
+      "answer": "C7."
+    },
+    {
+      "id": "mcq_071",
+      "section_id": "§4.2",
+      "item_type": "short_answer_factual",
+      "question": "درد در ساعد جلویی خارجی ترجیحاً مربوط به کدام ریشه است؟",
+      "answer": "C6 (با C6, C7)."
+    },
+    {
+      "id": "mcq_072",
+      "section_id": "§4.2",
+      "item_type": "short_answer_factual",
+      "question": "درد در ساعد پشتی ترجیحاً مربوط به کدام ریشه است؟",
+      "answer": "C7 (یا C8)."
+    },
+    {
+      "id": "mcq_073",
+      "section_id": "§4.2",
+      "item_type": "short_answer_factual",
+      "question": "درد در انگشتان مربوط به کدام ریشه‌هاست؟",
+      "answer": "C6 تا C8 یا T1."
+    },
+    {
+      "id": "mcq_074",
+      "section_id": "§4.2",
+      "item_type": "short_answer_factual",
+      "question": "در رادیکولوپاتی گردنی، وضعیت فلکشن گردن چه اثری بر درد دارد؟",
+      "answer": "تسکین درد."
+    },
+    {
+      "id": "mcq_075",
+      "section_id": "§4.2",
+      "item_type": "short_answer_factual",
+      "question": "وضعیت اکستنشن گردن در رادیکولوپاتی گردنی چه اثری بر درد دارد؟",
+      "answer": "تشدید درد."
+    },
+    {
+      "id": "mcq_076",
+      "section_id": "§4.2",
+      "item_type": "short_answer_factual",
+      "question": "نشانه تسکین با ابداکشن شانه (Shoulder Abduction Sign) چیست؟",
+      "answer": "بالا بردن بازوی همان‌طرف بالاتر از سر که درد رادیکوالر را تسکین می‌دهد."
+    },
+    {
+      "id": "mcq_077",
+      "section_id": "§4.2",
+      "item_type": "short_answer_factual",
+      "question": "در معاینه فیزیکی رادیکولوپاتی گردنی، سر به کدام سمت کج می‌شود؟",
+      "answer": "به سمت محل فتق دیسک."
+    },
+    {
+      "id": "mcq_078",
+      "section_id": "§4.2",
+      "item_type": "short_answer_factual",
+      "question": "آتروفی (تحلیل عضلانی) در ضایعه ریشه C5/C6 در کدام عضلات دیده می‌شود؟",
+      "answer": "در حفره سوپرا/اینفرااسپیناتوس یا دلتوئید."
+    },
+    {
+      "id": "mcq_079",
+      "section_id": "§4.2",
+      "item_type": "short_answer_factual",
+      "question": "آتروفی در ضایعه ریشه C7 در کدام عضله دیده می‌شود؟",
+      "answer": "سه‌سر بازویی (triceps)."
+    },
+    {
+      "id": "mcq_080",
+      "section_id": "§4.2",
+      "item_type": "short_answer_factual",
+      "question": "آتروفی در ضایعه ریشه C8 در کدام ناحیه دیده می‌شود؟",
+      "answer": "برجستگی تنار (thenar eminence)."
+    },
+    {
+      "id": "mcq_081",
+      "section_id": "§4.2",
+      "item_type": "short_answer_factual",
+      "question": "آتروفی در ضایعه ریشه T1 در کدام عضله دیده می‌شود؟",
+      "answer": "اولین دورسال اینتراسئی (first dorsal interosseous)."
+    },
+    {
+      "id": "mcq_082",
+      "section_id": "§4.2",
+      "item_type": "short_answer_conceptual",
+      "question": "تست دستی عضلات در مقایسه با ناهنجاری‌های رفلکسی یا حسی چه ویژگی دارد؟",
+      "answer": "ویژگی (specificity) بیشتری دارد."
+    },
+    {
+      "id": "mcq_083",
+      "section_id": "§4.2",
+      "item_type": "short_answer_factual",
+      "question": "چه سطحی از ضعف عضلانی (کمتر از چند؟) با ضایعه تک‌ریشه‌ای ناسازگار است و به رادیکولوپاتی چندسطحی یا شدید شک می‌کند؟",
+      "answer": "کمتر از ۳/۵."
+    },
+    {
+      "id": "mcq_084",
+      "section_id": "§4.2",
+      "item_type": "essay",
+      "question": "مانور اسپرلینگ (Spurling's maneuver) را توضیح دهید (چه کاری انجام می‌شود، تفسیر نتایج).",
+      "answer": "مانور اسپرلینگ شامل اکستنشن گردن، خم کردن جانبی (لترال فلکشن) و چرخش محوری به همان‌طرف است که علآئم رادیکولار را بازتولید می‌کند. این تست ویژگی (specificity) بالا و حساسیت (sensitivity) پایینی دارد."
+    },
+    {
+      "id": "mcq_085",
+      "section_id": "§4.2",
+      "item_type": "essay",
+      "question": "مانور کشش ریشه عصبی (Nerve Root Tension) را توضیح دهید.",
+      "answer": "مانور کشش ریشه عصبی شامل چرخش محوری گردن به سمت مقابل، همزمان با ابداکشن/اکستنشن شانه (گلنوهومرال) در همان‌طرف، همراه با اکستنشن آرنج و مچ دست است. این مانور حساس‌تر از اسپرلینگ است اما اختصاصیت کمتری دارد و باید به صورت دوطرفه انجام شود."
+    },
+    {
+      "id": "mcq_086",
+      "section_id": "§4.2",
+      "item_type": "short_answer_factual",
+      "question": "کدام عضلات با ریشه‌های C5/C6 در ارتباط هستند؟",
+      "answer": "دلتوئید، دوسر (biceps)، سوپرا و اینفرااسپیناتوس."
+    },
+    {
+      "id": "mcq_087",
+      "section_id": "§4.2",
+      "item_type": "short_answer_factual",
+      "question": "کدام عضلات با ریشه C7 در ارتباط هستند؟",
+      "answer": "سه‌سر (triceps) و پروناتور ترس (pronator teres)."
+    },
+    {
+      "id": "mcq_088",
+      "section_id": "§4.2",
+      "item_type": "short_answer_factual",
+      "question": "تشخیص رادیکولوپاتی گردنی معمولاً بر چه اساسی است؟",
+      "answer": "شرح حال و معاینه فیزیکی."
+    },
+    {
+      "id": "mcq_089",
+      "section_id": "§4.2",
+      "item_type": "short_answer_factual",
+      "question": "گرافی ساده گردن در چه مواردی برای ارزیابی پایداری اندیکاسیون دارد؟",
+      "answer": "آرتریت روماتوئید، اسپوندیلیت آنکیلوزان، اسپوندیلولیستزیس، پس از فیوژن (fusion)، یا آسیب‌های تروماتیک."
+    },
+    {
+      "id": "mcq_090",
+      "section_id": "§4.2",
+      "item_type": "short_answer_factual",
+      "question": "آیا برای شروع درمان رادیکولوپاتی گردنی، MRI ضروری است؟",
+      "answer": "خیر."
+    },
+    {
+      "id": "mcq_091",
+      "section_id": "§4.2",
+      "item_type": "short_answer_factual",
+      "question": "جایگزین MRI در بیماران با ضربان‌ساز یا دریچه مصنوعی قلب چیست؟",
+      "answer": "سی‌تی اسکن (CT) با کنتراست."
+    },
+    {
+      "id": "mcq_092",
+      "section_id": "§4.2",
+      "item_type": "short_answer_conceptual",
+      "question": "کاربرد ارزیابی الکترودیاگنوستیک (نوار عصب و عضله) در رادیکولوپاتی گردنی چیست و چه زمانی از آن استفاده می‌شود؟",
+      "answer": "برای ارزیابی عملکرد نوروفیزیولوژیک، تعیین پیش‌آگهی، و رد تشخیص‌های دیگر (ضایعات شبکه بازویی، گیر افتادگی‌های موضعی)؛ زمانی که MRI دوپهلو یا با علآئم همخوانی ندارد یا پاتولوژی دیگری محتمل است."
+    },
+    {
+      "id": "mcq_093",
+      "section_id": "§4.2",
+      "item_type": "short_answer_factual",
+      "question": "در درمان رادیکولوپاتی گردنی، از چه وضعیت‌هایی باید خودداری کرد؟",
+      "answer": "از بلند کردن مکرر و سنگین اجسام، و وضعیت‌های اکستنشن، چرخش محوری و فلکشن به همان‌طرف."
+    },
+    {
+      "id": "mcq_094",
+      "section_id": "§4.2",
+      "item_type": "short_answer_factual",
+      "question": "مدت و تکرار استفاده از سرما در رادیکولوپاتی گردنی چقدر است؟",
+      "answer": "۱۵ تا ۳۰ دقیقه، ۱ تا ۴ بار در روز."
+    },
+    {
+      "id": "mcq_095",
+      "section_id": "§4.2",
+      "item_type": "short_answer_factual",
+      "question": "مدت و تکرار استفاده از گرمای سطحی در رادیکولوپاتی گردنی چقدر است؟",
+      "answer": "تا ۳۰ دقیقه، ۲ تا ۳ بار در روز."
+    },
+    {
+      "id": "mcq_096",
+      "section_id": "§4.2",
+      "item_type": "short_answer_conceptual",
+      "question": "مکانیسم اثر تحریک الکتریکی عصب (TENS) چیست و چه مزیت و محدودیتی دارد؟",
+      "answer": "از طریق نظریه دروازه درد (Gate Theory) عمل می‌کند. با قطع، اثر درمانی از بین می‌رود اما در خانه قابل استفاده است."
+    },
+    {
+      "id": "mcq_097",
+      "section_id": "§4.2",
+      "item_type": "short_answer_factual",
+      "question": "گردنبند نرم (soft collar) چه میزان فلکشن و اکستنشن گردن را محدود می‌کند؟",
+      "answer": "تا حدود ۲۶ درصد."
+    },
+    {
+      "id": "mcq_098",
+      "section_id": "§4.2",
+      "item_type": "short_answer_factual",
+      "question": "بخش باریکتر گردنبند نرم در کدام سمت قرار می‌گیرد؟",
+      "answer": "در جلو (قدام)."
+    },
+    {
+      "id": "mcq_099",
+      "section_id": "§4.2",
+      "item_type": "short_answer_factual",
+      "question": "چه مواردی استثنا در استفاده از گردنبند نرم هستند؟",
+      "answer": "علآئم میلوپاتی (لرمیت مثبت)، آرتریت روماتوئید، نیمه‌دررفتگی آتلانتواکسیال."
+    },
+    {
+      "id": "mcq_100",
+      "section_id": "§4.2",
+      "item_type": "short_answer_factual",
+      "question": "مدت استفاده از گردنبند نرم در رادیکولوپاتی گردنی چقدر است؟",
+      "answer": "هفته اول یا دوم."
+    },
+    {
+      "id": "mcq_101",
+      "section_id": "§4.2",
+      "item_type": "short_answer_factual",
+      "question": "نیروی کشش گردن (cervical traction) در درمان رادیکولوپاتی گردنی چقدر است؟",
+      "answer": "۲۵ پوند."
+    },
+    {
+      "id": "mcq_102",
+      "section_id": "§4.2",
+      "item_type": "short_answer_factual",
+      "question": "مدت زمان هر جلسه کشش گردن چقدر است؟",
+      "answer": "۲۵ دقیقه."
+    },
+    {
+      "id": "mcq_103",
+      "section_id": "§4.2",
+      "item_type": "short_answer_factual",
+      "question": "زاویه کشش مناسب در وضعیت فلکشن چند درجه است؟",
+      "answer": "۲۴ درجه."
+    },
+    {
+      "id": "mcq_104",
+      "section_id": "§4.2",
+      "item_type": "short_answer_factual",
+      "question": "موارد منع مصرف کشش گردن کدامند؟",
+      "answer": "میلوپاتی، لرمیت مثبت، آرتریت روماتوئید، نیمه‌دررفتگی آتلانتواکسیال."
+    },
+    {
+      "id": "mcq_105",
+      "section_id": "§4.2",
+      "item_type": "short_answer_factual",
+      "question": "خط اول دارویی در رادیکولوپاتی گردنی چیست؟",
+      "answer": "NSAIDs (داروهای ضدالتهاب غیراستروئیدی)."
+    },
+    {
+      "id": "mcq_106",
+      "section_id": "§4.2",
+      "item_type": "short_answer_factual",
+      "question": "دوز پایین NSAIDs چه اثری دارد؟",
+      "answer": "ضد درد."
+    },
+    {
+      "id": "mcq_107",
+      "section_id": "§4.2",
+      "item_type": "short_answer_factual",
+      "question": "دوز بالای NSAIDs چه اثری دارد؟",
+      "answer": "ضدالتهاب."
+    },
+    {
+      "id": "mcq_108",
+      "section_id": "§4.2",
+      "item_type": "short_answer_factual",
+      "question": "مدت مصرف شل‌کننده‌های عضلانی در رادیکولوپاتی گردنی چند روز است؟",
+      "answer": "۵ تا ۷ روز."
+    },
+    {
+      "id": "mcq_109",
+      "section_id": "§4.2",
+      "item_type": "short_answer_factual",
+      "question": "دوز آمی‌تریپتیلین یا نورتریپتیلین برای خواب در رادیکولوپاتی گردنی چقدر است؟",
+      "answer": "۱۰ تا ۲۵ میلی‌گرم هنگام خواب."
+    },
+    {
+      "id": "mcq_110",
+      "section_id": "§4.2",
+      "item_type": "short_answer_factual",
+      "question": "دوز گاباپنتین (gabapentin) روزانه در رادیکولوپاتی گردنی چقدر است (محدوده و حداکثر)؟",
+      "answer": "۳۰۰ تا ۹۰۰ میلی‌گرم در روز، نهایتاً ۳۶۰۰ میلی‌گرم در روز."
+    },
+    {
+      "id": "mcq_111",
+      "section_id": "§4.2",
+      "item_type": "short_answer_factual",
+      "question": "چه موقع از مسکن‌های مخدر (opiate analgesics) در رادیکولوپاتی گردنی استفاده می‌شود؟",
+      "answer": "در صورت شدت درد رادیکوالر به طور کوتاه‌مدت."
+    },
+    {
+      "id": "mcq_112",
+      "section_id": "§4.2",
+      "item_type": "short_answer_factual",
+      "question": "آیا استروئیدها در گایدلاین رادیکولوپاتی گردنی ذکر شده‌اند؟",
+      "answer": "خیر، اما بر اساس تجربه می‌توانند مفید باشند."
+    },
+    {
+      "id": "mcq_113",
+      "section_id": "§4.2",
+      "item_type": "short_answer_factual",
+      "question": "دوز پیشنهادی استروئید خوراکی در رادیکولوپاتی گردنی بر اساس برخی منابع چیست؟",
+      "answer": "شروع با ۱ میلی‌گرم/کیلوگرم که به تدریج تیپر (taper) شود."
+    },
+    {
+      "id": "mcq_114",
+      "section_id": "§4.2",
+      "item_type": "short_answer_factual",
+      "question": "چند درصد بیماران با درمان محافظه‌کارانه در رادیکولوپاتی گردنی بهبود می‌یابند؟",
+      "answer": "۸۵ تا ۹۰ درصد."
+    },
+    {
+      "id": "mcq_115",
+      "section_id": "§4.2",
+      "item_type": "short_answer_factual",
+      "question": "اندیکاسیون‌های جراحی در رادیکولوپاتی گردنی چیست؟",
+      "answer": "درد غیرقابل کنترل به مدت ۴ تا ۶ هفته، نقص شدید میوتومال (پیشرونده یا ثابت)، یا پیشرفت به سمت میلوپاتی."
+    },
+    {
+      "id": "mcq_116",
+      "section_id": "§4.3",
+      "item_type": "short_answer_factual",
+      "question": "شایع‌ترین ضایعه طناب نخاعی گردنی پس از میانسالی چیست؟",
+      "answer": "میلوپاتی اسپوندیلیتیک گردنی (cervical spondylotic myelopathy)."
+    },
+    {
+      "id": "mcq_117",
+      "section_id": "§4.3",
+      "item_type": "short_answer_factual",
+      "question": "میانگین سن شروع میلوپاتی اسپوندیلیتیک گردنی چه زمانی است؟",
+      "answer": "بعد از ۵۰ سالگی."
+    },
+    {
+      "id": "mcq_118",
+      "section_id": "§4.3",
+      "item_type": "short_answer_factual",
+      "question": "میلوپاتی اسپوندیلیتیک گردنی در کدام جنس شیوع بیشتری دارد؟",
+      "answer": "در مردان."
+    },
+    {
+      "id": "mcq_119",
+      "section_id": "§4.3",
+      "item_type": "short_answer_factual",
+      "question": "علآئم حسی شایع در میلوپاتی گردنی چیست؟",
+      "answer": "بی‌حسی و گزگز (پارستزی) در اندام‌های دیستال."
+    },
+    {
+      "id": "mcq_120",
+      "section_id": "§4.3",
+      "item_type": "short_answer_factual",
+      "question": "ضعف در میلوپاتی گردنی در کدام اندام‌ها بیشتر است؟",
+      "answer": "در اندام تحتانی بیشتر از اندام فوقانی."
+    },
+    {
+      "id": "mcq_121",
+      "section_id": "§4.3",
+      "item_type": "short_answer_factual",
+      "question": "چند درصد بیماران مبتلا به میلوپاتی گردنی، درد محوری گردن را به عنوان شکایت اصلی دارند؟",
+      "answer": "حدود ۷۰ درصد."
+    },
+    {
+      "id": "mcq_122",
+      "section_id": "§4.3",
+      "item_type": "short_answer_factual",
+      "question": "روند طبیعی میلوپاتی گردنی چگونه است؟",
+      "answer": "افت اولیه و سپس یک دوره ثابت که می‌تواند چندین سال طول بکشد."
+    },
+    {
+      "id": "mcq_123",
+      "section_id": "§4.3",
+      "item_type": "short_answer_factual",
+      "question": "اختلال عملکرد مثانه در چه نسبتی از موارد میلوپاتی گردنی رخ می‌دهد و چه معنایی دارد؟",
+      "answer": "حدود یک سوم موارد، نشان‌دهنده آسیب شدیدتر به طناب نخاعی است."
+    },
+    {
+      "id": "mcq_124",
+      "section_id": "§4.3",
+      "item_type": "short_answer_factual",
+      "question": "ضعف و تحلیل عضلات اینترینسیک (intrinsic) دست در میلوپاتی گردنی به دلیل آسیب کدام سلول‌هاست؟",
+      "answer": "سلول‌های شاخ قدامی."
+    },
+    {
+      "id": "mcq_125",
+      "section_id": "§4.3",
+      "item_type": "short_answer_factual",
+      "question": "اختلال در حس درد و دما در میلوپاتی گردنی نشان‌دهنده آسیب به کدام مسیر عصبی است؟",
+      "answer": "مسیرهای نخاعی-تالاموسی (spinothalamic)."
+    },
+    {
+      "id": "mcq_126",
+      "section_id": "§4.3",
+      "item_type": "short_answer_factual",
+      "question": "اختلال در حس درد و دما در میلوپاتی گردنی به چه صورتی تظاهر می‌کند؟",
+      "answer": "به صورت سطح اختلال حسی در ناحیه سینه‌ای یا کمری، یا توزیع دستکش و جوراب (glove and stocking)."
+    },
+    {
+      "id": "mcq_127",
+      "section_id": "§4.3",
+      "item_type": "short_answer_factual",
+      "question": "اختلال در حس عمقی (پروپریوسپشن) و ارتعاش در میلوپاتی گردنی نشان‌دهنده آسیب به کدام ساختار است؟",
+      "answer": "ستون خلفی (posterior columns) نخاع."
+    },
+    {
+      "id": "mcq_128",
+      "section_id": "§4.3",
+      "item_type": "short_answer_factual",
+      "question": "اختلال در حس عمقی و ارتعاش در میلوپاتی گردنی در کدام اندام‌ها شایع‌تر است؟",
+      "answer": "در اندام‌های تحتانی شایع‌تر از فوقانی."
+    },
+    {
+      "id": "mcq_129",
+      "section_id": "§4.3",
+      "item_type": "short_answer_factual",
+      "question": "نشانه‌های نورون حرکتی فوقانی (Upper Motor Neuron Signs) در میلوپاتی گردنی کدامند؟",
+      "answer": "نشانه هافمن (Hoffman sign)، رفلکس‌های پرشتاب (brisk)، و نشانه‌های بابینسکی (Babinski)."
+    },
+    {
+      "id": "mcq_130",
+      "section_id": "§4.3",
+      "item_type": "short_answer_factual",
+      "question": "چند درصد افراد زیر ۶۴ سال تنگی مجرای مرکزی گردن بدون علامت دارند؟",
+      "answer": "۱۶ درصد."
+    },
+    {
+      "id": "mcq_131",
+      "section_id": "§4.3",
+      "item_type": "short_answer_factual",
+      "question": "چه میزان کاهش در سطح مقطع ستون فقرات گردنی حداقل برای ایجاد علآئم در بیماران لازم است؟",
+      "answer": "کاهش ۳۰ درصدی."
+    },
+    {
+      "id": "mcq_132",
+      "section_id": "§4.3",
+      "item_type": "short_answer_factual",
+      "question": "برای تشخیص دقیق میلوپاتی اسپوندیلیتیک گردنی، چه تغییراتی در تصویربرداری باید دیده شود؟",
+      "answer": "فقدان جریان مایع مغزی نخاعی (CSF)، تغییر شکل طناب نخاعی، یا ناهنجاری‌های سیگنال درون‌نخاعی."
+    },
+    {
+      "id": "mcq_133",
+      "section_id": "§4.3",
+      "item_type": "short_answer_conceptual",
+      "question": "کاربرد پتانسیل‌های برانگیخته حسی-پیکری (SSEP) در میلوپاتی گردنی چیست و چه افتراقی را ممکن می‌سازد؟",
+      "answer": "برای تشخیص درگیری تحت‌بالینی طناب نخاعی زمانی که شکایت اصلی درد محوری یا رادیکوالر است، و میلوپاتی گردنی را از مولتیپل اسکلروزیس (MS) بر اساس الگوی ناهنجاری‌ها افتراق می‌دهد."
+    },
+    {
+      "id": "mcq_134",
+      "section_id": "§4.3",
+      "item_type": "short_answer_factual",
+      "question": "چه عواملی با پیش‌آگهی بدتر و پیشرفت سریع‌تر در میلوپاتی گردنی مرتبط است؟",
+      "answer": "سن بالای ۶۰ سال و علآئم میلوپاتیک دوطرفه و شدیدتر در زمان مراجعه اولیه."
+    },
+    {
+      "id": "mcq_135",
+      "section_id": "§4.3",
+      "item_type": "short_answer_factual",
+      "question": "آیا مداخلات غیرجراحی در میلوپاتی گردنی اثبات شده‌اند؟",
+      "answer": "خیر، مفید بودن آن‌ها اثبات نشده است."
+    },
+    {
+      "id": "mcq_136",
+      "section_id": "§4.3",
+      "item_type": "short_answer_factual",
+      "question": "چه درمانی برای میلوپاتی متوسط تا شدید توصیه می‌شود؟",
+      "answer": "جراحی."
+    },
+    {
+      "id": "mcq_137",
+      "section_id": "§4.3",
+      "item_type": "short_answer_factual",
+      "question": "فاکتورهای پیش‌بینی‌کننده بهبودی پس از جراحی در میلوپاتی گردنی کدامند؟",
+      "answer": "شدت میلوپاتی قبل از عمل، سطح مقطع بزرگتر نخاع، سن کمتر، درگیری یک سطح به جای چند سطح، و مدت زمان کوتاه‌تر وجود علآئم."
+    },
+    {
+      "id": "mcq_138",
+      "section_id": "§5.1",
+      "item_type": "short_answer_factual",
+      "question": "تعریف کیفواسکولیوز (kyphoscoliosis) چیست و چگونه تشخیص داده می‌شود؟",
+      "answer": "ترکیب اسکولیوز (انحراف به راست یا چپ) با مال‌الاینمنت و چرخش (rotation) مهره‌ها که سبب چرخش دنده‌ها و قوز سینه‌ای (thoracic hump) می‌شود و با تست آدامز (Adams test) در نمای خلفی تشخیص داده می‌شود."
+    },
+    {
+      "id": "mcq_139",
+      "section_id": "§5.1",
+      "item_type": "short_answer_factual",
+      "question": "شایع‌ترین نوع اسکولیوز چیست؟",
+      "answer": "اسکولیوز ایدیوپاتیک."
+    },
+    {
+      "id": "mcq_140",
+      "section_id": "§5.1",
+      "item_type": "short_answer_factual",
+      "question": "نوع اینفنتیل (infantile) اسکولیوز ایدیوپاتیک در چه سنی رخ می‌دهد؟",
+      "answer": "از بدو تولد تا ۳ سالگی."
+    },
+    {
+      "id": "mcq_141",
+      "section_id": "§5.1",
+      "item_type": "short_answer_factual",
+      "question": "نوع جونیل (juvenile) اسکولیوز ایدیوپاتیک در چه سنی رخ می‌دهد؟",
+      "answer": "از ۴ سالگی تا شروع بلوغ."
+    },
+    {
+      "id": "mcq_142",
+      "section_id": "§5.1",
+      "item_type": "short_answer_factual",
+      "question": "نوع ادولسنس (adolescent) اسکولیوز ایدیوپاتیک در چه سنی رخ می‌دهد؟",
+      "answer": "پس از شروع بلوغ."
+    },
+    {
+      "id": "mcq_143",
+      "section_id": "§5.1",
+      "item_type": "short_answer_factual",
+      "question": "چه زمانی اسکولیوز ایدیوپاتیک تشخیص داده می‌شود؟",
+      "answer": "زمانی که هیچگونه آنومالی دیگری در بررسی‌ها مشاهده نشود."
+    },
+    {
+      "id": "mcq_144",
+      "section_id": "§5.1",
+      "item_type": "short_answer_factual",
+      "question": "محدوده زاویه کاب (Cobb angle) برای اسکولیوز خفیف چیست؟",
+      "answer": "۱۰ تا ۲۵ درجه."
+    },
+    {
+      "id": "mcq_145",
+      "section_id": "§5.1",
+      "item_type": "short_answer_factual",
+      "question": "درمان اسکولیوز خفیف چیست؟",
+      "answer": "درمان حفاظتی و فالوآپ."
+    },
+    {
+      "id": "mcq_146",
+      "section_id": "§5.1",
+      "item_type": "short_answer_factual",
+      "question": "محدوده زاویه کاب برای اسکولیوز متوسط چیست؟",
+      "answer": "۲۵ تا ۴۵ درجه."
+    },
+    {
+      "id": "mcq_147",
+      "section_id": "§5.1",
+      "item_type": "short_answer_factual",
+      "question": "درمان اسکولیوز متوسط چیست؟",
+      "answer": "ارتز (بریس)."
+    },
+    {
+      "id": "mcq_148",
+      "section_id": "§5.1",
+      "item_type": "short_answer_factual",
+      "question": "بریس انتخابی در اسکولیوز متوسط چیست و چه مشخصاتی دارد؟",
+      "answer": "CTLSO (میلواکی) که گردن را نیز دربر می‌گیرد و بیمار باید ۲۳ تا ۲۴ ساعت در روز آن را بپوشد."
+    },
+    {
+      "id": "mcq_149",
+      "section_id": "§5.1",
+      "item_type": "short_answer_factual",
+      "question": "چه زمانی می‌توان از TLSO به جای CTLSO در اسکولیوز استفاده کرد؟",
+      "answer": "زمانی که مرز فوقانی اسکولیوز از T9 پایین‌تر باشد."
+    },
+    {
+      "id": "mcq_150",
+      "section_id": "§5.1",
+      "item_type": "short_answer_factual",
+      "question": "زاویه کاب برای اسکولیوز شدید چند درجه است و درمان آن چیست؟",
+      "answer": "≥ ۴۵ درجه و درمان جراحی."
+    },
+    {
+      "id": "mcq_151",
+      "section_id": "§5.2",
+      "item_type": "short_answer_factual",
+      "question": "نقطه برش (cutoff) رایج برای هایپرکیفوزیس (hyperkyphosis) در بزرگسالان مسن چند درجه است؟",
+      "answer": "≥ ۴۰ درجه."
+    },
+    {
+      "id": "mcq_152",
+      "section_id": "§5.2",
+      "item_type": "short_answer_factual",
+      "question": "تا چند درجه کیفوز تقریباً نرمال تلقی می‌شود؟",
+      "answer": "تا ۵۰ درجه."
+    },
+    {
+      "id": "mcq_153",
+      "section_id": "§5.2",
+      "item_type": "short_answer_factual",
+      "question": "محدوده کیفوز ۵۰ تا ۷۰ درجه چه درمانی دارد؟",
+      "answer": "اصلاح با بریس."
+    },
+    {
+      "id": "mcq_154",
+      "section_id": "§5.2",
+      "item_type": "short_answer_factual",
+      "question": "کیفوز بیشتر از ۷۰ درجه چه درمانی دارد؟",
+      "answer": "اصلاح جراحی."
+    },
+    {
+      "id": "mcq_155",
+      "section_id": "§5.2",
+      "item_type": "short_answer_conceptual",
+      "question": "تفاوت هایپرکیفوزیس استراکچرال (structural) و فانکشنال (functional) چیست؟",
+      "answer": "استراکچرال ناشی از تغییرات در خود ستون مهره (ایدیوپاتیک، شکستگی، افت تراکم استخوان) است، در حالی که فانکشنال/پوسچرال شایع‌تر و قابل‌اصلاح‌تر است و با اکستنشن مهره‌های پشتی در وضعیت سوپاین یا خم شدن به جلو، کیفوز محو می‌شود."
+    },
+    {
+      "id": "mcq_156",
+      "section_id": "§5.2",
+      "item_type": "short_answer_factual",
+      "question": "هر شکستگی فشاری کامل مهره، چه میزان کاهش ارتفاع ایجاد می‌کند؟",
+      "answer": "حدود ۱ سانتی‌متر یا بیشتر."
+    },
+    {
+      "id": "mcq_157",
+      "section_id": "§5.2",
+      "item_type": "short_answer_factual",
+      "question": "از دست دادن بیش از چند سانتی‌متر در ارتفاع مهره با ۱۵ درجه کیفوز مرتبط است؟",
+      "answer": "۴ سانتی‌متر."
+    },
+    {
+      "id": "mcq_158",
+      "section_id": "§5.2",
+      "item_type": "short_answer_factual",
+      "question": "آیا تراکم استخوان پایین حتی بدون شکستگی می‌تواند کیفوز را بدتر کند؟",
+      "answer": "بله."
+    },
+    {
+      "id": "mcq_159",
+      "section_id": "§5.2",
+      "item_type": "short_answer_factual",
+      "question": "علت تغییرات پوسچرال در هایپرکیفوزیس چیست؟",
+      "answer": "ضعف عضلات اکستانسور ستون مهره‌های پشتی ناشی از بد نشستن."
+    },
+    {
+      "id": "mcq_160",
+      "section_id": "§5.3",
+      "item_type": "short_answer_factual",
+      "question": "کیفوز شوئرمن (Scheuermann's kyphosis) چه نوع کیفوزی است و در چه جمعیتی شایع است؟",
+      "answer": "نوع ایدیوپاتیک استراکچرال که عمدتاً در نوجوانان پسر دیده می‌شود."
+    },
+    {
+      "id": "mcq_161",
+      "section_id": "§5.3",
+      "item_type": "short_answer_conceptual",
+      "question": "تفاوت کیفوز شوئرمن با کیفوز پوسچرال در معاینه چیست؟",
+      "answer": "کیفوز شوئرمن صلب و سخت (rigid) است و با خم شدن به جلو، اکستنشن، یا خوابیدن به پشت صاف نمی‌شود، در حالی که کیفوز پوسچرال با این حرکات صاف می‌شود."
+    },
+    {
+      "id": "mcq_162",
+      "section_id": "§5.3",
+      "item_type": "short_answer_factual",
+      "question": "چه یافته‌های همراهی در کیفوز شوئرمن دیده می‌شود؟",
+      "answer": "افزایش جبرانی لوردوز کمری و سفت شدن عضلات همسترینگ با محدودیت در بالا بردن غیرفعال پای صاف (Passive Straight Leg Raising - PSLR)."
+    },
+    {
+      "id": "mcq_163",
+      "section_id": "§5.3",
+      "item_type": "short_answer_factual",
+      "question": "برای تشخیص کیفوز شوئرمن، چه تصویربرداری و چه معیاری لازم است؟",
+      "answer": "رادیوگرافی جانبی ایستاده با وجود گوه‌ای شدن قدامی (anterior wedging) ≥ ۵ درجه در حداقل سه جسم مهره‌ای مجاور."
+    },
+    {
+      "id": "mcq_164",
+      "section_id": "§5.3",
+      "item_type": "short_answer_factual",
+      "question": "آیا در کیفوز شوئرمن تحلیل رفتن صفحات انتهایی (end plates) مهره ممکن است دیده شود؟",
+      "answer": "بله."
+    },
+    {
+      "id": "mcq_165",
+      "section_id": "§5.3",
+      "item_type": "essay",
+      "question": "روش اندازه‌گیری زاویه کاب (Cobb angle) برای کیفوز در نمای جانبی را توضیح دهید.",
+      "answer": "در نمای جانبی، خطی از مرز فوقانی مهره شروع‌کننده انحنا (معمولاً T4) و خطی از مرز تحتانی مهره پایان‌دهنده انحنا (معمولاً T12) رسم می‌شود. سپس خطوط عمود بر این دو خط رسم می‌شوند. زاویه کاب برابر با زاویه حاد تقاطع این دو خط عمود است. برای اندازه‌گیری زاویه اسکولیوز نیز از همین روش در نمای A-P استفاده می‌شود."
+    }
+  ],
+  "status": "COMPLETE"
+}

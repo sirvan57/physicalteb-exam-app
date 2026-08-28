@@ -1,0 +1,302 @@
+{
+  "session_id": "20260827_upper_extremity_scribe_01",
+  "stage": 3,
+  "registry": [
+    {"section_id": "§1", "parent_id": null, "level": 1, "order_index": 1, "title_fa": "معاینه اندام فوقانی از لحاظ ماسکولواستکتال", "title_en": "Musculoskeletal Examination of the Upper Extremity"},
+    {"section_id": "§1.1", "parent_id": "§1", "level": 2, "order_index": 1, "title_fa": "Inspection", "title_en": "Inspection"},
+    {"section_id": "§1.2", "parent_id": "§1", "level": 2, "order_index": 2, "title_fa": "Palpation", "title_en": "Palpation"},
+    {"section_id": "§1.2.1", "parent_id": "§1.2", "level": 3, "order_index": 1, "title_fa": "Palpation سطحی", "title_en": "Superficial Palpation"},
+    {"section_id": "§1.2.2", "parent_id": "§1.2", "level": 3, "order_index": 2, "title_fa": "Palpation عمقی", "title_en": "Deep Palpation"},
+    {"section_id": "§1.3", "parent_id": "§1", "level": 2, "order_index": 3, "title_fa": "Range of Motion", "title_en": "Range of Motion"},
+    {"section_id": "§1.4", "parent_id": "§1", "level": 2, "order_index": 4, "title_fa": "معاینات نورولوژیک اندام فوقانی", "title_en": "Neurological Examination of the Upper Extremity"},
+    {"section_id": "§1.4.1", "parent_id": "§1.4", "level": 3, "order_index": 1, "title_fa": "بررسی قدرت عضلات (MMT)", "title_en": "Manual Muscle Testing (MMT)"},
+    {"section_id": "§1.4.2", "parent_id": "§1.4", "level": 3, "order_index": 2, "title_fa": "معاینه حسی (Sensory Examination)", "title_en": "Sensory Examination"},
+    {"section_id": "§1.4.3", "parent_id": "§1.4", "level": 3, "order_index": 3, "title_fa": "رفلکس‌ها", "title_en": "Reflexes"},
+    {"section_id": "§1.5", "parent_id": "§1", "level": 2, "order_index": 5, "title_fa": "تست‌های Provocative ستون فقرات گردنی", "title_en": "Provocative Tests of the Cervical Spine"},
+    {"section_id": "§1.5.1", "parent_id": "§1.5", "level": 3, "order_index": 1, "title_fa": "تست اسپرلینگ (Spurling's Test)", "title_en": "Spurling's Test"},
+    {"section_id": "§1.5.2", "parent_id": "§1.5", "level": 3, "order_index": 2, "title_fa": "تست لرمیت (Lhermitte's Sign)", "title_en": "Lhermitte's Sign"},
+    {"section_id": "§1.6", "parent_id": "§1", "level": 2, "order_index": 6, "title_fa": "تست‌های Provocative شانه", "title_en": "Provocative Tests of the Shoulder"},
+    {"section_id": "§1.6.1", "parent_id": "§1.6", "level": 3, "order_index": 1, "title_fa": "تست Yocum", "title_en": "Yocum Test"},
+    {"section_id": "§1.6.2", "parent_id": "§1.6", "level": 3, "order_index": 2, "title_fa": "تست Neer's Sign", "title_en": "Neer's Sign"},
+    {"section_id": "§1.6.3", "parent_id": "§1.6", "level": 3, "order_index": 3, "title_fa": "تست Hawkins", "title_en": "Hawkins Test"},
+    {"section_id": "§1.6.4", "parent_id": "§1.6", "level": 3, "order_index": 4, "title_fa": "تست Lift-off", "title_en": "Lift-off Test"},
+    {"section_id": "§1.6.5", "parent_id": "§1.6", "level": 3, "order_index": 5, "title_fa": "تست Patte", "title_en": "Patte Test"},
+    {"section_id": "§1.6.6", "parent_id": "§1.6", "level": 3, "order_index": 6, "title_fa": "تست Supraspinatus (Empty Can/Jobs Test)", "title_en": "Supraspinatus Test (Empty Can/Jobs Test)"},
+    {"section_id": "§1.6.7", "parent_id": "§1.6", "level": 3, "order_index": 7, "title_fa": "تست Speed", "title_en": "Speed Test"},
+    {"section_id": "§1.6.8", "parent_id": "§1.6", "level": 3, "order_index": 8, "title_fa": "تست Yergason", "title_en": "Yergason Test"},
+    {"section_id": "§1.7", "parent_id": "§1", "level": 2, "order_index": 7, "title_fa": "تست‌های Provocative آرنج", "title_en": "Provocative Tests of the Elbow"},
+    {"section_id": "§1.7.1", "parent_id": "§1.7", "level": 3, "order_index": 1, "title_fa": "تست Cozen (Resisted Wrist Extension)", "title_en": "Cozen's Test (Resisted Wrist Extension)"},
+    {"section_id": "§1.7.2", "parent_id": "§1.7", "level": 3, "order_index": 2, "title_fa": "تست Resisted Wrist Flexion and Pronation", "title_en": "Resisted Wrist Flexion and Pronation Test"},
+    {"section_id": "§1.8", "parent_id": "§1", "level": 2, "order_index": 8, "title_fa": "تست‌های Provocative سندرم تونل کارپال (CTS)", "title_en": "Provocative Tests for Carpal Tunnel Syndrome (CTS)"},
+    {"section_id": "§1.8.1", "parent_id": "§1.8", "level": 3, "order_index": 1, "title_fa": "تست Tinel's Sign", "title_en": "Tinel's Sign"},
+    {"section_id": "§1.8.2", "parent_id": "§1.8", "level": 3, "order_index": 2, "title_fa": "تست Compression", "title_en": "Compression Test"},
+    {"section_id": "§1.8.3", "parent_id": "§1.8", "level": 3, "order_index": 3, "title_fa": "تست Phalen و Reverse Phalen", "title_en": "Phalen's and Reverse Phalen's Tests"},
+    {"section_id": "§1.9", "parent_id": "§1", "level": 2, "order_index": 9, "title_fa": "Scapular Winging", "title_en": "Scapular Winging"}
+  ],
+  "sections": [
+    {
+      "section_id": "§1",
+      "bullets": [
+        {"content_ref": "b1", "text": "شروع معاینه با inspection (این اسپکشن؛ معاینه با مشاهده)، سپس palpation (پالپیشن؛ لمس)، سپس range of motion (رنج آو موشن؛ دامنه حرکتی) فعال و غیرفعال، و در نهایت معاینه نورولوژیک (حس، حرکت، رفلکس) و تست‌های provocative (پرووکیتیو؛ تحریکی) اختصاصی."}
+      ]
+    },
+    {
+      "section_id": "§1.1",
+      "bullets": [
+        {"content_ref": "b1", "text": "بررسی از ==critical==جلو==/critical== هنگام ورود: توانایی ایستادن؟"},
+        {"content_ref": "b2", "text": "اگر ایستاده: روبروی بیمار، بررسی ==critical==symmetric pattern (سیمتریک پترن؛ الگوی قرینگی)==/critical==: شانه‌ها، ستون فقرات، اندام‌ها."},
+        {"content_ref": "b3", "text": "پوزیشن آناتومیکال: پاها به اندازه عرض شانه، دست‌ها کنار بدن، کف دست جلو، شست لترال، شانه‌ها ریلکس، سر مستقیم."},
+        {"content_ref": "b4", "text": "مارکر شانه: **Acromioclavicular joint (AC joint) (ایسی جویینت؛ مفصل آکرومیوکلاویکولار)** . بررسی level (لول؛ سطح) با خط افقی موازی زمین. اگر نبود = انحنای غیرطبیعی ستون فقرات."},
+        {"content_ref": "b5", "text": "بررسی لگن: mark کردن **iliac crest (ایلیاک کرست؛ تاج خاصره)** یا **PSIS (پی‌اس‌آی‌اس؛ خار خاصره‌ای خلفی-فوقانی)** دو طرف و اتصال: خط افقی."},
+        {"content_ref": "b6", "text": "بررسی پوست: expose (اکسپوز؛ نمایان کردن) برای ضایعات: ==critical==Café-au-lait (کافه‌او‌له؛ ضایعه قهوه‌ای رنگ)، white ash leaf spots (وایت اش لیف اسپاتس؛ ضایعات برگ‌خاکستری)، port wine stains (پورت واین استینز؛ لکه‌های شرابی)==/critical== (Sturge-Weber)، flat hemangioma (فلت همانژیوما؛ همانژیوم مسطح) (Tuberous Sclerosis)."},
+        {"content_ref": "b7", "text": "بررسی ناخن‌ها و مو."},
+        {"content_ref": "b8", "text": "**تصویر چپ**: شانه‌ها هم‌سطح نیستند و فاصله دست راست از بدن بیشتر = انحراف ستون فقرات."},
+        {"content_ref": "b9", "text": "**تصویر راست**: اسکاپولای راست برجسته‌تر، زاویه تحتانی بالاتر، gap (گپ؛ فاصله) لگن و بدن نامساوی."}
+      ]
+    },
+    {
+      "section_id": "§1.2",
+      "bullets": [
+        {"content_ref": "b1", "text": "لمس به دو صورت: سطحی و عمقی."}
+      ]
+    },
+    {
+      "section_id": "§1.2.1",
+      "bullets": [
+        {"content_ref": "b1", "text": "هدف: بررسی تورم، **erythema (اریتم؛ قرمزی)** ، گرمی، اختلاف دما، تعریق دوطرفه (مقایسه با پشت دست)."},
+        {"content_ref": "b2", "text": "بررسی استخوان‌ها و مفاصل سطحی برای **effusion (افیوژن؛ تجمع مایع)** ."}
+      ]
+    },
+    {
+      "section_id": "§1.2.2",
+      "bullets": [
+        {"content_ref": "b1", "text": "هدف: بررسی ساختارهای عضلانی، اسکلتی، مفاصل عمقی. ==critical==پیدا کردن نقاط تندرنس (Tenderness)==/critical== روی مهره‌ها، مفاصل، عضلات."},
+        {"content_ref": "b2", "text": "لمس استخوان‌ها: توجه به **misalignment (میزالاینمنت؛ عدم هم‌راستایی)** ، توده، ناهنجاری، تندرنس."},
+        {"content_ref": "b3", "text": "لمس عضلات: توجه به **bulk (بالک؛ حجم)** و **tone (تون؛ تنوس)** . کشیدگی، تندرنس پوست، اندازه، شکل، سفتی، توده."},
+        {"content_ref": "b4", "text": "مفاصل قابل لمس: شانه، **elbow (البو؛ آرنج)** ، **wrist (ریست؛ مچ دست)** ، انگشتان، عضلات فلکسور/اکستنسور ساعد."},
+        {"content_ref": "b5", "text": "**مفاصل گردن**: **facet joint (فاست جویینت؛ مفصل فاست)** یا **Z joint (زی جویینت؛ مفصل زیگاپوفیز)** ، علت شایع درد اندام فوقانی. محل: ==critical==۱ سانتی‌متر لترال به اسپاینوس پروسس (Spinous Process)==/critical== مهره‌های گردن."},
+        {"content_ref": "b6", "text": "لمس گردن از occiput (اکسیپوت؛ پس‌سر): بین دو occipital protuberance (اکسیپیتال پروتوبرانس؛ برجستگی پس‌سری) و base of skull (بیس آو اسکال؛ قاعده جمجمه)."},
+        {"content_ref": "b7", "text": "لمس spinous process (اسپاینوس پروسس؛ زائده خاری) گردن یک‌یکی از بالا: ==critical==C1 و C2 قابل لمس نیستند، به تدریج قابل لمس می‌شوند. برجسته‌ترین = C7 (لندمارک)==/critical==."},
+        {"content_ref": "b8", "text": "تندرنس روی spinous process = احتمال ==critical==radiculopathy (رادیکولوپاتی؛ ریشه‌ای) توسط disc herniation (دیسک هرنیشن؛ فتق دیسک) یا پاراستزی (Paresthesia)==/critical==."},
+        {"content_ref": "b9", "text": "توجه به تندرنس و تورم عضلات پارااسپاینال."},
+        {"content_ref": "b10", "text": "سایر نواحی: **inion (اینیون؛ برجستگی پس‌سری خارجی)** ، **superior nuchal line (سوپریور نوکال لاین؛ خط پس‌سری فوقانی)** ، گره‌های لنفاوی."},
+        {"content_ref": "b11", "text": "درد **facet joint** می‌تواند عامل اصلی درد منتشر به اندام فوقانی باشد."},
+        {"content_ref": "b12", "text": "عضله مهم: **trapezius (تراپزیوس؛ ذوزنقه‌ای)** (upper, middle, lower) با **trigger point (تریگر پوینت؛ نقطه ماشه‌ای)** که می‌تواند منشأ درد باشد. لمس به افتراق درد ماسکولواسکلتال از نورولوژیک کمک می‌کند."}
+      ]
+    },
+    {
+      "section_id": "§1.3",
+      "bullets": [
+        {"content_ref": "b1", "text": "حرکات شانه: ==critical==ابداکشن، ادداکشن، فوروارد فلکشن، اکسترنال روتیشن، اینترنال روتیشن، اکستنشن، هایپراکستنشن==/critical==."},
+        {"content_ref": "b2", "text": "حرکات elbow: ==critical==فلکشن، اکستنشن، سوپینیشن، پرونیشن==/critical==."},
+        {"content_ref": "b3", "text": "حرکات wrist: ==critical==فلکشن، اکستنشن، اولنار دوپیشن، رادیال دوپیشن==/critical==."},
+        {"content_ref": "b4", "text": "حرکات انگشتان: ==critical==فلکشن، اکستنشن==/critical==."},
+        {"content_ref": "b5", "text": "حرکات شست: ==critical==ابداکشن، ادداکشن، فلکشن، اکستنشن، آپوزیشن==/critical==."},
+        {"content_ref": "b6", "text": "ROM نرمال وابسته به سن، جنس، تناسب اندام، جثه، ژنتیک. مردها محدودیت بیشتری دارند."},
+        {"content_ref": "b7", "text": "**Active (اکتیو؛ فعال)**: خود فرد حرکت را در هر ۳ plane (پلین؛ صفحه) (ساجیتال، کورونال، ترانسورس) انجام دهد."},
+        {"content_ref": "b8", "text": "**Passive (پسیو؛ غیرفعال)**: پزشک حرکت می‌دهد، بیمار ریلکس. برای افتراق ==critical==weakness (ویکنیس؛ ضعف عضلانی) از stiffness (استیفنس؛ سفتی مفصل) یا contracture (کانترکچر؛ انقباض)==/critical==."},
+        {"content_ref": "b9", "text": "مثال: اگر بیمار نتواند elbow flexion کند. اگر در حرکت Passive توانست = مشکل weakness است. اگر نتوانست = مشکل stiffness, contracture یا loose body (لوز بادی؛ جسم خارجی) است."},
+        {"content_ref": "b10", "text": "مقایسه ROM با سمت مقابل: ==critical==محدودیت در هر قسمتی = abnormal (اب نورمال؛ غیرطبیعی)==/critical==."},
+        {"content_ref": "b11", "text": "اندازه‌گیری زاویه با **goniometer (گونیومتر؛ نقاله‌ی مفصل)** : مرکز روی مفصل، بازوی ثابت در پروگزیمال، بازوی متحرک در دیستال."},
+        {"content_ref": "b12", "text": "مثال forward flexion شانه: مرکز روی شانه (لترال)، بازوی ثابت امتداد تنه، بازوی متحرک امتداد بازو، در end range (اند رنج؛ انتهای دامنه)."},
+        {"content_ref": "b13", "text": "محدوده نرمال: ==critical==فوروارد فلکشن معمولاً ۱۸۰ درجه، اکستنشن معمولاً ۹۰ درجه==/critical==."},
+        {"content_ref": "b14", "text": "اندازه‌گیری اینترنال/اکسترنال روتیشن سخت‌تر و نیازمند خط فرضی است."}
+      ]
+    },
+    {
+      "section_id": "§1.4",
+      "bullets": [
+        {"content_ref": "b1", "text": "بررسی قدرت عضلانی (MMT)، معاینه حسی، رفلکس‌ها."}
+      ]
+    },
+    {
+      "section_id": "§1.4.1",
+      "bullets": [
+        {"content_ref": "b1", "text": "بررسی قدرت گروه‌های عضلانی خاص (فلکسورهای elbow, wrist extensors, shoulder flexors). ==critical==Grading (گریدینگ؛ درجه‌بندی): 0 تا 5==/critical==."},
+        {"content_ref": "b2", "text": "**گرید 0**: هیچ قدرتی."},
+        {"content_ref": "b3", "text": "**گرید 5**: بهترین و نرمال."},
+        {"content_ref": "b4", "text": "شروع از **گرید 3**: عضله می‌تواند عملکردی (functional) باشد و فرد برای فعالیت روزمره نیاز به کمک ندارد."},
+        {"content_ref": "b5", "text": "اگر <3: فرد **weak (ویک؛ ضعیف)** و **dependent (دیپندنت؛ وابسته)** به وسایل کمک‌کننده."},
+        {"content_ref": "b6", "text": "**چک کردن قدرت 3/5**: از فرد بخواهیم elbow flexion کند. اگر در برابر جاذبه انجام دهد = ==critical==حداقل قدرت 3/5==/critical==."},
+        {"content_ref": "b7", "text": "**چک کردن قدرت 4/5**: پزشک مقاومت اعمال کند. اگر حرکت کامل انجام شود ولی نتواند مقاومت کامل را حفظ کند = ==critical==گرید 4/5==/critical==."},
+        {"content_ref": "b8", "text": "**چک کردن قدرت 5/5**: ==critical==اگر در برابر حداکثر مقاومت پزشک، حرکت کامل را حفظ کند = گرید 5/5==/critical==."},
+        {"content_ref": "b9", "text": "**اگر نتوانست در برابر جاذبه (گرید <3)**: جاذبه را حذف می‌کنیم (بیمار به پهلو می‌خوابد، حرکت در امتداد زمین). اگر توانست = ==critical==گرید 2/5==/critical==."},
+        {"content_ref": "b10", "text": "اگر در حالت حذف جاذبه هم نتوانست: عضله را برای انقباض مشاهده می‌کنیم. اگر انقباض داشت = ==critical==گرید 1/5==/critical==. اگر نداشت = ==critical==گرید 0==/critical==."},
+        {"content_ref": "b11", "text": "همین روش برای اندام تحتانی و فوقانی."},
+        {"content_ref": "b12", "text": "MMT برای عضلات intrinsic (اینتری‌نسیک؛ ذاتی) دست: از فرد بخواهید انگشتان را ابداکت کند. مقاومت گذاشته و با سمت مقابل یا فرد همسن/همجنس مقایسه شود."}
+      ]
+    },
+    {
+      "section_id": "§1.4.2",
+      "bullets": [
+        {"content_ref": "b1", "text": "معاینه حسی دو اهمیت دارد: ۱- sensory (سنسوری؛ حسی) سطحی (لمس، درد، دما). ۲- حس عمقی (وضعیت و ارتعاش از عضله، لیگامان، استخوان)."},
+        {"content_ref": "b2", "text": "هدف: تشخیص اختلال حسی مربوط به ریشه (dermatome (درماتوم؛ ناحیه پوستی)) یا عصب محیطی (peripheral nerve (پریفیرال نرو؛ عصب محیطی))."},
+        {"content_ref": "b3", "text": "مثال: گزگز انگشتان مدین (شست، سبابه، نصف حلقه) = ==critical==C6 و عصب مدین==/critical==. مقایسه حس ناحیه با ناحیه دیگر از همان درماتوم که توسط عصب دیگری عصب‌دهی می‌شود."},
+        {"content_ref": "b4", "text": "اگر اختلال حسی در هر دو ناحیه از یک درماتوم بود، مشکل از ==critical==ریشه عصب (nerve root)==/critical== است. اگر فقط در یک ناحیه بود، مشکل از ==critical==عصب محیطی==/critical== است."}
+      ]
+    },
+    {
+      "section_id": "§1.4.3",
+      "bullets": [
+        {"content_ref": "b1", "text": "رفلکس‌های بیسپس، تریسپس، براکیورادیالیس. بیمار باید ==critical==ریلکس==/critical== باشد و مفصل در mid-range (مید رنج؛ دامنه میانی) خود."}
+      ]
+    },
+    {
+      "section_id": "§1.5",
+      "bullets": [
+        {"content_ref": "b1", "text": "تست‌های تحریکی برای تشخیص رادیکولوپاتی گردنی و میلوپاتی."}
+      ]
+    },
+    {
+      "section_id": "§1.5.1",
+      "bullets": [
+        {"content_ref": "b1", "text": "هدف: تحریک ریشه عصب و تشدید علائم."},
+        {"content_ref": "b2", "text": "==critical==موارد احتیاط==/critical==: قبل از انجام، رد کردن **روماتوئید آرتریت**، **ترومای شدید گردن**، و **استئوپروز شدید**."},
+        {"content_ref": "b3", "text": "روش: بیمار گردن را ریلکس کند. پزشک به صورت ==critical==Passive==/critical== گردن را کمی اکستنت و کمی لترال فلکس (deviate) می‌کند. سپس یک **فشار آگزیال (محوری)** از بالا به پایین وارد می‌کند."},
+        {"content_ref": "b4", "text": "تفسیر: ==critical==مثبت==/critical== اگر درد تیرکشنده یا گزگز تا دست تشدید شود. همراه با تندرنس روی spinous process = ==critical==ریشه درگیری (root involvement) و رادیکولوپاتی==/critical==."}
+      ]
+    },
+    {
+      "section_id": "§1.5.2",
+      "bullets": [
+        {"content_ref": "b1", "text": "هدف: شک به upper motor neuron disease (آپر موتور نیورون دیزیز؛ بیماری نورون حرکتی فوقانی) مثل **MS** و **ALS**."},
+        {"content_ref": "b2", "text": "روش: بیمار کاملاً ریلکس. پزشک به صورت **Passive** فلکشن گردن انجام می‌دهد."},
+        {"content_ref": "b3", "text": "تفسیر: ==critical==مثبت==/critical== اگر درد با کیفیت الکتریکی/تیرکشنده در طول هر دو اندام فوقانی و تا ناحیه توراسیک و پشت ایجاد شود."},
+        {"content_ref": "b4", "text": "در صورت مثبت: بررسی ==critical**هایپررفلکسی، کلونوس، بابنسکی، هافمن**==/critical== و شرح حال تاری دید/دوبینی. گاهی در **میلوپاتی** هم دیده می‌شود."}
+      ]
+    },
+    {
+      "section_id": "§1.6",
+      "bullets": [
+        {"content_ref": "b1", "text": "شایع‌ترین علت درد شانه: ==critical==rotator cuff (روتیتور کاف؛ کلاهک گرداننده) تاندینیت یا impingement (ایمپینجمنت؛ گیرافتادگی)==/critical== و تاندینیت بیسپس."},
+        {"content_ref": "b2", "text": "عضلات rotator cuff: ==critical**supraspinatus (سوپراسپیناتوس؛ فوق‌خاری)، infraspinatus (اینفراسپیناتوس؛ تحت‌خاری)، teres minor (ترس ماینور؛ گرد کوچک)، subscapularis (ساب‌اسکاپولاریس؛ زیر‌کتفی)**==/critical==."}
+      ]
+    },
+    {
+      "section_id": "§1.6.1",
+      "bullets": [
+        {"content_ref": "b1", "text": "روش: بیمار دست دردناک را روی شانه مخالف بگذارد، کاملاً ریلکس. پزشک **elbow** را به سمت بالا می‌آورد (rise)."},
+        {"content_ref": "b2", "text": "تفسیر: ==critical==مثبت==/critical== اگر باعث گیرکردن rotator cuff یا تشدید علائم (درد/گیرکردن) شود = impingement یا تاندینیت."}
+      ]
+    },
+    {
+      "section_id": "§1.6.2",
+      "bullets": [
+        {"content_ref": "b1", "text": "روش: در وضعیت آناتومیکال، پزشک به صورت **Passive** دست بیمار را بالا می‌آورد و می‌چرخاند به طوری که ==critical==شست به جلو بیاید (ایجاد اینترنال روتیشن)==/critical==."},
+        {"content_ref": "b2", "text": "تفسیر: ==critical==مثبت==/critical== اگر باعث گیرکردن تاندون‌ها (مخصوصاً **subscapularis**) زیر لبه قدامی آکرومیون یا لیگامان کوراکوآکرومیال شود = impingement."}
+      ]
+    },
+    {
+      "section_id": "§1.6.3",
+      "bullets": [
+        {"content_ref": "b1", "text": "روش: بیمار ریلکس. شانه را ==critical==۹۰ درجه ابداکت==/critical== کنید. **elbow** را ۹۰ درجه فوروارد فلکس کنید. همزمان **اینترنال روتیشن** انجام دهید و یک فشار اینترنال روتیشن وارد کنید."},
+        {"content_ref": "b2", "text": "تفسیر: ==critical==مثبت==/critical== اگر باعث گیرکردن تاندون rotator cuff بین **greater tuberosity (گریتر تیوبراسیتی؛ برجستگی بزرگتر)** و لیگامان کوراکوآکرومیال شده و علائم تشدید شود = impingement."}
+      ]
+    },
+    {
+      "section_id": "§1.6.4",
+      "bullets": [
+        {"content_ref": "b1", "text": "هدف: تشخیص درگیری اختصاصی ==critical**عضله subscapularis**==/critical==."},
+        {"content_ref": "b2", "text": "روش: از بیمار بخواهید دستش را پشت کمر ببرد. پزشک مقاومت پشت کف دست می‌گذارد. بیمار باید دست را از کمر جدا کند (به سمت دور از بدن فشار دهد). = انجام اینترنال روتیشن با مقاومت."},
+        {"content_ref": "b3", "text": "تفسیر: ==critical==مثبت==/critical== اگر درد تشدید شود = درگیری subscapularis. چون فقط این عضله از rotator cuff اینترنال روتیشن می‌دهد."}
+      ]
+    },
+    {
+      "section_id": "§1.6.5",
+      "bullets": [
+        {"content_ref": "b1", "text": "هدف: بررسی ==critical**infraspinatus** و **teres minor**==/critical== (پارگی عضله)."},
+        {"content_ref": "b2", "text": "روش: بیمار ==critical==۹۰ درجه ابداکشن==/critical== انجام دهد و نگه دارد. پزشک در حالی که بیمار ابداکشن را حفظ کرده، **اکسترنال روتیشن** می‌دهد."},
+        {"content_ref": "b3", "text": "تفسیر: ==critical==مثبت==/critical== اگر درد ایجاد شود = درگیری infraspinatus یا teres minor و impingement در ناحیه آکرومیون."}
+      ]
+    },
+    {
+      "section_id": "§1.6.6",
+      "bullets": [
+        {"content_ref": "b1", "text": "هدف: بررسی ==critical**عضله supraspinatus**==/critical==."},
+        {"content_ref": "b2", "text": "روش (Empty Can/Jobs Test): از بیمار بخواهید ==critical==۲۰-۳۰ درجه ابداکشن و ۱۰ درجه فوروارد فلکشن==/critical== انجام دهد. **شست به سمت پایین** (اینترنال روتیشن) باشد (حالت خالی کردن قوطی)."},
+        {"content_ref": "b3", "text": "تفسیر: ==critical==مثبت==/critical== اگر در برابر مقاومت پزشک برای ادامه ابداکشن/فوروارد فلکشن، درد تشدید شود = درگیری supraspinatus."}
+      ]
+    },
+    {
+      "section_id": "§1.6.7",
+      "bullets": [
+        {"content_ref": "b1", "text": "هدف: تشخیص ==critical**bicipital tendinitis (بیسیپیتال تندینایتیس؛ التهاب تاندون دوسر بازویی)**==/critical==."},
+        {"content_ref": "b2", "text": "روش: بیمار **elbow** را اکستنت و ساعد را سوپاین کند. دست را ثابت نگه دارد. پزشک مقاومت روی ساعد اعمال می‌کند و از بیمار می‌خواهد ==critical==شانه را فلکس کند (بالا بیاورد)==/critical==."},
+        {"content_ref": "b3", "text": "تفسیر: ==critical==مثبت==/critical== اگر درد در مسیر **bicipital groove (بیسیپیتال گروو؛ شیار دوسر بازویی)** یا قدام شانه ایجاد شود."}
+      ]
+    },
+    {
+      "section_id": "§1.6.8",
+      "bullets": [
+        {"content_ref": "b1", "text": "هدف: تشخیص **bicipital tendinitis** از طریق تست **supination (سوپینیشن؛ چرخش به بیرون)** ."},
+        {"content_ref": "b2", "text": "روش: بیمار **elbow** را ==critical==۹۰ درجه فلکس==/critical== و دست را **پرون** (کف دست پایین) کند. سپس به بیمار بگویید دست را بچرخاند تا کف دست به سمت بالا قرار گیرد (سوپینیشن). پزشک مقاومت اعمال می‌کند."},
+        {"content_ref": "b3", "text": "تفسیر: ==critical==مثبت==/critical== اگر درد ایجاد شود = **bicipital tendinitis**."}
+      ]
+    },
+    {
+      "section_id": "§1.7",
+      "bullets": [
+        {"content_ref": "b1", "text": "درد لترال آرنج: علت شایع ==critical**lateral epicondylitis (لاترال اپیکوندیلیت؛ التهاب اپی‌کوندیل خارجی)** یا tennis elbow==/critical==."},
+        {"content_ref": "b2", "text": "درد مدیال آرنج: ==critical**medial epicondylitis (مدیال اپیکوندیلیت؛ التهاب اپی‌کوندیل داخلی)** یا golf elbow==/critical==."}
+      ]
+    },
+    {
+      "section_id": "§1.7.1",
+      "bullets": [
+        {"content_ref": "b1", "text": "نام دیگر: **Resisted Wrist Extension**."},
+        {"content_ref": "b2", "text": "روش: ==critical==مقاومت در برابر اکستنشن مچ دست==/critical== (آسیب به عضلات اکستنسور مچ که از اپی‌کوندیل لترال منشأ می‌گیرند)."},
+        {"content_ref": "b3", "text": "تفسیر: ==critical==مثبت==/critical== اگر باعث ایجاد یا تشدید درد در ناحیه لترال elbow شود."}
+      ]
+    },
+    {
+      "section_id": "§1.7.2",
+      "bullets": [
+        {"content_ref": "b1", "text": "روش: بیمار ==critical==elbow را ۹۰ درجه فلکس==/critical== کند، مچ در وضعیت فلکس و سوپاین. پزشک سعی می‌کند مچ را اکستنت کند و بیمار همزمان سعی می‌کند **pronation** (پرونیشن؛ چرخش به داخل) انجام دهد."},
+        {"content_ref": "b2", "text": "تفسیر: ==critical==مثبت==/critical== اگر درد در ناحیه مدیال elbow ایجاد شود = درگیری تاندون فلکسور کارپی رادیالیس (Flexor Carpi Radialis)."}
+      ]
+    },
+    {
+      "section_id": "§1.8",
+      "bullets": [
+        {"content_ref": "b1", "text": "علت گزگز و درد انگشتان: درگیری ==critical**عصب مدین (Median Nerve)** در مچ==/critical== = **Carpal Tunnel Syndrome (CTS) (کارپال تونل سندرم؛ سندرم تونل کارپال)** ."},
+        {"content_ref": "b2", "text": "توزیع عصب مدین: انگشت شست، سبابه، نصف حلقه."}
+      ]
+    },
+    {
+      "section_id": "§1.8.1",
+      "bullets": [
+        {"content_ref": "b1", "text": "روش: ==critical==ضربه با چکش رفلکس روی مسیر عصب مدین در مچ==/critical== (ناحیه بین برجستگی‌های تنار و هیپوتنار، حدود ۲-۳ سانتی‌متر پروگزیمال به **distal wrist crease (دیستال ریست کریز؛ چین دیستال مچ)** )."},
+        {"content_ref": "b2", "text": "تفسیر: ==critical==مثبت==/critical== اگر حالت برق‌گرفتگی یا گزگز در مسیر عصب مدین ایجاد شود."}
+      ]
+    },
+    {
+      "section_id": "§1.8.2",
+      "bullets": [
+        {"content_ref": "b1", "text": "روش: اعمال ==critical==فشار مستقیم (مالیم) روی مسیر عصب مدین در مچ==/critical== به مدت مشخص."},
+        {"content_ref": "b2", "text": "مدت زمان (منابع مختلف): ==critical==۱۵ ثانیه تا ۲ دقیقه (طبق اسلاید)، تا ۳ دقیقه (طبق برخی رفرنس‌ها)==/critical==. (اختلاف منابع ذکر شود)."},
+        {"content_ref": "b3", "text": "تفسیر: ==critical==مثبت==/critical== اگر تقلید یا تشدید علائم بیمار."}
+      ]
+    },
+    {
+      "section_id": "§1.8.3",
+      "bullets": [
+        {"content_ref": "b1", "text": "**Phalen Test**: بیمار ==critical==مچ‌ها را فلکس==/critical== کرده و از پشت به هم می‌چسباند و **۱ دقیقه** نگه می‌دارد."},
+        {"content_ref": "b2", "text": "**Reverse Phalen Test**: بیمار ==critical==مچ‌ها را اکستنت==/critical== کرده و از سمت کف دست به هم می‌چسباند و **۱ دقیقه** نگه می‌دارد."},
+        {"content_ref": "b3", "text": "تفسیر هر دو: ==critical==مثبت==/critical== اگر علائم (گزگز/درد در مسیر عصب مدین) تقلید یا تشدید شود = افزایش احتمال CTS."}
+      ]
+    },
+    {
+      "section_id": "§1.9",
+      "bullets": [
+        {"content_ref": "b1", "text": "برجستگی اسکاپولا (کتف) = **Scapular Winging (اسکاپیولار وینگینگ؛ بال‌زدگی کتف)** ."},
+        {"content_ref": "b2", "text": "دو علت شایع: درگیری ==critical**serratus anterior (سراتوس انتریور؛ دندان‌های قدامی)** یا **trapezius**==/critical== (یا عصب آن‌ها)."},
+        {"content_ref": "b3", "text": "تمایز دو نوع: از بیمار بخواهید ==critical==به دیوار فشار دهد (elbow اکستنت)==/critical==. اگر winging تشدید شد = ==critical**درگیری serratus anterior**==/critical== یا عصب **long thoracic (لانگ توراسیک؛ سینه‌ای دراز)** ."},
+        {"content_ref": "b4", "text": "اگر از بیمار بخواهیم ==critical==شانه را ابداکت یا فوروارد فلکس کند==/critical== و winging (به سمت لترال) واضح‌تر شد = ==critical**درگیری trapezius**==/critical== یا عصب **spinal accessory (اسپاینال اکسیسوری؛ جانبی نخاعی)** ."},
+        {"content_ref": "b5", "text": "علل شایع: تروما (تصادف موتور)، وزنه‌برداری، جراحی، تومور."}
+      ]
+    }
+  ],
+  "status": "COMPLETE",
+  "last_covered": "§1.9",
+  "resume_from": null
+}

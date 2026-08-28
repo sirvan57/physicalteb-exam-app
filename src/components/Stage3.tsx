@@ -1,6 +1,7 @@
 import { useEffect, useState } from 'react';
 import { supabase } from '../lib/supabaseClient';
 import { useParams, useNavigate } from 'react-router-dom';
+import { renderFormattedText } from '../utils/formatText';
 
 const Stage3 = () => {
   const { sessionId } = useParams<{ sessionId: string }>();
@@ -61,12 +62,15 @@ const Stage3 = () => {
           <div className="flex flex-col gap-4">
             {sections.map((section) => (
               <div key={section.section_id} className="card card-pad">
-                <h3 className="mb-3 text-base font-bold text-amber-700">{section.title}</h3>
+                <h3 className="mb-3 text-base font-bold text-amber-700">
+                  <span className="text-amber-400 font-normal ml-1.5">{section.section_id.replace('§', '')}</span>
+                  {section.title}
+                </h3>
                 <ul className="flex flex-col gap-2.5">
                   {section.blocks.map((block: any) => (
                     <li key={block.id} className="flex items-start gap-2.5 leading-loose text-slate-700">
                       <span className="mt-2.5 h-1.5 w-1.5 flex-shrink-0 rounded-full bg-amber-400" />
-                      <span>{block.text}</span>
+                      <span>{renderFormattedText(block.text)}</span>
                     </li>
                   ))}
                 </ul>

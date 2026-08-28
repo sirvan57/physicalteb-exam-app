@@ -1,0 +1,385 @@
+{
+  "session_id": "session_2026_08_27_assistive_devices",
+  "stage": 2,
+  "items": [
+    {
+      "id": "q_001",
+      "section_id": "§1",
+      "item_type": "short_answer_factual",
+      "question": "تعریف وسایل کمک حرکتی (Assistive Devices) چیست؟",
+      "answer": "وسایل کمک حرکتی به دستگاه، وسیله، امکانات، تجهیزات یا تکنولوژی گفته می‌شود که به فرد ناتوان در کنترل، جبران و بهبود ناتوانی (disability) کمک می‌کند."
+    },
+    {
+      "id": "q_002",
+      "section_id": "§1",
+      "item_type": "short_answer_conceptual",
+      "question": "هدف اصلی از استفاده از وسایل کمک حرکتی چیست؟",
+      "answer": "هدف اصلی، بهبود فعالیت‌های روزمره (ADL) و کاهش وابستگی به دیگران برای انجام این فعالیت‌ها است."
+    },
+    {
+      "id": "q_003",
+      "section_id": "§1",
+      "item_type": "short_answer_factual",
+      "question": "ناتوانی در چه زمینه‌هایی می‌تواند باشد که استفاده از وسایل کمک حرکتی را ایجاب می‌کند؟",
+      "answer": "ناتوانی می‌تواند در زمینه‌های حرکتی (motor)، upper motor neuron، اسپاستیسیتی (spasticity) و شناخت (cognition) باشد."
+    },
+    {
+      "id": "q_004",
+      "section_id": "§2",
+      "item_type": "short_answer_factual",
+      "question": "قاشق‌های سنگین (weighted spoons) برای کمک به چه افرادی و برای چه هدفی استفاده می‌شوند؟",
+      "answer": "قاشق‌های سنگین به افراد دارای لرزش (tremor) ناشی از پارکینسون، کهولت سن یا ضعف (weakness) کمک می‌کنند. وزن بیشتر مانع ریختن غذا در اثر لرزش می‌شود."
+    },
+    {
+      "id": "q_005",
+      "section_id": "§2",
+      "item_type": "short_answer_conceptual",
+      "question": "چرا وزن بیشتر قاشق‌های سنگین (weighted spoons) از ریختن غذا جلوگیری می‌کند؟",
+      "answer": "وزن بیشتر باعث می‌شود که قاشق در اثر لرزش (tremor) کمتر تکان بخورد و غذا از آن نریزد."
+    },
+    {
+      "id": "q_006",
+      "section_id": "§2",
+      "item_type": "short_answer_factual",
+      "question": "دکمه‌زن یک‌دستی (one-handed buttoner) چه کاربردی دارد؟",
+      "answer": "به بستن دکمه با یک دست کمک می‌کند."
+    },
+    {
+      "id": "q_007",
+      "section_id": "§2",
+      "item_type": "short_answer_factual",
+      "question": "برس‌های موی دسته‌بلند (long-handled hair brushes) برای چه افرادی مناسب است؟",
+      "answer": "برای افراد با ایمپینجمنت شانه (shoulder impingement) و درد و محدودیت حرکت در شانه."
+    },
+    {
+      "id": "q_008",
+      "section_id": "§2",
+      "item_type": "short_answer_conceptual",
+      "question": "استفاده از برس موی دسته‌بلند در افراد مبتلا به ایمپینجمنت شانه چه مزیتی دارد؟",
+      "answer": "با بلند بودن دسته، نیازی به بلند کردن و چرخش زیاد شانه نیست و در نتیجه درد و محدودیت حرکت شانه را کاهش می‌دهد."
+    },
+    {
+      "id": "q_009",
+      "section_id": "§2",
+      "item_type": "short_answer_factual",
+      "question": "روکش‌های ضخیم‌شده مداد (built-up pencil grips) برای کدام دسته از بیماران تجویز می‌شوند؟",
+      "answer": "برای افراد مبتلا به DJD یا OA مفاصل دست یا سندرم دکوروان (de Quervain syndrome) که نوشتن و گرفتن اشیا برایشان سخت شده است."
+    },
+    {
+      "id": "q_010",
+      "section_id": "§2",
+      "item_type": "fill_blank",
+      "question": "یکی دیگر از راهکارها برای کمک به افرادی که به دلیل التهاب تاندون‌های شست، گرفتن اشیا برایشان سخت شده، پیچیدن __________ یا چند لایه __________ دور چاقو یا وسیله مورد نظر است.",
+      "answer": "پارچه، چسب"
+    },
+    {
+      "id": "q_011",
+      "section_id": "§2",
+      "item_type": "short_answer_factual",
+      "question": "دستبند جهانی (universal cuff) برای چه افرادی استفاده می‌شود؟",
+      "answer": "برای افرادی که به دلیل ضعف (weakness) یا درد مفاصل دست، توانایی گرفتن (grip) در آنها مختل شده و در غذا خوردن به دیگران وابسته شده‌اند."
+    },
+    {
+      "id": "q_012",
+      "section_id": "§3",
+      "item_type": "short_answer_factual",
+      "question": "وسایل کمک حرکتی پرتکنولوژی برای چه گروه از بیمارانی طراحی شده‌اند؟",
+      "answer": "برای افراد مبتلا به اختلالات ارتباطی که قصد شرکت در ارتباطات جمعی، پژوهش‌ها یا کنفرانس‌ها را دارند."
+    },
+    {
+      "id": "q_013",
+      "section_id": "§3",
+      "item_type": "short_answer_factual",
+      "question": "علل ایجاد اختلالات ارتباطی که نیاز به وسایل پرتکنولوژی دارند را نام ببرید.",
+      "answer": "عقب‌ماندگی ذهنی، فلج مغزی، آپراکسی کلامی رشدی، آسیب مغزی تروماتیک، سکته مغزی، MS، ALS و لارنژکتومی."
+    },
+    {
+      "id": "q_014",
+      "section_id": "§3",
+      "item_type": "fill_blank",
+      "question": "دستگاه‌هایی که از اختلالات زبان بیانی پشتیبانی یا جایگزین آن می‌شوند، دستگاه‌های __________ یا AAC نامیده می‌شوند.",
+      "answer": "افزایشی و جایگزین (Augmentative and Alternative Communication)"
+    },
+    {
+      "id": "q_015",
+      "section_id": "§3",
+      "item_type": "short_answer_factual",
+      "question": "دستگاه Big Mac چیست و چگونه کار می‌کند؟",
+      "answer": "یک دکمه قرمز است که با فشردن آن صدا پخش می‌شود و مراقب را فراخوانی می‌کند."
+    },
+    {
+      "id": "q_016",
+      "section_id": "§3",
+      "item_type": "short_answer_factual",
+      "question": "دو نمونه از دستگاه‌های پیشرفته AAC که قادر به تولید تعاملات زبانی پیچیده هستند، کدامند؟",
+      "answer": "Vmax و Tango."
+    },
+    {
+      "id": "q_017",
+      "section_id": "§4",
+      "item_type": "short_answer_factual",
+      "question": "تعریف اورتز (orthosis) چیست؟",
+      "answer": "اورتز وسیله‌ای است که روی سطح خارجی سگمانی از بدن قرار می‌گیرد تا ویژگی‌های سیستم اسکلتی-عضلانی-عصبی را از نظر ساختاری و عملکردی اصلاح کند."
+    },
+    {
+      "id": "q_018",
+      "section_id": "§4",
+      "item_type": "short_answer_conceptual",
+      "question": "اورتز (orthosis) چه تفاوتی با اسپلینت (splint) یا بریس (brace) دارد؟",
+      "answer": "اصطلاحات splint و brace صرفاً بی‌حرکتی را القا می‌کنند، در حالی که orthosis شامل بهبود عملکرد، محدودیت یا تسهیل حرکت یا حمایت از سگمنت بدن می‌شود و مفهوم جامع‌تری دارد."
+    },
+    {
+      "id": "q_019",
+      "section_id": "§4",
+      "item_type": "short_answer_factual",
+      "question": "سه هدف کلی از کاربرد اورتزها (orthoses) چیست؟",
+      "answer": "۱) محدودیت دامنه حرکتی (range of motion) برای ترمیم (repair)، ۲) جبران ضعف (weakness)، ۳) ثابت‌نگه‌داشتن مفاصل."
+    },
+    {
+      "id": "q_020",
+      "section_id": "§4",
+      "item_type": "short_answer_conceptual",
+      "question": "در فردی با آسیب عصب رادیال و wrist drop، اسپلینت رادیال پالسی (radial palsy splint) چگونه از ضعف grip جلوگیری می‌کند؟",
+      "answer": "با اتصال بندها یا میله‌هایی به انگشتان و ساعد، انگشتان را در وضعیت اکستنشن قرار می‌دهد تا از فلکشن کنترکچر جلوگیری کند، اما حالت ارتجاعی آن نیز توانایی grip و فلکشن را حفظ می‌کند."
+    },
+    {
+      "id": "q_021",
+      "section_id": "§4",
+      "item_type": "short_answer_factual",
+      "question": "یک مثال از اورتز محافظتی (protective orthosis) چیست؟",
+      "answer": "اورتز فیگور آف ایت (figure of 8 orthosis)."
+    },
+    {
+      "id": "q_022",
+      "section_id": "§4",
+      "item_type": "short_answer_factual",
+      "question": "یک مثال از اورتز اصلاحی (corrective orthosis) چیست؟",
+      "answer": "اسپلینت جک مفصلی (joint jack splint)."
+    },
+    {
+      "id": "q_023",
+      "section_id": "§5",
+      "item_type": "essay",
+      "question": "عملکرد اسپلینت تامب اسپایکا (Thumb spica splint) را شرح دهید: این اسپلینت برای چه مواردی استفاده می‌شود و هدف از بی‌حرکت‌سازی شست چیست؟",
+      "answer": "اسپلینت تامب اسپایکا برای بی‌حرکت کردن شست در موارد تاندینیت، درد شست، شکستگی انگشت شست یا مفصل CMC استفاده می‌شود. هدف از این بی‌حرکتی، ایجاد فرصت برای ترمیم (repair) بافت‌های آسیب‌دیده است."
+    },
+    {
+      "id": "q_024",
+      "section_id": "§5",
+      "item_type": "short_answer_factual",
+      "question": "بدشکلی گردن قو (swan neck deformity) با چه سیستمی اصلاح می‌شود و مکانیسم آن چیست؟",
+      "answer": "با سیستم فشار سه‌نقطه‌ای (three-point pressure). دو حلقه از بالای بند انگشتان و یک حلقه از زیر فشار می‌آورند تا هایپراکستنشن (hyperextension) اصلاح شود."
+    },
+    {
+      "id": "q_025",
+      "section_id": "§5",
+      "item_type": "short_answer_factual",
+      "question": "اسپلینت فینگر هوک (Finger hook splint) برای چه نوع آسیبی استفاده می‌شود؟",
+      "answer": "برای آسیب تاندون‌های فلکسور دست."
+    },
+    {
+      "id": "q_026",
+      "section_id": "§5",
+      "item_type": "short_answer_factual",
+      "question": "اسپلینت کاک آپ (Cock up splint) برای چه بیماری و با چه هدفی تجویز می‌شود؟",
+      "answer": "برای بیماران مبتلا به سندرم تونل کارپال (CTS) تجویز می‌شود تا مچ دست را در حالت خنثی (neutral) نگه دارد."
+    },
+    {
+      "id": "q_027",
+      "section_id": "§5",
+      "item_type": "short_answer_conceptual",
+      "question": "باند تنیس البو (Tennis elbow band) با چه مکانیسمی باعث بهبود درد در اپیکوندیلیت جانبی (lateral epicondylitis) می‌شود؟",
+      "answer": "با محدود کردن اوریجین (مبدأ) عضلات اکستانسور، کشش وارد بر تاندون‌ها را کاهش داده و باعث بهبود درد می‌شود."
+    },
+    {
+      "id": "q_028",
+      "section_id": "§5",
+      "item_type": "short_answer_factual",
+      "question": "اسپلینت اسپاستیک بلنک (Blank spastic splint) برای چه بیمارانی و در چه زمانی از روز استفاده می‌شود؟",
+      "answer": "برای افراد مبتلا به CP یا CVA پس از تزریق بوتاکس، در هنگام خواب استفاده می‌شود زیرا این افراد مستعد فلکشن کنترکچر هستند."
+    },
+    {
+      "id": "q_029",
+      "section_id": "§5",
+      "item_type": "short_answer_conceptual",
+      "question": "چرا اسپلینت اسپاستیک بلنک (Blank spastic splint) انگشتان را در حالت ابداکشن (abduction) و اکستنشن (extension) قرار می‌دهد؟",
+      "answer": "برای جلوگیری از فلکشن کنترکچر، که یک عارضه شایع در بیماران مبتلا به اسپاستیسیتی است، انگشتان در وضعیت مخالف (اکستنشن و ابداکشن) نگه داشته می‌شوند."
+    },
+    {
+      "id": "q_030",
+      "section_id": "§6",
+      "item_type": "short_answer_factual",
+      "question": "اهداف اصلی اورتزهای اندام تحتانی چیست؟",
+      "answer": "کمک به راه‌رفتن، کاهش درد، کاهش تحمل وزن، کنترل حرکت و به‌حداقل‌رساندن پیشرفت بدشکلی."
+    },
+    {
+      "id": "q_031",
+      "section_id": "§6",
+      "item_type": "short_answer_factual",
+      "question": "کاربرد اسپلینت شب فاشیای کف پایی (plantar fascia night splint) چیست؟",
+      "answer": "یکی از انواع AFO است که برای درمان فاشیای کف پایی (plantar fasciitis) استفاده می‌شود."
+    },
+    {
+      "id": "q_032",
+      "section_id": "§6",
+      "item_type": "short_answer_factual",
+      "question": "چهار نوع AFO (ankle foot orthoses) که در متن به آنها اشاره شده است را نام ببرید.",
+      "answer": "اسپلینت شب فاشیای کف پایی (plantar fascia night splint)، AFO افتادگی مچ پا (foot drop AFO)، AFO اسپاستیسیتی کف پایی (plantar spasticity AFO) و AFO نخاع کمری (lumbar spinal cord AFO)."
+    },
+    {
+      "id": "q_033",
+      "section_id": "§6",
+      "item_type": "short_answer_factual",
+      "question": "چه نوع ارتزهای کف پایی (Foot orthoses) در متن ذکر شده است؟",
+      "answer": "حمایت قوس داخلی-طولانی (medial longitudinal arch support)، پد متاتارس (metatarsal pad)، پد پاشنه (heel pad) و گوه خارجی (lateral wedge)."
+    },
+    {
+      "id": "q_034",
+      "section_id": "§7",
+      "item_type": "short_answer_conceptual",
+      "question": "تفاوت اصلی بین گردنبند فیلادلفیا (Philadelphia) و گردنبند بوستون (Boston) در چیست؟",
+      "answer": "هر دو در ترومای گردنی استفاده می‌شوند، اما گردنبند بوستون تا استرنوم ادامه دارد و از نوع سفت (rigid) است."
+    },
+    {
+      "id": "q_035",
+      "section_id": "§7",
+      "item_type": "short_answer_factual",
+      "question": "سیستم هالو (Halo orthosis) برای چه مواردی استفاده می‌شود و ویژگی اصلی آن چیست؟",
+      "answer": "برای بعد از جراحی شکستگی مهره‌های گردنی به منظور محدودیت حرکت شدید استفاده می‌شود و بسیار سفت (rigid) است و به جمجمه pin می‌شود."
+    },
+    {
+      "id": "q_036",
+      "section_id": "§7",
+      "item_type": "short_answer_factual",
+      "question": "در اورتز CASH (Cruciform anterior spinal hyperextension) از چه سیستمی استفاده می‌شود؟",
+      "answer": "سیستم فشار سه‌نقطه‌ای (three-point pressure)."
+    },
+    {
+      "id": "q_037",
+      "section_id": "§7",
+      "item_type": "short_answer_factual",
+      "question": "Body jacket از چه دو سیستمی برای عملکرد خود بهره می‌برد؟",
+      "answer": "سیستم فشار سه‌نقطه‌ای (three-point pressure) و فشار محیطی (circumferential compression)."
+    },
+    {
+      "id": "q_038",
+      "section_id": "§7",
+      "item_type": "short_answer_factual",
+      "question": "هدف اصلی اورتزهای توراکولومبار (مانند CASH، Body jacket و Jewett) چیست؟",
+      "answer": "به طور کلی از فلکشن ستون مهره‌ها جلوگیری می‌کنند (به دنبال عمل‌های جراحی یا شکستگی‌های ناحیه توراکولومبار)."
+    },
+    {
+      "id": "q_039",
+      "section_id": "§8",
+      "item_type": "fill_blank",
+      "question": "کمربند فنر دار (spring belt) برای بیماری‌های دیسکوپاتی و دردهای رادیکولر به مدت __________ هفته توصیه می‌شود.",
+      "answer": "۲ تا ۳"
+    },
+    {
+      "id": "q_040",
+      "section_id": "§8",
+      "item_type": "short_answer_factual",
+      "question": "کمربند لومبوساکرال معمولاً چند میله دارد و در چه نواحی قرار می‌گیرند؟",
+      "answer": "معمولاً چهار میله دارد: دو میله در ناحیه جانبی (lateral) و دو میله در سمت دیگر."
+    },
+    {
+      "id": "q_041",
+      "section_id": "§9",
+      "item_type": "short_answer_factual",
+      "question": "اورتز سرویکوتوراکولومبوساکرال (CTLSO) کدام نواحی از بدن را پوشش می‌دهد؟",
+      "answer": "از گردن تا ساکروم را به طور کامل حمایت می‌کند."
+    },
+    {
+      "id": "q_042",
+      "section_id": "§10",
+      "item_type": "short_answer_conceptual",
+      "question": "چرا اورتز میلواکی (Milwaukee) معمولاً برای افراد مسن تجویز نمی‌شود؟",
+      "answer": "زیرا این اورتز ضخیم، بزرگ و سنگین است و بیشتر برای کودکان و جوانان جهت ممانعت از پیشرفت اسکولیوز و دفرمیتی تجویز می‌شود و در فرد مسن سودمند نیست."
+    },
+    {
+      "id": "q_043",
+      "section_id": "§10",
+      "item_type": "short_answer_conceptual",
+      "question": "اورتز میلواکی (Milwaukee) چگونه کیفوز (kyphosis) را اصلاح می‌کند؟",
+      "answer": "از طریق سیستم سه‌نقطه‌ای (three-point)، با قرار دادن میله روی استرنوم تا زیر مندیبل و حمایت از پشت کمر، فرد را مجبور به ایستادن صاف کرده و کیفوز را برطرف می‌کند."
+    },
+    {
+      "id": "q_044",
+      "section_id": "§10",
+      "item_type": "short_answer_conceptual",
+      "question": "مهم‌ترین مزیت اورتز میلواکی (Milwaukee) نسبت به سایر اورتزها چیست؟",
+      "answer": "جزو بهترین اورتزها است زیرا فعال (active) است و عوارضی مانند ضعف (weakness) عضلات ایجاد نمی‌کند."
+    },
+    {
+      "id": "q_045",
+      "section_id": "§10",
+      "item_type": "short_answer_factual",
+      "question": "از مکانیسم اورتز میلواکی (Milwaukee) برای اصلاح کدام ناهنجاری‌های اندام تحتانی نیز استفاده می‌شود؟",
+      "answer": "برای اصلاح ژنو واروم (genu varum) و ژنو والگوم (genu valgum)."
+    },
+    {
+      "id": "q_046",
+      "section_id": "§11",
+      "item_type": "short_answer_conceptual",
+      "question": "تفاوت اصلی کفش Blucher و Bal در چیست؟",
+      "answer": "در کفش Blucher، زبانه (tongue) در امتداد رویه (vamp) و کناره‌ها (quarter) قرار دارد و به سمت بالا حرکت می‌کند، اما در کفش Bal، رویه کفش جلوتر از زبانه است و زبانه نمی‌تواند به سمت بالا حرکت کند."
+    },
+    {
+      "id": "q_047",
+      "section_id": "§11",
+      "item_type": "short_answer_conceptual",
+      "question": "چرا کفش Blucher برای استفاده‌کنندگان AFO مناسب‌تر است؟",
+      "answer": "چون زبانه آن به سمت بالا حرکت می‌کند و با شل شدن بندها، دهانه ورودی کفش بازتر می‌شود که جای دادن AFO را آسان‌تر می‌کند."
+    },
+    {
+      "id": "q_048",
+      "section_id": "§11",
+      "item_type": "short_answer_factual",
+      "question": "محکم‌ترین قسمت کفش کدام است و چه وظیفه‌ای دارد؟",
+      "answer": "پشته کفش (heel counter) محکم‌ترین قسمت است و کمک می‌کند هنگام راه رفتن، پا از کفش خارج نشود."
+    },
+    {
+      "id": "q_049",
+      "section_id": "§11",
+      "item_type": "short_answer_conceptual",
+      "question": "چرا گاهی پشته کفش (heel counter) باعث زخم شدن پشت پا می‌شود؟",
+      "answer": "چون در بعضی کفش‌ها، داخل پشته کفش فلز قرار می‌گیرد که می‌تواند باعث ایجاد زخم و سایش در پشت پا شود."
+    },
+    {
+      "id": "q_050",
+      "section_id": "§11",
+      "item_type": "short_answer_factual",
+      "question": "به بیمار مبتلا به صافی کف پا (pes planus) چه توصیه‌ای در مورد کفش می‌شود؟",
+      "answer": "توصیه می‌شود یک شانک (shank) فلزی در کفش قرار داده شود تا قوس پا نیفتد و در گذر زمان اصلاح شود."
+    },
+    {
+      "id": "q_051",
+      "section_id": "§11",
+      "item_type": "short_answer_conceptual",
+      "question": "مهم‌ترین عارضه استفاده از کفش‌های راکر باتم (rocker bottom) برای سالمندان چیست و چرا؟",
+      "answer": "افزایش خطر افتادن (falling) و کنترکچر زانو، زیرا این کفش‌ها باعث فلکشن زانو می‌شوند که در سنین بالا می‌تواند منجر به این عوارض شود."
+    },
+    {
+      "id": "q_052",
+      "section_id": "§11",
+      "item_type": "short_answer_factual",
+      "question": "تنها موارد استفاده کفش راکر باتم (rocker bottom) برای چه دسته از بیمارانی است؟",
+      "answer": "فقط برای افراد با درد پاشنه (نظیر پلانتار فاشییت، پالوس والگوس، پالوس ریجیدوس) یا درد متاتارس."
+    },
+    {
+      "id": "q_053",
+      "section_id": "§11",
+      "item_type": "short_answer_conceptual",
+      "question": "کفش راکر باتم (rocker bottom) چگونه باعث کاهش درد پاشنه می‌شود؟",
+      "answer": "نقطه تماس ضربه پاشنه را به سمت قدامی استخوان پاشنه دردناک منتقل می‌کند و نیروی عکس‌العمل زمین نیز به سمت قدامی پاشنه منتقل می‌شود و از تماس مستقیم با نقطه دردناک جلوگیری می‌کند."
+    },
+    {
+      "id": "q_054",
+      "section_id": "§11",
+      "item_type": "short_answer_conceptual",
+      "question": "مکانیسم کاهش درد متاتارس با استفاده از کفش راکر باتم (rocker bottom) چیست؟",
+      "answer": "این کفش‌ها نیروی وارد بر سر متاتارس‌ها را در فاز پوش‌آف (push-off phase) راه رفتن کاهش می‌دهند."
+    }
+  ],
+  "status": "COMPLETE"
+}

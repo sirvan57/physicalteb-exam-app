@@ -2,6 +2,7 @@ import { useEffect, useState } from 'react';
 import { supabase } from '../lib/supabaseClient';
 import { useParams, useSearchParams, useNavigate } from 'react-router-dom';
 import { useAuth } from '../contexts/AuthContext';
+import { renderFormattedText } from '../utils/formatText';
 
 const Stage2 = () => {
   const { sessionId } = useParams<{ sessionId: string }>();
@@ -14,6 +15,10 @@ const Stage2 = () => {
   const { user } = useAuth();
   const navigate = useNavigate();
 
+  const goBackToLearning = () => {
+    navigate(`/session/${sessionId}`, { state: { scrollToSection: sectionParam } });
+  };
+
   useEffect(() => {
     const fetchItems = async () => {
       setLoading(true);
@@ -23,7 +28,9 @@ const Stage2 = () => {
         .eq('session_id', sessionId)
         .order('order_index');
       if (sectionParam) {
-        query = query.eq('section_id', sectionParam);
+        // بخش می‌تونه خودش دقیقاً همین section_id باشه یا زیرمجموعه‌ی سلسله‌مراتبیش
+        // (مثلاً کلیک روی «§5» باید سوالات «§5.1»، «§5.2» و... رو هم بیاره)
+        query = query.or(`section_id.eq.${sectionParam},section_id.like.${sectionParam}.%`);
       }
       const { data, error } = await query;
       if (error) console.error(error);
@@ -72,14 +79,14 @@ const Stage2 = () => {
     if (currentIndex < items.length - 1) {
       setCurrentIndex(currentIndex + 1);
     } else {
-      navigate(`/session/${sessionId}`);
+      goBackToLearning();
     }
   };
 
   return (
     <div className="app-shell">
       <header className="topbar">
-        <button onClick={() => navigate(`/session/${sessionId}`)} className="btn-ghost">
+        <button onClick={goBackToLearning} className="btn-ghost">
           ← بازگشت به یادگیری
         </button>
         <span className="badge bg-emerald-50 text-emerald-700">ارزیابی اولیه — مرحله ۲</span>
@@ -110,7 +117,7 @@ const Stage2 = () => {
                 </div>
 
                 <div className="card card-pad">
-                  <p className="text-lg font-medium leading-loose text-slate-800">{item.question}</p>
+                  <p className="text-lg font-medium leading-loose text-slate-800">{renderFormattedText(item.question)}</p>
 
                   {!showAnswer ? (
                     <button onClick={() => setShowAnswer(true)} className="btn btn-primary mt-6">
@@ -119,7 +126,7 @@ const Stage2 = () => {
                   ) : (
                     <div className="mt-5">
                       <div className="rounded-xl border border-emerald-200 bg-emerald-50 p-4 leading-loose text-emerald-900">
-                        {item.answer}
+                        {renderFormattedText(item.answer)}
                       </div>
                       <div className="mt-5 flex gap-3">
                         <button onClick={() => handleResponse(true)} className="btn btn-success flex-1">

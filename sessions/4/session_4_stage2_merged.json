@@ -1,0 +1,1022 @@
+{
+  "session_id": "spinal_exam_02",
+  "stage": 2,
+  "items": [
+    {
+      "id": "q_001",
+      "section_id": "§1.1",
+      "item_type": "fill_blank",
+      "question": "ستون فقرات از ........ مهره تشکیل شده است.",
+      "answer": "33"
+    },
+    {
+      "id": "q_002",
+      "section_id": "§1.1",
+      "item_type": "short_answer_factual",
+      "question": "تعداد مهره‌های گردنی (Cervical) چند عدد است؟",
+      "answer": "7 مهره (C1 تا C7)"
+    },
+    {
+      "id": "q_003",
+      "section_id": "§1.1",
+      "item_type": "short_answer_factual",
+      "question": "تعداد مهره‌های سینه‌ای (Thoracic) چند عدد است؟",
+      "answer": "12 مهره (T1 تا T12)"
+    },
+    {
+      "id": "q_004",
+      "section_id": "§1.1",
+      "item_type": "short_answer_factual",
+      "question": "تعداد مهره‌های کمری (Lumbar) چند عدد است؟",
+      "answer": "5 مهره (L1 تا L5)"
+    },
+    {
+      "id": "q_005",
+      "section_id": "§1.1",
+      "item_type": "fill_blank",
+      "question": "مهره‌های خاجی (Sacral) که به هم جوش خورده‌اند، ........ عدد هستند.",
+      "answer": "5"
+    },
+    {
+      "id": "q_006",
+      "section_id": "§1.2",
+      "item_type": "short_answer_factual",
+      "question": "هر مهره از دو بخش اصلی تشکیل شده است: جسم مهره (Body) در قسمت قدامی و ........ در قسمت خلفی.",
+      "answer": "قوس مهره (Posterior Arch)"
+    },
+    {
+      "id": "q_007",
+      "section_id": "§1.2",
+      "item_type": "short_answer_factual",
+      "question": "قوس مهره (Posterior Elements) به ترتیب از چه ساختارهایی تشکیل می‌شود؟",
+      "answer": "پدیکل (Pedicle)، سپس لامینا (Lamina) و در نهایت زائده خاری (Spinous Process)"
+    },
+    {
+      "id": "q_008",
+      "section_id": "§1.2",
+      "item_type": "short_answer_factual",
+      "question": "کدام یک از زوائد مهره در خط وسط قرار دارد و قابل لمس است؟",
+      "answer": "زائده خاری (Spinous Process)"
+    },
+    {
+      "id": "q_009",
+      "section_id": "§1.2",
+      "item_type": "short_answer_factual",
+      "question": "زائده عرضی (Transverse Process) محل اتصال چه بافت‌هایی است؟",
+      "answer": "عضلات و رباط‌ها"
+    },
+    {
+      "id": "q_010",
+      "section_id": "§1.2",
+      "item_type": "short_answer_conceptual",
+      "question": "زائده‌های مفصلی (Articular Processes) از کدام ناحیه از مهره منشأ گرفته و چه مفصلی را تشکیل می‌دهند؟",
+      "answer": "این زوائد از junction بین پدیکل و لامینا منشأ گرفته و مفصل فاست (Zygapophyseal Joint) را تشکیل می‌دهند."
+    },
+    {
+      "id": "q_011",
+      "section_id": "§1.2",
+      "item_type": "short_answer_factual",
+      "question": "مفاصل اختصاصی که در ناحیه سرویکال (C2-C7) وجود دارند، چه نامیده می‌شوند؟",
+      "answer": "مفاصل آنکورتبرال (Uncovertebral Joint) یا مفصل لوشکا (Luschka's Joint)"
+    },
+    {
+      "id": "q_012",
+      "section_id": "§1.3",
+      "item_type": "fill_blank",
+      "question": "هر مهره دارای ........ زائده است.",
+      "answer": "7"
+    },
+    {
+      "id": "q_013",
+      "section_id": "§1.3",
+      "item_type": "short_answer_factual",
+      "question": "زوائد هر مهره شامل چه مواردی هستند؟",
+      "answer": "یک زائده خاری (Spinous)، دو زائده عرضی (Transverse)، دو زائده فوقانی مفصلی (Superior Articular) و دو زائده تحتانی مفصلی (Inferior Articular)"
+    },
+    {
+      "id": "q_014",
+      "section_id": "§1.4",
+      "item_type": "fill_blank",
+      "question": "در ناحیه گردنی ........ ریشه عصبی وجود دارد، در حالی که فقط 7 مهره گردنی داریم.",
+      "answer": "8"
+    },
+    {
+      "id": "q_015",
+      "section_id": "§1.4",
+      "item_type": "short_answer_factual",
+      "question": "ریشه عصب C1 از کجای ستون مهره‌ها خارج می‌شود؟",
+      "answer": "از بالای مهره C1"
+    },
+    {
+      "id": "q_016",
+      "section_id": "§1.4",
+      "item_type": "short_answer_conceptual",
+      "question": "قاعده خروج اعصاب C1 تا C7 چیست؟",
+      "answer": "این اعصاب از بالای مهره هم‌شماره خود خارج می‌شوند (مثلاً عصب C4 از بین C3 و C4 خارج می‌شود)."
+    },
+    {
+      "id": "q_017",
+      "section_id": "§1.4",
+      "item_type": "short_answer_conceptual",
+      "question": "چرا عصب C8 را عصب گردنی می‌نامند در حالی که مهره متناظر در ناحیه گردنی ندارد؟ به خروج آن توجه کنید.",
+      "answer": "زیرا عصب C8 از بین مهره C7 و T1 خارج می‌شود و تنها عصب گردنی است که مهره متناظر ندارد."
+    },
+    {
+      "id": "q_018",
+      "section_id": "§1.4",
+      "item_type": "fill_blank",
+      "question": "از مهره T1 به بعد، تمام اعصاب از ........ مهره هم‌شماره خود خارج می‌شوند.",
+      "answer": "زیر"
+    },
+    {
+      "id": "q_019",
+      "section_id": "§2.1",
+      "item_type": "short_answer_factual",
+      "question": "در نمای خلفی (Posterior View)، کدام ساختارها در دو طرف خط وسط بررسی می‌شوند؟",
+      "answer": "زوائد خاری (Spinous Processes) و عضلات پاراورتبرال (Paravertebral Muscles)"
+    },
+    {
+      "id": "q_020",
+      "section_id": "§2.1",
+      "item_type": "short_answer_factual",
+      "question": "فرورفتگی‌های پوستی (Skin Dimples) معمولاً محل کدام ساختار آناتومیک را مشخص می‌کنند؟",
+      "answer": "خار خاصره‌ای فوقانی خلفی (PSIS)"
+    },
+    {
+      "id": "q_021",
+      "section_id": "§2.1",
+      "item_type": "fill_blank",
+      "question": "خط فرضی بین دو Iliac Crest معمولاً از زائده خاری مهره ........ عبور می‌کند.",
+      "answer": "L4"
+    },
+    {
+      "id": "q_022",
+      "section_id": "§2.1",
+      "item_type": "fill_blank",
+      "question": "خط فرضی اتصال‌دهنده PSISها موازی مهره ........ عبور می‌کند.",
+      "answer": "S1"
+    },
+    {
+      "id": "q_023",
+      "section_id": "§2.1",
+      "item_type": "short_answer_conceptual",
+      "question": "چرا مهره‌های T1 و C7 در معاینه خلفی اهمیت دارند؟",
+      "answer": "زیرا این مهره‌ها معمولاً برجسته‌تر از سایر مهره‌ها هستند و در خم شدن سر به جلو واضح‌تر دیده می‌شوند."
+    },
+    {
+      "id": "q_024",
+      "section_id": "§3",
+      "item_type": "short_answer_factual",
+      "question": "در نمای جانبی (Lateral View)، چه انحناهای طبیعی در ستون فقرات بررسی می‌شوند؟",
+      "answer": "لوردوز گردنی (Cervical Lordosis)، کیفوز توراسیک (Thoracic Kyphosis) و لوردوز کمری (Lumbar Lordosis)"
+    },
+    {
+      "id": "q_025",
+      "section_id": "§3",
+      "item_type": "short_answer_conceptual",
+      "question": "تغییر در انحناهای طبیعی ستون فقرات چه چیزی را می‌تواند نشان دهد؟",
+      "answer": "می‌تواند نشان‌دهنده بیماری‌های مادرزادی، دژنراتیو یا اختلالات وضعیتی باشد."
+    },
+    {
+      "id": "q_026",
+      "section_id": "§4",
+      "item_type": "short_answer_factual",
+      "question": "خط فرضی که از مهره C7 عبور می‌کند، به طور طبیعی از کدام ساختار آناتومیک عبور می‌کند؟",
+      "answer": "شکاف بین باسن (Gluteal Cleft)"
+    },
+    {
+      "id": "q_027",
+      "section_id": "§4",
+      "item_type": "short_answer_factual",
+      "question": "در ارزیابی راستای ستون فقرات، چه عواملی بررسی می‌شوند؟",
+      "answer": "تقارن و هم‌راستایی شانه‌ها، تقارن و هم‌سطح بودن Iliac Crest، تقارن Gluteal Folds و وجود هرگونه انحراف جانبی تنه"
+    },
+    {
+      "id": "q_028",
+      "section_id": "§5",
+      "item_type": "short_answer_conceptual",
+      "question": "در معاینه ستون فقرات، افتادگی یک شانه (Shoulder Drop) معمولاً اولین تشخیص بالینی برای چه وضعیتی است؟",
+      "answer": "اسکولیوز (Scoliosis)"
+    },
+    {
+      "id": "q_029",
+      "section_id": "§5.1",
+      "item_type": "fill_blank",
+      "question": "اسکولیوز (Scoliosis) به عنوان انحنای جانبی ستون فقرات همراه با ........ مهره‌ها تعریف می‌شود.",
+      "answer": "چرخش (Rotation)"
+    },
+    {
+      "id": "q_030",
+      "section_id": "§5.1",
+      "item_type": "short_answer_factual",
+      "question": "یافته‌های معاینه در اسکولیوز کدام‌اند؟",
+      "answer": "عدم تقارن تنه، اختلاف ارتفاع و افتادگی شانه، برجسته شدن یک سمت قفسه سینه یا ناحیه کمری و انحراف محور ستون فقرات"
+    },
+    {
+      "id": "q_031",
+      "section_id": "§5.2",
+      "item_type": "short_answer_factual",
+      "question": "سه علت اصلی اختلاف ارتفاع شانه (Shoulder Height Asymmetry) کدامند؟",
+      "answer": "اسکولیوز (Scoliosis)، ناهنجاری اشپرینگل (Sprengel Deformity) و Winging Scapula"
+    },
+    {
+      "id": "q_032",
+      "section_id": "§5.2",
+      "item_type": "short_answer_conceptual",
+      "question": "در ناهنجاری اشپرینگل (Sprengel Deformity)، چه تغییراتی در وضعیت و شکل کتف دیده می‌شود؟",
+      "answer": "یک کتف در وضعیت بالاتری قرار دارد، کوچک‌تر و حاوی دفورمیتی است."
+    },
+    {
+      "id": "q_033",
+      "section_id": "§5.2",
+      "item_type": "short_answer_conceptual",
+      "question": "مکانیسم ایجاد Winging Scapula چیست و معمولاً به دلیل ضعف کدام عضله رخ می‌دهد؟",
+      "answer": "لبه داخلی کتف از دیواره قفسه سینه فاصله می‌گیرد (معمولاً به دلیل ضعف عضله Serratus Anterior)."
+    },
+    {
+      "id": "q_034",
+      "section_id": "§5.2",
+      "item_type": "short_answer_conceptual",
+      "question": "وجود همزمان Shoulder drop و Winging Scapula نشان‌دهنده ضعف کدام عضله یا عصب است؟",
+      "answer": "نشان‌دهنده ضعف عضله Trapezius یا عصب Spinal Accessory است."
+    },
+    {
+      "id": "q_035",
+      "section_id": "§5.2",
+      "item_type": "short_answer_factual",
+      "question": "ضعف کدام سه عضله می‌تواند باعث Winging Scapula شود؟",
+      "answer": "عضلات Serratus Anterior (مهم‌ترین)، Trapezius و Rhomboid Major/Minor"
+    },
+    {
+      "id": "q_036",
+      "section_id": "§5.3",
+      "item_type": "short_answer_factual",
+      "question": "علل اختلاف ارتفاع لگن (Pelvic Height Asymmetry) کدامند؟",
+      "answer": "اختلاف طول اندام تحتانی، اسکولیوز و دفورمیتی مفصل ران"
+    },
+    {
+      "id": "q_037",
+      "section_id": "§5.3",
+      "item_type": "short_answer_conceptual",
+      "question": "تفاوت اختلاف طول واقعی (True) و عملکردی (Functional) اندام تحتانی در چیست؟",
+      "answer": "در نوع True، کوتاهی واقعی در استخوان فمور یا تیبیا وجود دارد، اما در نوع Functional، طول استخوان طبیعی است و اختلاف به دلیل وضعیت غیرطبیعی لگن یا ستون فقرات ایجاد می‌شود."
+    },
+    {
+      "id": "q_038",
+      "section_id": "§5.3",
+      "item_type": "short_answer_conceptual",
+      "question": "انحراف کل تنه به یک سمت (Trunk Shift) چه نوع پوسچری است و معمولاً در چه وضعیتی دیده می‌شود؟",
+      "answer": "یک پوسچر ضد درد است که معمولاً در فتق دیسک کمری (Lumbar Disc Herniation) دیده می‌شود و بیمار برای کاهش فشار روی ریشه عصبی تنه را متمایل می‌کند."
+    },
+    {
+      "id": "q_039",
+      "section_id": "§6",
+      "item_type": "short_answer_factual",
+      "question": "ضایعات پوستی که در معاینه ستون فقرات باید به آنها توجه شود، کدامند؟",
+      "answer": "Birthmark، Port Wine Stain، Hairy Patch و Lipoma"
+    },
+    {
+      "id": "q_040",
+      "section_id": "§6",
+      "item_type": "short_answer_conceptual",
+      "question": "وجود ضایعات پوستی مادرزادی روی ستون فقرات ممکن است با چه ناهنجاری استخوانی زمینه‌ای همراه باشد؟",
+      "answer": "ممکن است با ناهنجاری‌های استخوانی مانند Spina Bifida همراه باشد."
+    },
+    {
+      "id": "q_041",
+      "section_id": "§6",
+      "item_type": "short_answer_factual",
+      "question": "ضایعات پوستی مرتبط با نوروفیبروماتوز (Neurofibromatosis) کدامند؟",
+      "answer": "لکه‌های قهوه‌ای یکنواخت (Café-au-lait Macules)، Skin Tags و تومورهای فیبری (Fibrous tumors)"
+    },
+    {
+      "id": "q_042",
+      "section_id": "§6",
+      "item_type": "short_answer_conceptual",
+      "question": "وجود چه یافته‌ای در معاینه پوست، یکی از معیارهای تشخیصی نوروفیبروماتوز محسوب می‌شود؟",
+      "answer": "وجود تعداد متعدد لکه‌های Café-au-lait، به‌ویژه در ناحیه آگزیلاری."
+    },
+    {
+      "id": "q_043",
+      "section_id": "§7",
+      "item_type": "short_answer_factual",
+      "question": "هدف از لمس (Palpation) در معاینه ستون فقرات چیست؟",
+      "answer": "ارزیابی وضعیت مهره‌ها، مفاصل، عضلات و شناسایی حساسیت موضعی، اسپاسم عضلانی یا ناپایداری"
+    },
+    {
+      "id": "q_044",
+      "section_id": "§7.1",
+      "item_type": "short_answer_factual",
+      "question": "برای لمس زوائد خاری (Spinous Processes) از کدام انگشت استفاده می‌شود و وضعیت بیمار چگونه است؟",
+      "answer": "با استفاده از شست، در حالی که بیمار در وضعیت نشسته یا ایستاده است."
+    },
+    {
+      "id": "q_045",
+      "section_id": "§7.1",
+      "item_type": "short_answer_factual",
+      "question": "برجسته‌ترین و قابل‌لمس‌ترین زوائد خاری مربوط به کدام مهره‌ها هستند؟",
+      "answer": "زوائد خاری T1 و C7"
+    },
+    {
+      "id": "q_046",
+      "section_id": "§7.2",
+      "item_type": "fill_blank",
+      "question": "مفاصل فاست گردنی (Cervical Facet Joints) در فاصله ........ سانتی‌متر خارج از زوائد خاری مهره‌های C2 تا C7 قرار دارند.",
+      "answer": "1 تا 2"
+    },
+    {
+      "id": "q_047",
+      "section_id": "§7.2",
+      "item_type": "short_answer_conceptual",
+      "question": "برای لمس بهتر مفاصل فاست گردنی، چه شرطی باید برقرار باشد و چرا؟",
+      "answer": "عضلات گردن باید شل باشند، زیرا لمس این مفاصل عمقی است و شلی عضلات امکان لمس را فراهم می‌کند."
+    },
+    {
+      "id": "q_048",
+      "section_id": "§7.2",
+      "item_type": "short_answer_factual",
+      "question": "مفاصل فاست گردنی در عمق کدام عضله واقع شده‌اند؟",
+      "answer": "عضله تراپزیوس (Trapezius)"
+    },
+    {
+      "id": "q_049",
+      "section_id": "§7.2",
+      "item_type": "short_answer_conceptual",
+      "question": "وجود درد هنگام لمس مفاصل فاست گردنی نشان‌دهنده چیست؟",
+      "answer": "مطرح‌کننده بیماری‌های مفصل فاست (التهاب یا آرتروز) است."
+    },
+    {
+      "id": "q_050",
+      "section_id": "§7.3",
+      "item_type": "short_answer_conceptual",
+      "question": "بررسی Step-off در ناحیه کمری به چه معناست و چه چیزی را نشان می‌دهد؟",
+      "answer": "یعنی بررسی اینکه آیا یک مهره نسبت به مهره مجاور به سمت قدام برجسته‌تر (Prominent) یا به عقب رفته (Recessed) است. وجود Step-off معمولاً مطرح‌کننده Spondylolisthesis است."
+    },
+    {
+      "id": "q_051",
+      "section_id": "§7.3",
+      "item_type": "fill_blank",
+      "question": "وجود Step-off معمولاً مطرح‌کننده ........ است که اغلب در اثر شکستگی Pars Interarticularis رخ می‌دهد.",
+      "answer": "Spondylolisthesis"
+    },
+    {
+      "id": "q_052",
+      "section_id": "§7.3",
+      "item_type": "short_answer_conceptual",
+      "question": "Spondylolisthesis چیست و معمولاً به دنبال چه ضایعه‌ای رخ می‌دهد؟",
+      "answer": "لغزش قدامی یک مهره روی مهره زیرین است که معمولاً در اثر شکستگی Pars Interarticularis رخ می‌دهد."
+    },
+    {
+      "id": "q_053",
+      "section_id": "§7.4",
+      "item_type": "short_answer_factual",
+      "question": "مفصل ساکروایلیاک (SI Joint) در حالت طبیعی چه وضعیتی دارد؟",
+      "answer": "قابل لمس نیست."
+    },
+    {
+      "id": "q_054",
+      "section_id": "§7.4",
+      "item_type": "short_answer_factual",
+      "question": "محل دقیق لمس مفصل ساکروایلیاک کجاست؟",
+      "answer": "تقریباً روی فرورفتگی PSIS (به پهنای یک بند انگشت پایین‌تر)"
+    },
+    {
+      "id": "q_055",
+      "section_id": "§7.4",
+      "item_type": "short_answer_conceptual",
+      "question": "حساسیت (Tenderness) در ناحیه مفصل ساکروایلیاک به نفع چه تشخیص‌هایی است؟",
+      "answer": "به نفع ساکروایلئیت (Sacroiliitis) و اسپوندیلیت آنکیلوزان (Ankylosing Spondylitis) است."
+    },
+    {
+      "id": "q_056",
+      "section_id": "§7.4",
+      "item_type": "short_answer_conceptual",
+      "question": "تفاوت درگیری مفصل ساکروایلیاک در ساکروایلئیت و اسپوندیلیت آنکیلوزان چیست؟",
+      "answer": "ساکروایلئیت ممکن است یک‌طرفه یا دوطرفه باشد، اما در اسپوندیلیت آنکیلوزان معمولاً درگیری دوطرفه مشاهده می‌شود."
+    },
+    {
+      "id": "q_057",
+      "section_id": "§7.4",
+      "item_type": "short_answer_conceptual",
+      "question": "اسپوندیلیت آنکیلوزان در کدام دسته از بیماری‌های روماتولوژیک قرار می‌گیرد؟",
+      "answer": "اسپوندیلوآرتروپاتی‌های سرونگاتیو (Seronegative Spondyloarthropathies)"
+    },
+    {
+      "id": "q_058",
+      "section_id": "§7.5",
+      "item_type": "short_answer_factual",
+      "question": "حساسیت مهره‌ای (Vertebral Tenderness) به معنی وجود درد روی کدام قسمت از مهره است؟",
+      "answer": "روی زوائد خاری (Spinous Process)."
+    },
+    {
+      "id": "q_059",
+      "section_id": "§7.5",
+      "item_type": "short_answer_conceptual",
+      "question": "چرا حساسیت روی مهره‌ها همیشه باید جدی تلقی شود؟",
+      "answer": "زیرا می‌تواند نشان‌دهنده بدخیمی استخوانی، متاستاز، آرتریت، عفونت، استئومیلیت، دررفتگی یا شکستگی مهره باشد که همگی شرایط جدی هستند."
+    },
+    {
+      "id": "q_060",
+      "section_id": "§7.5",
+      "item_type": "fill_blank",
+      "question": "وجود درد روی زوائد خاری (Spinous Process) می‌تواند مطرح‌کننده موارد زیر باشد: بدخیمی استخوانی و متاستاز، آرتریت، عفونت، استئومیلیت، دررفتگی و ______ (همراه با تندرنس قابل توجه).",
+      "answer": "شکستگی مهره"
+    },
+    {
+      "id": "q_061",
+      "section_id": "§7.6",
+      "item_type": "short_answer_factual",
+      "question": "برای بررسی عضلات پاراورترال (Paraspinal Muscles)، آن‌ها را در کجا لمس می‌کنیم؟",
+      "answer": "در دو طرف ستون فقرات."
+    },
+    {
+      "id": "q_062",
+      "section_id": "§7.6",
+      "item_type": "fill_blank",
+      "question": "در بررسی عضلات پاراورترال (Paraspinal Muscles)، موارد زیر ارزیابی می‌شوند: حساسیت، ______، افزایش تون عضلانی و وجود توده.",
+      "answer": "اسپاسم یا سفتی عضله"
+    },
+    {
+      "id": "q_063",
+      "section_id": "§7.6",
+      "item_type": "short_answer_conceptual",
+      "question": "یافته طبیعی در لمس عضلات پاراورترال (Paraspinal Muscles) چیست؟",
+      "answer": "عضلات باید نرم، قرینه، بدون درد و بدون اسپاسم باشند."
+    },
+    {
+      "id": "q_064",
+      "section_id": "§7.6",
+      "item_type": "short_answer_conceptual",
+      "question": "یافته غیرطبیعی در لمس عضلات پاراورترال (Paraspinal Muscles) چیست؟",
+      "answer": "اسپاسم عضلانی، عضله سفت (Firm) و گره‌دار (Knotted) که گاهی حتی در مشاهده نیز قابل تشخیص است."
+    },
+    {
+      "id": "q_065",
+      "section_id": "§7.7",
+      "item_type": "short_answer_factual",
+      "question": "برای لمس عصب سیاتیک (Sciatic Nerve)، بیمار در چه وضعیتی قرار می‌گیرد؟",
+      "answer": "بیمار به پهلوی سالم می‌خوابد و مفصل ران و زانو در سمت معاینه در حالت فلکشن (Flexion) قرار می‌گیرند."
+    },
+    {
+      "id": "q_066",
+      "section_id": "§7.7",
+      "item_type": "fill_blank",
+      "question": "ناحیه بین ایسکیال تیوبروزیته (Ischial Tuberosity) و ______ لمس می‌شود تا عصب سیاتیک (Sciatic Nerve) بررسی شود.",
+      "answer": "تروکانتر بزرگ (Greater Trochanter)"
+    },
+    {
+      "id": "q_067",
+      "section_id": "§7.7",
+      "item_type": "short_answer_factual",
+      "question": "عصب سیاتیک (Sciatic Nerve) از کدام ریشه‌های عصبی تشکیل می‌شود؟",
+      "answer": "ریشه‌های L4 تا S3."
+    },
+    {
+      "id": "q_068",
+      "section_id": "§7.7",
+      "item_type": "short_answer_conceptual",
+      "question": "چرا لمس مستقیم عصب سیاتیک (Sciatic Nerve) در بیشتر افراد امکان‌پذیر نیست؟",
+      "answer": "به علت عمق زیاد مسیر عصب."
+    },
+    {
+      "id": "q_069",
+      "section_id": "§7.7",
+      "item_type": "short_answer_factual",
+      "question": "وجود درد و تندرنس هنگام لمس عصب سیاتیک (Sciatic Nerve) ممکن است نشان‌دهنده چه وضعیتی باشد؟",
+      "answer": "سیاتیکا (Sciatica)."
+    },
+    {
+      "id": "q_070",
+      "section_id": "§7.7",
+      "item_type": "short_answer_conceptual",
+      "question": "تشخیص افتراقی مهم سیاتیکا (Sciatica) کدام است؟",
+      "answer": "سندرم پیریفورمیس (Piriformis Syndrome)."
+    },
+    {
+      "id": "q_071",
+      "section_id": "§8",
+      "item_type": "short_answer_conceptual",
+      "question": "چرا ارزیابی دامنه حرکتی (Range of Motion - ROM) یکی از مهم‌ترین بخش‌های معاینه فیزیکی ستون فقرات است؟",
+      "answer": "زیرا کاهش ROM می‌تواند ناشی از بیماری‌های مختلف مانند عضلانی، لیگامانی، دژنراتیو، التهابی، شکستگی یا درگیری ریشه عصبی باشد و به تشخیص کمک می‌کند."
+    },
+    {
+      "id": "q_072",
+      "section_id": "§8",
+      "item_type": "short_answer_factual",
+      "question": "حرکات دامنه حرکتی (ROM) ستون فقرات باید به چه صورتی انجام شوند؟",
+      "answer": "به‌صورت فعال انجام شوند و در صورت نیاز با حرکت غیرفعال تکمیل شوند."
+    },
+    {
+      "id": "q_073",
+      "section_id": "§8",
+      "item_type": "fill_blank",
+      "question": "در تمام حرکات دامنه حرکتی (ROM)، موارد زیر ارزیابی می‌شوند: وجود درد، محدودیت حرکت، ______ و کیفیت حرکت.",
+      "answer": "اسپاسم عضلانی"
+    },
+    {
+      "id": "q_074",
+      "section_id": "§8.1",
+      "item_type": "short_answer_factual",
+      "question": "متحرک‌ترین قسمت ستون فقرات کدام است؟",
+      "answer": "گردن (ستون فقرات گردنی - Cervical Spine)."
+    },
+    {
+      "id": "q_075",
+      "section_id": "§8.1",
+      "item_type": "fill_blank",
+      "question": "فلکشن (Flexion) گردن به معنای ______ است.",
+      "answer": "خم شدن سر به جلو به طوری که چانه به قفسه سینه نزدیک شود."
+    },
+    {
+      "id": "q_076",
+      "section_id": "§8.1",
+      "item_type": "fill_blank",
+      "question": "اکستنشن (Extension) گردن به معنای ______ است.",
+      "answer": "خم شدن سر به عقب به طوری که فرد بتواند سقف را ببیند."
+    },
+    {
+      "id": "q_077",
+      "section_id": "§8.1",
+      "item_type": "fill_blank",
+      "question": "چرخش (Rotation) گردن به معنای ______ است.",
+      "answer": "چرخاندن سر به راست و چپ به طوری که فرد بتواند شانه همان سمت را ببیند."
+    },
+    {
+      "id": "q_078",
+      "section_id": "§8.1",
+      "item_type": "fill_blank",
+      "question": "خم شدن جانبی (Lateral Flexion) گردن به معنای ______ است.",
+      "answer": "خم کردن گوش به سمت شانه."
+    },
+    {
+      "id": "q_079",
+      "section_id": "§8.2",
+      "item_type": "short_answer_factual",
+      "question": "حرکات ستون فقرات کمری و توراسیک (Thoracolumbar) شامل چه مواردی است؟",
+      "answer": "خم شدن به جلو (Flexion)، خم شدن به عقب (Extension)، خم شدن به طرفین (Lateral Bending) و چرخش تنه (Rotation)."
+    },
+    {
+      "id": "q_080",
+      "section_id": "§8.2",
+      "item_type": "fill_blank",
+      "question": "در انجام فلکشن (Flexion) کمری، بیمار باید با زانوهای صاف به سمت جلو خم شود و بتواند ______ را تا زانوها پایین بیاورد.",
+      "answer": "انگشتان دست"
+    },
+    {
+      "id": "q_081",
+      "section_id": "§8.2",
+      "item_type": "short_answer_conceptual",
+      "question": "در انجام فلکشن (Flexion) کمری، چه مواردی بررسی می‌شوند؟",
+      "answer": "دامنه حرکت مهره‌های کمری، انعطاف‌پذیری عضلات همسترینگ (Hamstrings)، وجود درد و تقارن دو طرف تنه."
+    },
+    {
+      "id": "q_082",
+      "section_id": "§8.2",
+      "item_type": "short_answer_factual",
+      "question": "در افراد سالم هنگام فلکشن (Flexion) کمر، لوردوز (Lordosis) کمر باید چه تغییری کند؟",
+      "answer": "باید از بین برود."
+    },
+    {
+      "id": "q_083",
+      "section_id": "§8.2",
+      "item_type": "short_answer_conceptual",
+      "question": "باقی‌ماندن لوردوز (Lordosis) کمری همراه با کاهش دامنه فلکشن (Flexion)، چه تشخیصی را مطرح می‌کند؟",
+      "answer": "اسپوندیلوآرتروپاتی‌ها (Spondyloarthropathies) به عنوان تشخیص افتراقی."
+    },
+    {
+      "id": "q_084",
+      "section_id": "§9",
+      "item_type": "short_answer_factual",
+      "question": "تست‌های اختصاصی ستون فقرات چه زمانی انجام می‌شوند؟",
+      "answer": "متناسب با شرح حال و معاینه فیزیکی بیمار در صورت لزوم انجام می‌شوند."
+    },
+    {
+      "id": "q_085",
+      "section_id": "§9.1",
+      "item_type": "short_answer_factual",
+      "question": "مهم‌ترین تست غربالگری اسکولیوز (Scoliosis) کدام است؟",
+      "answer": "تست خم شدن به جلو آدامز (Adams Forward Bend Test)."
+    },
+    {
+      "id": "q_086",
+      "section_id": "§9.1",
+      "item_type": "essay",
+      "question": "روش انجام و تفسیر تست خم شدن به جلو آدامز (Adams Forward Bend Test) را شرح دهید.",
+      "answer": "روش انجام: بیمار در وضعیت ایستاده قرار می‌گیرد. پاها کنار یکدیگر، زانوها کاملاً صاف و بازوها آزادانه آویزان هستند. سپس بیمار به آرامی از ناحیه کمر به جلو خم می‌شود تا ستون فقرات تقریباً موازی سطح زمین قرار گیرد. معاینه‌کننده از پشت بیمار ستون فقرات را مشاهده می‌کند. تفسیر: در فرد طبیعی، دو نیمه قفسه سینه و دو سمت ناحیه کمری متقارن هستند و هیچ برجستگی یک‌طرفه دیده نمی‌شود. تست مثبت: اگر یک قسمت قفسه سینه یا ناحیه کمری برجسته‌تر باشد (Rib Prominence یا Thoracic Hump)، تست مثبت است و باید رادیوگرافی ایستاده ستون فقرات و اندازه‌گیری زاویه Cobb انجام شود."
+    },
+    {
+      "id": "q_087",
+      "section_id": "§9.1",
+      "item_type": "fill_blank",
+      "question": "در تست آدامز (Adams Forward Bend Test)، بیمار باید به آرامی از ناحیه کمر به جلو خم شود تا ستون فقرات تقریباً ______ قرار گیرد.",
+      "answer": "موازی سطح زمین"
+    },
+    {
+      "id": "q_088",
+      "section_id": "§9.1",
+      "item_type": "short_answer_factual",
+      "question": "تست آدامز (Adams Forward Bend Test) در فرد طبیعی چه یافته‌ای دارد؟",
+      "answer": "دو نیمه قفسه سینه و دو سمت ناحیه کمری متقارن هستند و هیچ برجستگی یک‌طرفه دیده نمی‌شود."
+    },
+    {
+      "id": "q_089",
+      "section_id": "§9.1",
+      "item_type": "fill_blank",
+      "question": "در تست آدامز (Adams Forward Bend Test) مثبت، یک قسمت قفسه سینه یا ناحیه کمری برجسته‌تر است که به آن ______ یا Thoracic Hump می‌گویند.",
+      "answer": "Rib Prominence"
+    },
+    {
+      "id": "q_090",
+      "section_id": "§9.1",
+      "item_type": "short_answer_conceptual",
+      "question": "در تست آدامز (Adams Forward Bend Test) مثبت، چه اقدام تشخیصی بعدی انجام می‌شود؟",
+      "answer": "درخواست رادیوگرافی ایستاده ستون فقرات و اندازه‌گیری زاویه Cobb."
+    },
+    {
+      "id": "q_091",
+      "section_id": "§9.2",
+      "item_type": "short_answer_factual",
+      "question": "کیفوز شوئرمن (Scheuermann's Kyphosis) چه ویژگی مهمی در هنگام خم شدن به جلو دارد؟",
+      "answer": "کیفوز از بین نمی‌رود (Rigid Kyphosis - کیفوز سفت)."
+    },
+    {
+      "id": "q_092",
+      "section_id": "§9.2",
+      "item_type": "short_answer_conceptual",
+      "question": "تفاوت کیفوز شوئرمن (Scheuermann's Kyphosis) با کیفوز وضعیتی (Postural Kyphosis) چیست؟",
+      "answer": "در کیفوز وضعیتی با خم شدن یا اصلاح وضعیت، انحنا کاهش می‌یابد اما در شوئرمن، انحنا ثابت باقی می‌ماند."
+    },
+    {
+      "id": "q_093",
+      "section_id": "§9.2",
+      "item_type": "short_answer_factual",
+      "question": "شایع‌ترین علت کیفوز ساختاری در نوجوانان چیست؟",
+      "answer": "کیفوز شوئرمن (Scheuermann's Kyphosis)."
+    },
+    {
+      "id": "q_094",
+      "section_id": "§9.2",
+      "item_type": "short_answer_factual",
+      "question": "بهترین نما برای مشاهده کیفوز شوئرمن (Scheuermann's Kyphosis) کدام است؟",
+      "answer": "نمای جانبی بیمار."
+    },
+    {
+      "id": "q_095",
+      "section_id": "§9.3",
+      "item_type": "short_answer_factual",
+      "question": "تست اصلاح شده شوبر (Modified Schober Test) برای ارزیابی چه چیزی به کار می‌رود و در کدام بیماری‌ها کاربرد دارد؟",
+      "answer": "برای ارزیابی میزان فلکشن (Flexion) ستون فقرات کمری، به‌ویژه در Ankylosing Spondylitis و Spondyloarthritis."
+    },
+    {
+      "id": "q_096",
+      "section_id": "§9.3",
+      "item_type": "essay",
+      "question": "روش انجام و تفسیر تست اصلاح شده شوبر (Modified Schober Test) را شرح دهید.",
+      "answer": "روش انجام: بیمار کاملاً صاف می‌ایستد. لندمارکی روی PSIS پیدا کرده و با یک خط به هم وصل می‌کنیم. از آن خط ۱۰ سانتی‌متر به بالا و ۵ سانتی‌متر به پایین علامت زده می‌شود (مجموعاً ۱۵ سانتی‌متر). سپس از بیمار خواسته می‌شود تا حداکثر ممکن به جلو خم شود و فاصله جدید اندازه‌گیری می‌شود. نتیجه طبیعی: فاصله باید حداقل ۵ تا ۶ سانتی‌متر افزایش پیدا کند (مثلاً از ۱۵ به ۲۱ سانتی‌متر برسد). نتیجه غیرطبیعی: اگر افزایش کمتر از ۵ سانتی‌متر باشد، تست مثبت است و محدودیت حرکت ستون فقرات کمری مطرح می‌شود."
+    },
+    {
+      "id": "q_097",
+      "section_id": "§9.3",
+      "item_type": "fill_blank",
+      "question": "در تست شوبر (Modified Schober Test)، از خط PSIS، ______ سانتی‌متر به بالا و ______ سانتی‌متر به پایین علامت زده می‌شود.",
+      "answer": "۱۰ و ۵"
+    },
+    {
+      "id": "q_098",
+      "section_id": "§9.3",
+      "item_type": "short_answer_factual",
+      "question": "نتیجه طبیعی تست شوبر (Modified Schober Test) چگونه است؟",
+      "answer": "فاصله باید حداقل ۵ تا ۶ سانتی‌متر افزایش پیدا کند (مثلاً از ۱۵ به ۲۱ سانتی‌متر برسد)."
+    },
+    {
+      "id": "q_099",
+      "section_id": "§9.3",
+      "item_type": "short_answer_conceptual",
+      "question": "نتیجه غیرطبیعی در تست شوبر (Modified Schober Test) چیست و نشان‌دهنده چیست؟",
+      "answer": "اگر افزایش کمتر از ۵ سانتی‌متر باشد، تست مثبت است و محدودیت حرکت ستون فقرات کمری مطرح می‌شود."
+    },
+    {
+      "id": "q_100",
+      "section_id": "§10",
+      "item_type": "short_answer_factual",
+      "question": "تست‌های ارزیابی رادیکولوپاتی (Radiculopathy Tests) برای بررسی چه مواردی استفاده می‌شوند؟",
+      "answer": "برای بررسی درگیری ریشه‌های عصبی، دیسک بین مهره‌ای و تنگی فورامن (Foraminal Stenosis)."
+    },
+    {
+      "id": "q_101",
+      "section_id": "§10.1",
+      "item_type": "short_answer_factual",
+      "question": "هدف تست Straight Leg Raise (SLR) چیست؟",
+      "answer": "ارزیابی تحریک ریشه‌های عصبی کمری، به‌ویژه در Herniated Lumbar Disc."
+    },
+    {
+      "id": "q_102",
+      "section_id": "§10.1",
+      "item_type": "fill_blank",
+      "question": "تست Straight Leg Raise (SLR) بیشترین ارزش تشخیصی را برای درگیری ریشه‌های ______ دارد.",
+      "answer": "L5 و S1"
+    },
+    {
+      "id": "q_103",
+      "section_id": "§10.1",
+      "item_type": "essay",
+      "question": "روش انجام و تفسیر تست Straight Leg Raise (SLR) را شرح دهید.",
+      "answer": "روش انجام: بیمار به پشت (Supine) دراز می‌کشد. هر دو زانو کاملاً صاف باقی می‌مانند. معاینه‌کننده پاشنه پا را گرفته و اندام تحتانی را به آرامی از مفصل ران بالا می‌آورد. در تمام مدت آزمون زانو نباید خم شود. حین بالا آوردن اندام، زاویه‌ای که درد ایجاد می‌شود، نوع درد، انتشار درد و تأثیر دورسی‌فلکشن (Dorsiflexion) مچ پا بر شدت علائم بررسی می‌شود. یافته طبیعی: احساس کشش در همسترینگ یا باسن طبیعی است و نباید با درد رادیکولار اشتباه شود. تست مثبت: درد تیرکشنده (Radicular Pain) از کمر به سمت باسن، پشت ران، ساق یا کف پا انتشار یابد (معمولاً در زاویه ۳۰ تا ۷۰ درجه فلکشن ران). درد در زاویه کمتر از ۳۰ درجه ممکن است ناشی از فتق بزرگ دیسک، تومور یا آبسه اپیدورال باشد و درد بیشتر از ۷۰ درجه ناشی از کوتاهی همسترینگ، اسپاسم عضلانی یا بیماری مفصل هیپ. تست براگارد (Bragard Test) برای تایید: در زاویه‌ای که بیمار اظهار درد می‌کند، مچ پا را به سمت بالا (Dorsiflexion) خم می‌کنیم؛ اگر درد تشدید شود، احتمال فشار روی ریشه عصبی بسیار بیشتر است. شایع‌ترین علت تست مثبت، فتق دیسک کمری است. حساسیت حدود ۸۰٪ و ویژگی حدود ۴۰٪ است؛ بنابراین منفی بودن احتمال فتق را کاهش می‌دهد ولی مثبت بودن به‌تنهایی کافی نیست."
+    },
+    {
+      "id": "q_104",
+      "section_id": "§10.1",
+      "item_type": "short_answer_factual",
+      "question": "در تست Straight Leg Raise (SLR)، یافته طبیعی چیست؟",
+      "answer": "احساس کشش در همسترینگ (Hamstrings) یا باسن طبیعی است و نباید با درد رادیکولار اشتباه شود."
+    },
+    {
+      "id": "q_105",
+      "section_id": "§10.1",
+      "item_type": "fill_blank",
+      "question": "تست Straight Leg Raise (SLR) مثبت زمانی است که ______ از کمر به سمت باسن، پشت ران، ساق یا کف پا انتشار یابد.",
+      "answer": "درد تیرکشنده (Radicular Pain)"
+    },
+    {
+      "id": "q_106",
+      "section_id": "§10.1",
+      "item_type": "fill_blank",
+      "question": "درد رادیکولار در تست Straight Leg Raise (SLR) معمولاً در زاویه ______ درجه فلکشن ران ایجاد می‌شود.",
+      "answer": "۳۰ تا ۷۰"
+    },
+    {
+      "id": "q_107",
+      "section_id": "§10.1",
+      "item_type": "short_answer_factual",
+      "question": "درد در زاویه کمتر از ۳۰ درجه در تست Straight Leg Raise (SLR) ممکن است ناشی از چه مواردی باشد؟",
+      "answer": "فتق بزرگ دیسک، تومور یا آبسه اپیدورال."
+    },
+    {
+      "id": "q_108",
+      "section_id": "§10.1",
+      "item_type": "short_answer_factual",
+      "question": "درد در زاویه بیشتر از ۷۰ درجه در تست Straight Leg Raise (SLR) ممکن است ناشی از چه مواردی باشد؟",
+      "answer": "کوتاهی همسترینگ، اسپاسم عضلانی یا بیماری مفصل هیپ."
+    },
+    {
+      "id": "q_109",
+      "section_id": "§10.1",
+      "item_type": "short_answer_conceptual",
+      "question": "تست براگارد (Bragard Test) چگونه انجام می‌شود و چه هدفی دارد؟",
+      "answer": "در زاویه‌ای که بیمار اظهار درد می‌کند، مچ پا را به سمت بالا (Dorsiflexion) خم می‌کنیم. اگر درد تشدید شود، احتمال فشار روی ریشه عصبی بسیار بیشتر است. این تست برای تایید نتیجه تست SLR انجام می‌شود."
+    },
+    {
+      "id": "q_110",
+      "section_id": "§10.1",
+      "item_type": "short_answer_factual",
+      "question": "شایع‌ترین علت تست مثبت Straight Leg Raise (SLR) چیست؟",
+      "answer": "فتق دیسک کمری (Lumbar Disc Herniation)."
+    },
+    {
+      "id": "q_111",
+      "section_id": "§10.1",
+      "item_type": "fill_blank",
+      "question": "حساسیت تست Straight Leg Raise (SLR) حدود ______ درصد و ویژگی آن حدود ______ درصد است.",
+      "answer": "۸۰ و ۴۰"
+    },
+    {
+      "id": "q_112",
+      "section_id": "§10.1",
+      "item_type": "short_answer_conceptual",
+      "question": "با توجه به حساسیت و ویژگی تست Straight Leg Raise (SLR)، چگونه می‌توان نتیجه منفی و مثبت را تفسیر کرد؟",
+      "answer": "منفی بودن تست، احتمال فتق دیسک را تا حد زیادی کاهش می‌دهد ولی مثبت بودن به‌تنهایی برای تشخیص قطعی کافی نیست (منفی کاذب کم و مثبت کاذب نسبتاً زیاد است)."
+    },
+    {
+      "id": "q_113",
+      "section_id": "§10.2",
+      "item_type": "short_answer_factual",
+      "question": "تست متقاطع (Crossed Straight Leg Raise Test) چگونه انجام می‌شود؟",
+      "answer": "اندام سالم بالا آورده می‌شود."
+    },
+    {
+      "id": "q_114",
+      "section_id": "§10.2",
+      "item_type": "short_answer_conceptual",
+      "question": "تست متقاطع (Crossed SLR) در چه صورتی مثبت است؟",
+      "answer": "اگر در حین بالا آوردن اندام سالم، درد رادیکولار در اندام مبتال ایجاد شود."
+    },
+    {
+      "id": "q_115",
+      "section_id": "§10.2",
+      "item_type": "short_answer_conceptual",
+      "question": "اهمیت بالینی تست متقاطع (Crossed SLR) نسبت به تست Straight Leg Raise (SLR) چیست؟",
+      "answer": "حساسیت کمتر دارد اما ویژگی (Specificity) بسیار بیشتری دارد و مثبت شدن آن، احتمال Herniated Lumbar Disc را به میزان قابل توجهی افزایش می‌دهد."
+    },
+    {
+      "id": "q_116",
+      "section_id": "§10.3",
+      "item_type": "short_answer_factual",
+      "question": "هدف تست Spurling چیست؟",
+      "answer": "ارزیابی رادیکولوپاتی گردنی (Cervical Radiculopathy)."
+    },
+    {
+      "id": "q_117",
+      "section_id": "§10.3",
+      "item_type": "fill_blank",
+      "question": "تست Spurling مهم‌ترین تست بالینی برای رادیکولوپاتی گردنی است و معادل ______ در گردن محسوب می‌شود.",
+      "answer": "تست Straight Leg Raise (SLR)"
+    },
+    {
+      "id": "q_118",
+      "section_id": "§10.3",
+      "item_type": "essay",
+      "question": "روش انجام و تفسیر تست Spurling را شرح دهید.",
+      "answer": "روش انجام: ابتدا بیمار گردن را به سمت مبتال می‌چرخاند، سپس گردن در همان سمت اکستانسیون (Extension) داده می‌شود. پس از آن معاینه‌کننده فشار محوری (Axial Compression) از باالی سر به سمت پایین وارد می‌کند. این وضعیت باعث کاهش قطر فورامن بین مهره‌ای می‌شود. تست مثبت: ایجاد یا تشدید درد تیرکشنده، گزگز یا بی‌حسی در مسیر ریشه عصبی گردنی (مثلاً از گردن به شانه، بازو، ساعد و انگشتان). تفسیر بالینی: وجود درد محدود به گردن بدون انتشار به اندام فوقانی ارزش تشخیصی کمتری دارد. علل مثبت شدن شامل Herniated Cervical Disc، Cervical Spondylosis، Foraminal Stenosis و Osteophyte است. احتیاط: در بیماران با شک به مایلوپاتی یا ناپایداری ستون فقرات C1-C2 (در زمینه روماتیسم شدید گردن) نباید انجام شود."
+    },
+    {
+      "id": "q_119",
+      "section_id": "§10.3",
+      "item_type": "short_answer_conceptual",
+      "question": "در تست Spurling، مکانیسم ایجاد علائم چیست؟",
+      "answer": "فشار محوری (Axial Compression) باعث کاهش قطر فورامن بین مهره‌ای می‌شود و در صورت وجود فشار روی ریشه عصبی، علائم تشدید می‌شوند."
+    },
+    {
+      "id": "q_120",
+      "section_id": "§10.3",
+      "item_type": "fill_blank",
+      "question": "تست Spurling مثبت به صورت ایجاد یا تشدید ______ در مسیر ریشه عصبی گردنی است.",
+      "answer": "درد تیرکشنده، گزگز یا بی‌حسی"
+    },
+    {
+      "id": "q_121",
+      "section_id": "§10.3",
+      "item_type": "short_answer_conceptual",
+      "question": "وجود درد محدود به گردن بدون انتشار به اندام فوقانی در تست Spurling چه ارزش تشخیصی دارد؟",
+      "answer": "ارزش تشخیصی کمتری دارد."
+    },
+    {
+      "id": "q_122",
+      "section_id": "§10.3",
+      "item_type": "fill_blank",
+      "question": "علل مثبت شدن تست Spurling شامل Herniated Cervical Disc، Cervical Spondylosis، ______ و Osteophyte است.",
+      "answer": "Foraminal Stenosis"
+    },
+    {
+      "id": "q_123",
+      "section_id": "§10.3",
+      "item_type": "short_answer_factual",
+      "question": "تست Spurling در چه بیمارانی نباید انجام شود؟",
+      "answer": "در بیماران با شک به مایلوپاتی (Myelopathy) یا ناپایداری ستون فقرات C1-C2 (در زمینه روماتیسم شدید گردن)."
+    },
+    {
+      "id": "q_124",
+      "section_id": "§11",
+      "item_type": "short_answer_factual",
+      "question": "معاینه نورولوژی (Neurological Examination) پس از چه مراحلی انجام می‌شود؟",
+      "answer": "پس از بررسی دامنه حرکتی (ROM) و تست‌های اختصاصی."
+    },
+    {
+      "id": "q_125",
+      "section_id": "§11",
+      "item_type": "short_answer_factual",
+      "question": "در معاینه نورولوژی (Neurological Examination)، قدرت کدام عضلات ارزیابی می‌شود؟",
+      "answer": "عضلات اندام فوقانی و تحتانی."
+    },
+    {
+      "id": "q_126",
+      "section_id": "§11.1",
+      "item_type": "fill_blank",
+      "question": "ارزیابی قدرت عضلات به منظور تشخیص رادیکولوپاتی (Radiculopathy)، مایلوپاتی (Myelopathy)، ______، بیماری‌های عضلانی و اختلالات نورون حرکتی فوقانی و تحتانی انجام می‌شود.",
+      "answer": "نوروپاتی محیطی (Peripheral Neuropathy)"
+    },
+    {
+      "id": "q_127",
+      "section_id": "§11.1",
+      "item_type": "short_answer_factual",
+      "question": "اصول معاینه قدرت عضلات چیست؟",
+      "answer": "قدرت هر عضله باید به صورت دو طرفه مقایسه شود و در برابر مقاومت پزشک ارزیابی گردد."
+    },
+    {
+      "id": "q_128",
+      "section_id": "§11.2",
+      "item_type": "fill_blank",
+      "question": "در مقیاس MRC (Medical Research Council Scale)، درجه 0/5 به معنای ______ است.",
+      "answer": "هیچ انقباضی وجود ندارد (فلج کامل - Complete Paralysis)."
+    },
+    {
+      "id": "q_129",
+      "section_id": "§11.2",
+      "item_type": "fill_blank",
+      "question": "در مقیاس MRC، درجه 1/5 به معنای ______ است.",
+      "answer": "انقباض قابل مشاهده (Flicker) ولی حرکتی ایجاد نمی‌شود."
+    },
+    {
+      "id": "q_130",
+      "section_id": "§11.2",
+      "item_type": "fill_blank",
+      "question": "در مقیاس MRC، درجه 2/5 به معنای ______ است.",
+      "answer": "حرکت فقط با حذف نیروی جاذبه (حرکت روی سطح صاف)."
+    },
+    {
+      "id": "q_131",
+      "section_id": "§11.2",
+      "item_type": "fill_blank",
+      "question": "در مقیاس MRC، درجه 3/5 به معنای ______ است.",
+      "answer": "حرکت علیه جاذبه ولی بدون مقاومت (بیمار بر مقاومت پزشک غلبه نمی‌کند)."
+    },
+    {
+      "id": "q_132",
+      "section_id": "§11.2",
+      "item_type": "fill_blank",
+      "question": "در مقیاس MRC، درجه 4/5 به معنای ______ است.",
+      "answer": "حرکت علیه مقاومت ولی ضعیف‌تر از حد طبیعی."
+    },
+    {
+      "id": "q_133",
+      "section_id": "§11.2",
+      "item_type": "fill_blank",
+      "question": "در مقیاس MRC، درجه 5/5 به معنای ______ است.",
+      "answer": "قدرت طبیعی و بدون ضعف (حرکت علیه مقاومت کامل بدون خستگی)."
+    },
+    {
+      "id": "q_134",
+      "section_id": "§11.3",
+      "item_type": "fill_blank",
+      "question": "در معاینه حسی (Sensory Examination) در شک به ضایعه ریشه عصبی، مودالیتی‌های زیر بررسی می‌شوند: لمس سطحی (Light Touch)، ______، ویبریشن (Vibration) و پروپریوسپشن (Proprioception).",
+      "answer": "Pin Prick"
+    },
+    {
+      "id": "q_135",
+      "section_id": "§11.4",
+      "item_type": "fill_blank",
+      "question": "در ریشه C5، حرکت مورد ارزیابی ______ است و حس مربوط به ناحیه دلتوئید (Lateral arm) است.",
+      "answer": "فلکشن شانه (Shoulder Flexion) / ابداکشن شانه (Shoulder Abduction)"
+    },
+    {
+      "id": "q_136",
+      "section_id": "§11.4",
+      "item_type": "fill_blank",
+      "question": "در ریشه C6، حرکت فلکشن مچ (Wrist Flexion) / اکستنشن مچ (Wrist Extension) و حس مربوط به ناحیه ______ است.",
+      "answer": "تنار (Thumb and index finger)"
+    },
+    {
+      "id": "q_137",
+      "section_id": "§11.4",
+      "item_type": "fill_blank",
+      "question": "در ریشه C7، حرکت ______ و حس مربوط به سطح کف دستی فالانژ دیستال انگشت میانی است.",
+      "answer": "اکستنشن آرنج (Elbow Extension)"
+    },
+    {
+      "id": "q_138",
+      "section_id": "§11.4",
+      "item_type": "fill_blank",
+      "question": "در ریشه C8، حرکت گرفتن دست (Grip Strength) و حس مربوط به ______ است.",
+      "answer": "سطح کف دستی انگشت پنجم (Little finger)"
+    },
+    {
+      "id": "q_139",
+      "section_id": "§11.4",
+      "item_type": "fill_blank",
+      "question": "در ریشه T1، حرکت ابداکشن انگشتان (Finger Abduction) و حس مربوط به ______ است.",
+      "answer": "سطح داخلی بازو (Medial arm)"
+    },
+    {
+      "id": "q_140",
+      "section_id": "§11.4",
+      "item_type": "fill_blank",
+      "question": "در ریشه L2، حرکت فلکشن هیپ (Hip Flexion) و حس مربوط به ______ است.",
+      "answer": "ناحیه کشاله ران (Mid inguinal region)"
+    },
+    {
+      "id": "q_141",
+      "section_id": "§11.4",
+      "item_type": "fill_blank",
+      "question": "در ریشه L3، حرکت اکستنشن زانو (Knee Extension) و حس مربوط به ______ است.",
+      "answer": "قسمت پروگزیمال قدامی ران (Proximal anterior thigh)"
+    },
+    {
+      "id": "q_142",
+      "section_id": "§11.4",
+      "item_type": "fill_blank",
+      "question": "در ریشه L4، حرکت دورسی فلکشن مچ پا (Ankle Dorsiflexion) و حس مربوط به ______ است.",
+      "answer": "سطح داخلی ساق و پا (Medial leg and foot)"
+    },
+    {
+      "id": "q_143",
+      "section_id": "§11.4",
+      "item_type": "fill_blank",
+      "question": "در ریشه L5، حرکت اکستنشن انگشت شست پا (Great Toe Extension) و حس مربوط به ______ است.",
+      "answer": "پشت اولین فضای بین انگشتی پا (Dorsum of first web space)"
+    },
+    {
+      "id": "q_144",
+      "section_id": "§11.4",
+      "item_type": "fill_blank",
+      "question": "در ریشه S1، حرکت پلانتار فلکشن مچ پا (Ankle Plantar Flexion) و حس مربوط به ______ است.",
+      "answer": "سطح خارجی پا و پاشنه (Lateral foot and heel)"
+    },
+    {
+      "id": "q_145",
+      "section_id": "§11.4",
+      "item_type": "fill_blank",
+      "question": "در ریشه S2، حس مربوط به ناحیه ______ است (حرکت معمولاً ارزیابی نمی‌شود).",
+      "answer": "حفره پوپلیتئال (Popliteal fossa)"
+    }
+  ],
+  "status": "COMPLETE"
+}

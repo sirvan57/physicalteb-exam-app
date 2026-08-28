@@ -1,6 +1,6 @@
 import { useEffect, useState } from 'react';
 import { supabase } from '../lib/supabaseClient';
-import { useNavigate, useParams } from 'react-router-dom';
+import { useNavigate, useParams, useLocation } from 'react-router-dom';
 import { renderFormattedText } from '../utils/formatText';
 
 interface Stage1Props {
@@ -14,13 +14,19 @@ interface Section {
   blocks: any[];
 }
 
+// یک section_id «مربوط» به یک بخش است اگر خودش همان بخش باشد یا فرزند آن
+// (مثلاً «§5.1» فرزند «§5» است). این جایگزین تطبیق دقیق (==) شد.
+const isSameOrDescendant = (candidateId: string, sectionId: string) =>
+  candidateId === sectionId || candidateId.startsWith(`${sectionId}.`);
+
 const Stage1: React.FC<Stage1Props> = ({ sessionId: sessionIdProp }) => {
   const { sessionId: sessionIdParam } = useParams<{ sessionId: string }>();
   const sessionId = sessionIdProp ?? sessionIdParam ?? '';
   const [sections, setSections] = useState<Section[]>([]);
   const [loading, setLoading] = useState(true);
-  const [sectionsWithQuestions, setSectionsWithQuestions] = useState<Set<string>>(new Set());
+  const [questionSectionIds, setQuestionSectionIds] = useState<string[]>([]);
   const navigate = useNavigate();
+  const location = useLocation();
 
   useEffect(() => {
     const fetchData = async () => {
@@ -49,9 +55,7 @@ const Stage1: React.FC<Stage1Props> = ({ sessionId: sessionIdProp }) => {
           .eq('session_id', sessionId);
         if (assessError) throw assessError;
 
-        const questionSet = new Set<string>();
-        assessmentSections?.forEach(item => questionSet.add(item.section_id));
-        setSectionsWithQuestions(questionSet);
+        setQuestionSectionIds(assessmentSections?.map((item) => item.section_id) ?? []);
 
         if (nodes && blocks) {
           const grouped = nodes
@@ -77,9 +81,26 @@ const Stage1: React.FC<Stage1Props> = ({ sessionId: sessionIdProp }) => {
     if (sessionId) fetchData();
   }, [sessionId]);
 
+  // اسکرول به همان بخشی که کاربر از مرحله ۲ برگشته (نه بالای صفحه)
+  useEffect(() => {
+    const targetSection = (location.state as { scrollToSection?: string } | null)?.scrollToSection;
+    if (targetSection && sections.length > 0) {
+      const el = document.getElementById(`section-${targetSection}`);
+      if (el) {
+        el.scrollIntoView({ behavior: 'smooth', block: 'start' });
+        window.history.replaceState({}, document.title);
+      }
+    }
+  }, [sections, location.state]);
+
   const handleAssess = (sectionId: string) => {
-    navigate(`/session/${sessionId}/stage2?section=${sectionId}`);
+    navigate(`/session/${sessionId}/stage2?section=${encodeURIComponent(sectionId)}`, {
+      state: { scrollToSection: sectionId },
+    });
   };
+
+  const hasQuestions = (sectionId: string) =>
+    questionSectionIds.some((qid) => isSameOrDescendant(qid, sectionId));
 
   const getTitleStyles = (level: number) => {
     switch (level) {
@@ -120,10 +141,14 @@ const Stage1: React.FC<Stage1Props> = ({ sessionId: sessionIdProp }) => {
       {sections.map((section) => (
         <div
           key={section.section_id}
-          className="bg-white rounded-xl shadow-sm border border-gray-200 overflow-hidden hover:shadow-md transition-shadow"
+          id={`section-${section.section_id}`}
+          className="bg-white rounded-xl shadow-sm border border-gray-200 overflow-hidden hover:shadow-md transition-shadow scroll-mt-24"
         >
           <div className={`${getHeaderBg(section.level)} px-6 py-4 border-b border-gray-200`}>
-            <h3 className={getTitleStyles(section.level)}>{section.title}</h3>
+            <h3 className={getTitleStyles(section.level)}>
+              <span className="text-gray-400 font-normal ml-2">{section.section_id.replace('§', '')}</span>
+              {section.title}
+            </h3>
           </div>
           <div className="px-8 py-6">
             {section.blocks.map((block) => (
@@ -141,7 +166,7 @@ const Stage1: React.FC<Stage1Props> = ({ sessionId: sessionIdProp }) => {
               </div>
             ))}
             <div className="mt-6 flex justify-end">
-              {sectionsWithQuestions.has(section.section_id) ? (
+              {hasQuestions(section.section_id) ? (
                 <button
                   onClick={() => handleAssess(section.section_id)}
                   className="bg-gradient-to-l from-green-500 to-emerald-600 hover:from-green-600 hover:to-emerald-700 text-white font-medium px-8 py-2.5 rounded-lg shadow-sm hover:shadow transition-all"

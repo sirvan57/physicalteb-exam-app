@@ -1,0 +1,394 @@
+{
+  "session_id": "session-001",
+  "stage": 3,
+  "registry": [
+    {"section_id": "§1", "parent_id": null, "level": 1, "order_index": 1, "title_fa": "اختلالات اختصاصی سکته مغزی و توانبخشی آن‌ها", "title_en": "Specific Stroke Disorders and Rehabilitation"},
+    {"section_id": "§1.1", "parent_id": "§1", "level": 2, "order_index": 1, "title_fa": "شناخت و ارتباط", "title_en": "Cognition and Communication"},
+    {"section_id": "§1.2", "parent_id": "§1", "level": 2, "order_index": 2, "title_fa": "بی‌ثباتی عاطفی", "title_en": "Emotional Lability"},
+    {"section_id": "§1.3", "parent_id": "§1", "level": 2, "order_index": 3, "title_fa": "دیسفاژی (اختلال بلع)", "title_en": "Dysphagia"},
+    {"section_id": "§1.4", "parent_id": "§1", "level": 2, "order_index": 4, "title_fa": "مدیریت دیسفاژی", "title_en": "Management of Dysphagia"},
+    {"section_id": "§1.5", "parent_id": "§1", "level": 2, "order_index": 5, "title_fa": "نقص حرکتی", "title_en": "Motor Impairment"},
+    {"section_id": "§1.6", "parent_id": "§1", "level": 2, "order_index": 6, "title_fa": "درمان ضعف حرکتی", "title_en": "Therapy for Motor Weakness"},
+    {"section_id": "§1.6.1", "parent_id": "§1.6", "level": 3, "order_index": 1, "title_fa": "فاز اولیه و مراقبت‌های حمایتی", "title_en": "Early Phase and Supportive Care"},
+    {"section_id": "§1.7", "parent_id": "§1", "level": 2, "order_index": 7, "title_fa": "آینه‌درمانی", "title_en": "Mirror Therapy"},
+    {"section_id": "§1.8", "parent_id": "§1", "level": 2, "order_index": 8, "title_fa": "راه رفتن روی تردمیل با حمایت بخشی از وزن بدن", "title_en": "Body Weight Support Treadmill Training (PBWSTT)"},
+    {"section_id": "§2", "parent_id": null, "level": 1, "order_index": 2, "title_fa": "مدیریت پزشکی در حین توانبخشی", "title_en": "Medical Management During Rehabilitation"},
+    {"section_id": "§2.1", "parent_id": "§2", "level": 2, "order_index": 1, "title_fa": "جدول عوارض پزشکی پس از سکته مغزی", "title_en": "Table 18-5: Medical Complications"},
+    {"section_id": "§2.2", "parent_id": "§2", "level": 2, "order_index": 2, "title_fa": "بیماری قلبی", "title_en": "Cardiac Disease"},
+    {"section_id": "§2.3", "parent_id": "§2", "level": 2, "order_index": 3, "title_fa": "مجاری ادراری", "title_en": "Urinary Tract"},
+    {"section_id": "§2.4", "parent_id": "§2", "level": 2, "order_index": 4, "title_fa": "درد اسکلتی عضلانی و سندرم درد منطقه‌ای پیچیده", "title_en": "Musculoskeletal Pain and Complex Regional Pain Syndrome"},
+    {"section_id": "§2.5", "parent_id": "§2", "level": 2, "order_index": 5, "title_fa": "DVT", "title_en": "Deep Vein Thrombosis"},
+    {"section_id": "§2.6", "parent_id": "§2", "level": 2, "order_index": 6, "title_fa": "جنسیت", "title_en": "Sexuality"},
+    {"section_id": "§3", "parent_id": null, "level": 1, "order_index": 3, "title_fa": "تعریف فلج مغزی", "title_en": "Cerebral Palsy Definition"},
+    {"section_id": "§4", "parent_id": null, "level": 1, "order_index": 4, "title_fa": "انواع فلج مغزی", "title_en": "Types of Cerebral Palsy"},
+    {"section_id": "§5", "parent_id": null, "level": 1, "order_index": 5, "title_fa": "مدیریت بیماری ریوی", "title_en": "Management of Lung Disease"},
+    {"section_id": "§6", "parent_id": null, "level": 1, "order_index": 6, "title_fa": "مدیریت پوکی استخوان", "title_en": "Management of Osteoporosis"},
+    {"section_id": "§7", "parent_id": null, "level": 1, "order_index": 7, "title_fa": "حرکت درمانی ناشی از محدودیت", "title_en": "Constraint-Induced Movement Therapy (CIMT)"},
+    {"section_id": "§8", "parent_id": null, "level": 1, "order_index": 8, "title_fa": "تجهیزات پزشکی", "title_en": "Medical Equipment"},
+    {"section_id": "§9", "parent_id": null, "level": 1, "order_index": 9, "title_fa": "مدیریت هایپرتونیا", "title_en": "Management of Hypertonia"},
+    {"section_id": "§10", "parent_id": null, "level": 1, "order_index": 10, "title_fa": "قطع عصب‌رسانی شیمیایی", "title_en": "Chemodenervation"},
+    {"section_id": "§11", "parent_id": null, "level": 1, "order_index": 11, "title_fa": "توانبخشی فاز مزمن آسیب نخاعی", "title_en": "Rehabilitation of Chronic Phase of Spinal Cord Injury"},
+    {"section_id": "§11.1", "parent_id": "§11", "level": 2, "order_index": 1, "title_fa": "سیستم ریوی", "title_en": "Pulmonary System"},
+    {"section_id": "§11.2", "parent_id": "§11", "level": 2, "order_index": 2, "title_fa": "زمان شروع تهویه مکانیکی", "title_en": "When to Start Mechanical Ventilation"},
+    {"section_id": "§11.3", "parent_id": "§11", "level": 2, "order_index": 3, "title_fa": "تحریک الکتریکی دیافراگم", "title_en": "Diaphragm Pacing"},
+    {"section_id": "§11.3.1", "parent_id": "§11.3", "level": 3, "order_index": 1, "title_fa": "تحریک عصب فرنیک", "title_en": "Phrenic Nerve Pacing"},
+    {"section_id": "§11.3.2", "parent_id": "§11.3", "level": 3, "order_index": 2, "title_fa": "تحریک مستقیم دیافراگم", "title_en": "Direct Diaphragm Pacing"},
+    {"section_id": "§11.4", "parent_id": "§11", "level": 2, "order_index": 4, "title_fa": "آپنه انسدادی خواب در آسیب نخاعی", "title_en": "Obstructive Sleep Apnea (OSA) in SCI"},
+    {"section_id": "§11.5", "parent_id": "§11", "level": 2, "order_index": 5, "title_fa": "پروفیالکسی DVT", "title_en": "DVT Prophylaxis"},
+    {"section_id": "§11.6", "parent_id": "§11", "level": 2, "order_index": 6, "title_fa": "درمان DVT/PE", "title_en": "Treatment of DVT/PE"},
+    {"section_id": "§11.7", "parent_id": "§11", "level": 2, "order_index": 7, "title_fa": "دیس رفلکسی اتونوم", "title_en": "Autonomic Dysreflexia (AD)"},
+    {"section_id": "§11.8", "parent_id": "§11", "level": 2, "order_index": 8, "title_fa": "برنامه روده", "title_en": "Bowel Program"},
+    {"section_id": "§11.8.1", "parent_id": "§11.8", "level": 3, "order_index": 1, "title_fa": "روده در نورون حرکتی فوقانی", "title_en": "UMN Bowel"},
+    {"section_id": "§11.8.2", "parent_id": "§11.8", "level": 3, "order_index": 2, "title_fa": "روده در نورون حرکتی تحتانی", "title_en": "LMN Bowel"},
+    {"section_id": "§11.8.3", "parent_id": "§11.8", "level": 3, "order_index": 3, "title_fa": "اصول برنامه روده، داروها و روش‌های مکانیکی", "title_en": "Bowel Program Principles, Medications & Mechanical Methods"},
+    {"section_id": "§11.9", "parent_id": "§11", "level": 2, "order_index": 9, "title_fa": "اختلال عملکرد نوروژنیک مجاری ادراری تحتانی", "title_en": "Neurogenic Lower Urinary Tract Dysfunction"},
+    {"section_id": "§11.10", "parent_id": "§11", "level": 2, "order_index": 10, "title_fa": "آسیب‌های فشاری (زخم بستر)", "title_en": "Pressure Injuries"}
+  ],
+  "sections": [
+    {
+      "section_id": "§1",
+      "bullets": [
+        {"content_ref": "b1", "text": "بخش بالینی سکته مغزی شامل اختلالات شناخت، ارتباط، عاطفه، بلع، حرکت و عوارض سیستمیک."}
+      ]
+    },
+    {
+      "section_id": "§1.1",
+      "bullets": [
+        {"content_ref": "b1", "text": "تأثیر سکته بر شناخت و ارتباط وابسته به: ==critical==اندازه و محل ضایعه==/critical==، وجود عوامل Premorbid (پیش از بیماری) شامل سابقه سکته قبلی، دمانس، سایر بیماری‌های نورولوژیک؛ به‌ویژه در **بیماران مسن‌تر**."}
+      ]
+    },
+    {
+      "section_id": "§1.2",
+      "bullets": [
+        {"content_ref": "b1", "text": "Emotional Lability (بی‌ثباتی عاطفی): ==critical==۲۰٪==/critical== بیماران پس از سکته؛ شایع‌تر در ضایعات **نیمکره راست**."},
+        {"content_ref": "b2", "text": "عدم توانایی در کنترل/سرکوب پاسخ عاطفی به محرک‌های محیطی؛ گریه یا خنده آسان."},
+        {"content_ref": "b3", "text": "تشخیص افتراقی: ==critical==با افسردگی اشتباه نشود==/critical==."},
+        {"content_ref": "b4", "text": "بهبود با گذشت زمان؛ درمان دارویی: **دکسترومتوفان/کینیدین** یا **SSRI** ها (سرترالین، فلوکسیتین) پاسخ نسبی."}
+      ]
+    },
+    {
+      "section_id": "§1.3",
+      "bullets": [
+        {"content_ref": "b1", "text": "Dysphagia (دیسفاژی): پیش‌آگهی معمولاً مطلوب، اما در **ضایعات ساقه مغز** یا سکته‌های دوطرفه نیمکره‌ای **شدیدتر و پایدارتر**."},
+        {"content_ref": "b2", "text": "ارزیابی بالینی اولیه: مشاهده لب، زبان، گونه، فک، بالا آمدن حنجره، کیفیت صدا."},
+        {"content_ref": "b3", "text": "تست بلع آب: ==critical==۳۰ تا ۹۰ میلی‌لیتر==/critical== آب؛ اطلاعات از کنترل دهانی، به‌موقع بودن بلع، صدای مرطوب، سرفه."},
+        {"content_ref": "b4", "text": "VFSS (مطالعه بلع ویدئوفلوروسکوپیک / بلع باریم اصلاح‌شده): اطلاعات دقیق از مکانیسم بلع، تصویرسازی مستقیم **آسپیراسیون**."},
+        {"content_ref": "b5", "text": "FEES (فیبر نوری از بینی): جایگزین VFSS در صورت عدم دسترسی یا غیرعملی بودن؛ محدودیت: ==critical==تمام مسیر ورود فیبر قابل مشاهده نیست==/critical==."}
+      ]
+    },
+    {
+      "section_id": "§1.4",
+      "bullets": [
+        {"content_ref": "b1", "text": "اصلاح غلظت غذا: **پوره** یا **مایعات غلیظ**."},
+        {"content_ref": "b2", "text": "مانور **چین تاک (chin tuck)** تقویت عضلات."},
+        {"content_ref": "b3", "text": "تغذیه انترال: NG Tube (نازوگاستریک) حداکثر ==critical==۳۰ روز==/critical==؛ PEG (گاستروستومی) ۳۰ روز؛ ژژونوستومی بیشتر از ۳۰ روز."}
+      ]
+    },
+    {
+      "section_id": "§1.5",
+      "bullets": [
+        {"content_ref": "b1", "text": "داروهای خوراکی ضد اسپاستیسیته (باکلوفن، تیزانیدین): اغلب **بی‌اثر**، عوارض: سدیشن، اختلالات شناختی."},
+        {"content_ref": "b2", "text": "تزریق درمانی: ==critical==بو‌تاکس (توکسین بوتولینوم)==/critical==، همچنین فنول/اتانول؛ موثر در کاهش اسپاستیسیته."},
+        {"content_ref": "b3", "text": "درگیری شدید جنرالیزه: **پمپ باکلو فن اینتراتکال** (دوز کمتر از خوراکی)."}
+      ]
+    },
+    {
+      "section_id": "§1.6",
+      "bullets": [
+        {"content_ref": "b1", "text": "درمان ضعف حرکتی شامل مراقبت حمایتی فاز اولیه و مداخلات بعدی است."}
+      ]
+    },
+    {
+      "section_id": "§1.6.1",
+      "bullets": [
+        {"content_ref": "b1", "text": "فاز اولیه: اندام همی‌پارتیک در معرض خطر **کانترکچر** و فلج فشاری."},
+        {"content_ref": "b2", "text": "درمان: **پوزیشنینگ** مناسب در تخت، حمایت بازو در صندلی چرخدار."},
+        {"content_ref": "b3", "text": "حرکت غیرفعال (پسیو) تمام مفاصل اندام آسیب‌دیده: ==critical==حداقل یک بار در روز، در تمام دامنه حرکتی==/critical== برای پیشگیری از کانترکچر."},
+        {"content_ref": "b4", "text": "اگر اسپاستیسیته شدید: کشش‌های **آهسته و مکرر** کاهش تون."},
+        {"content_ref": "b5", "text": "الگوی اسپاستیسیته: اندام فوقانی: **فلکسور** (فلکشن مچ/انگشتان)؛ اندام تحتانی: **اکستنشن** بیش از حد."},
+        {"content_ref": "b6", "text": "ارتز استاتیک مچ-دست (wrist-hand orthosis): حفظ وضعیت عملکردی، اما ==critical==اسپاستیسیته زمینه‌ای را کاهش نمی‌دهد==/critical==."},
+        {"content_ref": "b7", "text": "AFO (ارتز مچ پا-پا) برای کنترل وضعیت مچ پا."}
+      ]
+    },
+    {
+      "section_id": "§1.7",
+      "bullets": [
+        {"content_ref": "b1", "text": "آینه‌درمانی (Mirror Therapy): ایجاد توهم حرکت در اندام فلج با قرار دادن آینه به‌گونه‌ای که انعکاس اندام سالم را به جای اندام مشکل‌دار نشان دهد."}
+      ]
+    },
+    {
+      "section_id": "§1.8",
+      "bullets": [
+        {"content_ref": "b1", "text": "PBWSTT (راه رفتن روی تردمیل با حمایت وزن): استفاده از **هارنس** (جلیقه مهارکننده) برای حمایت وزن بدن؛ مثال: بیمار ۶۰ کیلوگرمی احساس وزن ==critical==۴۰ کیلوگرم==/critical== دارد."},
+        {"content_ref": "b2", "text": "طی تمرین، **دو یا سه تراپیست** برای کنترل تنه، لگن و پای ضعیف حمایت می‌کنند."}
+      ]
+    },
+    {
+      "section_id": "§2",
+      "bullets": [
+        {"content_ref": "b1", "text": "بروز بالای اختلالات همراه (کوموربید) در بیماران بهبودی‌افته از سکته، نشان‌دهنده سن بالا و ماهیت سیستمیک بیماری عروق مغزی."}
+      ]
+    },
+    {
+      "section_id": "§2.1",
+      "bullets": [
+        {"content_ref": "b1", "text": "==critical==آسپیراسیون/پنومونی: ۴۰٪==/critical==؛ عفونت ادراری: ۴۰٪؛ افسردگی: ۳۰٪؛ درد اسکلتی عضلانی/RSD: ۳۰٪؛ سقوط: ۲۵٪؛ سوءتغذیه: ۱۶٪؛ ترومبوآمبولی وریدی: ۶٪؛ زخم فشار: ۳٪؛ انسفالوپاتی توکسیک/متابولیک: ۱۰٪؛ پیشرفت سکته: ۵٪؛ تشنج: ۴٪."}
+      ]
+    },
+    {
+      "section_id": "§2.2",
+      "bullets": [
+        {"content_ref": "b1", "text": "سکته مغزی معمولاً بخشی از بیماری سیستمیک (آترواسکلروز، فشار خون بالا، سکته آمبولیك ناشی از **AF**). در اورژانس: **نوار قلب** و **تروپونین** چک می‌شود."},
+        {"content_ref": "b2", "text": "بیش از ==critical==۷۵٪==/critical== بیماران سکته مغزی شواهد بیماری قلبی عروقی همزمان دارند."},
+        {"content_ref": "b3", "text": "تشدید بیماری قلبی در حین توانبخشی شایع: آنژین، فشار خون کنترل‌نشده، افت فشار، MI، نارسایی احتقانی، AF، آریتمی‌های بطنی؛ تأثیر منفی بر توانبخشی و بقا."},
+        {"content_ref": "b4", "text": "نارسایی احتقانی و آنژین: کاهش تحمل ورزش، ظرفیت غلتیدن، جابجایی و راه رفتن."}
+      ]
+    },
+    {
+      "section_id": "§2.3",
+      "bullets": [
+        {"content_ref": "b1", "text": "عوارض ادراری: عفونت ادراری، احتباس ادرار، بی‌اختیاری فوریتی (urge incontinence)."},
+        {"content_ref": "b2", "text": "عوامل پیش‌بیماری: **BPH** در مردان، بی‌اختیاری استرسی در زنان."},
+        {"content_ref": "b3", "text": "اختلال عدم مهار دترسور → تکرر، فوریت، بی‌اختیاری."},
+        {"content_ref": "b4", "text": "درمان: **آنتی‌کولینرژیک** ها: اکسی‌بوتینین (دیتروپان)، تولترودین (دترول) برای مهار انقباض مثانه."}
+      ]
+    },
+    {
+      "section_id": "§2.4",
+      "bullets": [
+        {"content_ref": "b1", "text": "درد شانه و بازو پس از سکته: شایع، معمولاً چند هفته تا ۶ ماه بعد، تا ==critical==۷۲٪==/critical== موارد (به‌ویژه همی‌پلژی شدید)."},
+        {"content_ref": "b2", "text": "علت: عدم تعادل قدرت عضلات شانه."},
+        {"content_ref": "b3", "text": "ساب‌لوکساسیون (نیمه‌دررفتگی): نقش در درد مورد بحث؛ ممکن است بدون درد باشد؛ در معاینه فیزیکی مشهود؛ تصویربرداری معمولاً مفید نیست مگر برای تشخیص‌های دیگر."},
+        {"content_ref": "b4", "text": "پیشگیری: ۱. پوزیشن مناسب: حمایت بازو در **arm trough** یا **lapboard** هنگام نشستن. ۲. اجتناب از کشش (تراکشن) روی بازو هنگام جابجایی. ۳. استفاده ==critical==انتخابی==/critical== از اسلینگ (آویز دست) هنگام راه رفتن/ایستادن؛ در صورت ضعف تنه ممکن است تعادل را مختل کند. ۴. در صورت اسپاستیسیته عامل درد: تزریق **بو‌تاکس** یا **فنول**."}
+      ]
+    },
+    {
+      "section_id": "§2.5",
+      "bullets": [
+        {"content_ref": "b1", "text": "پروفیالکسی DVT: **هپارین زیرپوستی با دوز پایین**؛ **LMWH** (انوکساپارین) به دلیل عدم افزایش خطر خونریزی داخل/خارج مغزی **بهتر** است."},
+        {"content_ref": "b2", "text": "سونوگرافی داپلر حتماً انجام شود."},
+        {"content_ref": "b3", "text": "**فشرده‌سازی پنوماتیک خارجی**؛ طول دوره نامشخص، معمولاً تا زمانی که بیمار بتواند فواصل قابل‌توجه راه برود."},
+        {"content_ref": "b4", "text": "تشخیص DVT: علائم ممکن است خفیف/غایب؛ معاینه فیزیکی کافی نیست؛ سونوگرافی داپلر فوری."},
+        {"content_ref": "b5", "text": "درمان DVT تازه تشخیص‌داده‌شده: دوز کامل ضد انعقاد با **LMWH** تا زمانی که **وارفارین** (با **هپارین** همراه باشد تا INR به ==critical==۲-۳==/critical== برسد، حداقل ۲ روز) یا داروهای جدید (دابیگاتران، آپیکسابان) شروع شود."},
+        {"content_ref": "b6", "text": "اکثر بیماران می‌توانند فعالیت را در حد تحمل ادامه دهند."}
+      ]
+    },
+    {
+      "section_id": "§2.6",
+      "bullets": [
+        {"content_ref": "b1", "text": "اختلالات جنسی: کاهش میل جنسی یا **هیپرسکشوالیتی** (hypersexuality)."},
+        {"content_ref": "b2", "text": "عوامل خطر برای اختلال عملکرد جنسی: سن بالا، فشار خون بالا، دیابت (همان عوامل سکته)."},
+        {"content_ref": "b3", "text": "علل ایاتروژنیک: داروهای ضد فشار خون، ضدافسردگی (به‌ویژه **SSRI**)، ضد تشنج."},
+        {"content_ref": "b4", "text": "از سرگیری فعالیت جنسی ==critical==ایمن==/critical== است."}
+      ]
+    },
+    {
+      "section_id": "§3",
+      "bullets": [
+        {"content_ref": "b1", "text": "Cerebral Palsy (فلج مغزی): گروهی از اختلالات دائمی حرکت و وضعیت (پاسچر) ← محدودیت فعالیت؛ ناشی از اختلالات **غیرپیشرونده** در مغز در حال رشد جنین/نوزاد."},
+        {"content_ref": "b2", "text": "بیماری‌های پیشرونده با تظاهرات مشابه (ژنتیکی/متابولیک) از تعریف **حذف** می‌شوند."}
+      ]
+    },
+    {
+      "section_id": "§4",
+      "bullets": [
+        {"content_ref": "b1", "text": "انواع فلج مغزی: در متن سند به جز عنوان، محتوای مشخصی ذکر نشده است."}
+      ]
+    },
+    {
+      "section_id": "§5",
+      "bullets": [
+        {"content_ref": "b1", "text": "مدیریت بیماری ریوی در CP: اصلاح غلظت غذا: **متعادل** (نه خیلی شل، نه خیلی سفت)."},
+        {"content_ref": "b2", "text": "درمان **رفلاکس**."},
+        {"content_ref": "b3", "text": "تغذیه جایگزین: گاستروستومی / لوله معده."},
+        {"content_ref": "b4", "text": "کنترل **سیالوره** (ترشح بیش از حد بزاق)."},
+        {"content_ref": "b5", "text": "**فیزیوتراپی قفسه سینه** (کمک به خروج ترشحات)."},
+        {"content_ref": "b6", "text": "**برونکودیلاتورها** بهبود کلیرانس مخاطی-مزکی."}
+      ]
+    },
+    {
+      "section_id": "§6",
+      "bullets": [
+        {"content_ref": "b1", "text": "عوامل خطر پوکی استخوان: کاهش تحمل وزن (weight bearing)، داروهای ضد تشنج، سوء تغذیه، کاهش مواجهه با نور خورشید."},
+        {"content_ref": "b2", "text": "فعالیت‌های تحمل وزن: استفاده از **استندر (stander)** در برنامه روزانه کودکان غیرراه‌رو با CP."},
+        {"content_ref": "b3", "text": "مکمل: **کلسیم** و **ویتامین D**."}
+      ]
+    },
+    {
+      "section_id": "§7",
+      "bullets": [
+        {"content_ref": "b1", "text": "CIMT (حرکت درمانی ناشی از محدودیت): برای بهبود عملکرد حرکتی اندام فوقانی در همی‌پارزی."},
+        {"content_ref": "b2", "text": "روش: **گچ‌گیری اندام سالم** برای اجبار به استفاده از دست مبتلا."},
+        {"content_ref": "b3", "text": "مدت: ==critical==حداکثر ۳ هفته==/critical==."}
+      ]
+    },
+    {
+      "section_id": "§8",
+      "bullets": [
+        {"content_ref": "b1", "text": "Power mobility (ویلچر خودکار): در کودکان ≥ **۱۸ ماهه** با کنترل حرکتی خوب، بدون نقص بینایی، شناخت خوب."},
+        {"content_ref": "b2", "text": "واکر/عصا - گیت ترینر: تسهیل آموزش راه رفتن."},
+        {"content_ref": "b3", "text": "آتل‌بندی و ارتزها: **AFO** (ارتز مچ پا-پا) در فوت دراپ."}
+      ]
+    },
+    {
+      "section_id": "§9",
+      "bullets": [
+        {"content_ref": "b1", "text": "داروهای خوراکی هایپرتونیا: **باکلوفن**، **دیازپام**، **دانترولن سدیم**، **تیزانیدین**، **کلونازپام** (مفید در اختلالات خواب)، **کلونیدین**."},
+        {"content_ref": "b2", "text": "همه به جز دانترولن (اثر مستقیم روی عضله) از طریق CNS باعث **سدیشن** می‌شوند."}
+      ]
+    },
+    {
+      "section_id": "§10",
+      "bullets": [
+        {"content_ref": "b1", "text": "Chemodenervation (قطع عصب‌رسانی شیمیایی): دوره شل‌شدگی مفید بالینی: معمولاً ==critical==۱۲-۱۶ هفته==/critical==."},
+        {"content_ref": "b2", "text": "فاصله تزریق‌ها: حداقل ==critical==۳ ماه==/critical== (به دلیل خطر آنتی‌بادی‌های خنثی‌کننده)."},
+        {"content_ref": "b3", "text": "فنول/اتانول: ارزان‌تر از بوتاکس، مدت اثر ==critical==۶ تا ۱۸ ماه==/critical== (بوتاکس: ۳-۴ ماه)."}
+      ]
+    },
+    {
+      "section_id": "§11",
+      "bullets": [
+        {"content_ref": "b1", "text": "توانبخشی فاز مزمن آسیب نخاعی شامل مدیریت ریوی، قلبی عروقی، ادراری، روده، فشار و اتونوم است."}
+      ]
+    },
+    {
+      "section_id": "§11.1",
+      "bullets": [
+        {"content_ref": "b1", "text": "**آتلتکاتزی** (atelectasis) شایع‌ترین عارضه تنفسی در SCI."},
+        {"content_ref": "b2", "text": "عوارض ناشی از آتلتکاتزی: پنومونی، افیوژن پلور، امپیم."},
+        {"content_ref": "b3", "text": "پنومونی: اغلب در سگمان‌های کالپس‌شده ریه."},
+        {"content_ref": "b4", "text": "افیوژن پلور: به دلیل جدا شدن پلور احشایی و جداری در نواحی کالپس‌شده."},
+        {"content_ref": "b5", "text": "مدیریت: افزایش تدریجی حجم جاری (tidal volume) > ==critical==۲۰ میلی‌لیتر/کیلوگرم==/critical== وزن ایده‌آل بدن؛ تشویق به نفس‌های عمیق."},
+        {"content_ref": "b6", "text": "سیستم‌های **CPAP، BiPAP، PPB** برای اتساع ریه."},
+        {"content_ref": "b7", "text": "**درناز وضعیتی** (postural drainage)."},
+        {"content_ref": "b8", "text": "**دق/وایبریشن** دستی یا مکانیکی."},
+        {"content_ref": "b9", "text": "**ساکشن**."},
+        {"content_ref": "b10", "text": "**سرفه کمک‌شده دستی**."},
+        {"content_ref": "b11", "text": "**برونکودیلاتورها**."},
+        {"content_ref": "b12", "text": "**گایافنزین** خوراکی."},
+        {"content_ref": "b13", "text": "**استیل‌سیستئین** نبولایزر."},
+        {"content_ref": "b14", "text": "**هیدراتاسیون**."}
+      ]
+    },
+    {
+      "section_id": "§11.2",
+      "bullets": [
+        {"content_ref": "b1", "text": "علائم دیسترس تنفسی: سیانوز، استفاده از عضلات فرعی تنفسی، تاکی‌پنه، تاکی‌کاردی، دیافورز."},
+        {"content_ref": "b2", "text": "معیارهای تهویه مکانیکی: ==critical==PaCO2 > 50 mmHg==/critical==؛ ==critical==PaO2 < 50 mmHg==/critical== علیرغم اکسیژن؛ ==critical==Vital capacity < 15 mL/kg==/critical== وزن ایده‌آل بدن."},
+        {"content_ref": "b3", "text": "اگر انتظار اینتوباسیون > ==critical==۵ روز==/critical== → تراکئوستومی."}
+      ]
+    },
+    {
+      "section_id": "§11.3",
+      "bullets": [
+        {"content_ref": "b1", "text": "Diaphragm Pacing (تحریک الکتریکی دیافراگم) شامل دو روش: فرنیک و مستقیم."}
+      ]
+    },
+    {
+      "section_id": "§11.3.1",
+      "bullets": [
+        {"content_ref": "b1", "text": "Phrenic Nerve Pacing (تحریک عصب فرنیک): نیاز به ==critical==عصب فرنیک سالم==/critical==."},
+        {"content_ref": "b2", "text": "تهاجمی‌تر (روش **توراکوتومی**)."},
+        {"content_ref": "b3", "text": "محرک کاشته‌شده + کنترل‌کننده خارجی."},
+        {"content_ref": "b4", "text": "زمان شرطی‌سازی: **۲ ماه** (متن: *2- months*)."}
+      ]
+    },
+    {
+      "section_id": "§11.3.2",
+      "bullets": [
+        {"content_ref": "b1", "text": "Direct Diaphragm Pacing (تحریک مستقیم دیافراگم): جایگذاری الکترود به روش **لاپاروسکوپی**."},
+        {"content_ref": "b2", "text": "الکترودها مستقیماً در **دیافراگم**."},
+        {"content_ref": "b3", "text": "تحریک بلافاصله شروع می‌شود."},
+        {"content_ref": "b4", "text": "بازشرطی‌سازی ممکن است **هفته‌ها** طول بکشد."}
+      ]
+    },
+    {
+      "section_id": "§11.4",
+      "bullets": [
+        {"content_ref": "b1", "text": "OSA (آپنه انسدادی خواب) در SCI: کلاپس مکرر راه‌های هوایی فوقانی در خواب."},
+        {"content_ref": "b2", "text": "عواقب: خواب تکه‌تکه، خستگی، افزایش فعالیت سمپاتیک، خواب‌آلودگی روزانه، افزایش فشار خون سیستمیک و ریوی، افزایش خطر سکته و MI."},
+        {"content_ref": "b3", "text": "درمان: **کاهش وزن** گام اول؛ ==critical==CPAP==/critical== خط اول درمان (فشار مداوم مثبت)."}
+      ]
+    },
+    {
+      "section_id": "§11.5",
+      "bullets": [
+        {"content_ref": "b1", "text": "پروفیالکسی DVT در SCI: شروع زودهنگام **مکانیکی + فارماکولوژیک** مگر منع مصرف."},
+        {"content_ref": "b2", "text": "تجهیزات مکانیکی (پنوماتیک) بهبود عملکرد در کنار ضد انعقادها."},
+        {"content_ref": "b3", "text": "==critical==LMWH==/critical== بهتر از UFH در پیشگیری DVT/PE."},
+        {"content_ref": "b4", "text": "اگر تحرک محدود: پروفیالکسی دارویی حداقل ==critical==۸ هفته==/critical== یا بیشتر."}
+      ]
+    },
+    {
+      "section_id": "§11.6",
+      "bullets": [
+        {"content_ref": "b1", "text": "درمان DVT/PE: **ضد انعقاد درمانی** مگر منع مصرف."},
+        {"content_ref": "b2", "text": "مدت: اولین اپیزود ==critical==۶ ماه==/critical==؛ عود ==critical==نامحدود==/critical==."},
+        {"content_ref": "b3", "text": "اندیکاسیون‌های فیلتر IVC: ۱. DVT/PE با وجود ضد انعقاد کافی ۲. ترومبوز در IVC یا وریدهای ایلیاک ۳. منع مصرف ضد انعقاد ۴. عارضه ضد انعقاد (خونریزی، ترومبوسیتوپنی شدید)."}
+      ]
+    },
+    {
+      "section_id": "§11.7",
+      "bullets": [
+        {"content_ref": "b1", "text": "AD (دیس رفلکسی اتونوم): وضعیت اورژانسی تهدیدکننده حیات در SCI سطح ==critical==T6==/critical== یا بالاتر."},
+        {"content_ref": "b2", "text": "پاتوفیزیولوژی: تخلیه سمپاتیک رفلکسی کنترل‌نشده → HTN."},
+        {"content_ref": "b3", "text": "علائم: سردرد ضربان‌دار، HTN شدید، برافروختگی و تعریق بالای سطح آسیب، احتقان بینی، میدریاز، برادی‌کاری (گاهی تاکی‌کاری)."},
+        {"content_ref": "b4", "text": "مدیریت اورژانسی: ۱. بیمار را ==critical==نشسته (upright)==/critical== قرار دهید. ۲. لباس‌های تنگ را شل کنید. ۳. فشار خون هر ==critical==۲ تا ۵ دقیقه==/critical== مانیتور شود. ۴. مشکلات مثانه: کاتتر را بررسی/تعویض کنید. ۵. اگر مشکل باقی‌ماند: **فیکال ایمپکشن** را بررسی و درمان کنید. ۶. در اقدامات ادراری/رکتال از **بی‌حس کننده موضعی** استفاده کنید. ۷. اگر HTN باقی ماند: **داروی ضد فشار خون سریع‌الاثر**؛ بهترین: **نیترات موضعی** (قابل پاک کردن در صورت افت فشار)."}
+      ]
+    },
+    {
+      "section_id": "§11.8",
+      "bullets": [
+        {"content_ref": "b1", "text": "برنامه روده در SCI بر اساس سطح ضایعه (UMN vs LMN) متفاوت است."}
+      ]
+    },
+    {
+      "section_id": "§11.8.1",
+      "bullets": [
+        {"content_ref": "b1", "text": "روده UMN (ضایعات بالای S2-S4): افزایش تون، هایپررفلکسی."},
+        {"content_ref": "b2", "text": "حرکات دودی (پریستالتیسم) با واسطه رفلکس وجود دارد؛ کنترل ارادی اسفنکتر از دست رفته."},
+        {"content_ref": "b3", "text": "زمان دفع: ==critical==بعد از هر وعده غذایی==/critical== (رفلکس گاستروکولیک)."},
+        {"content_ref": "b4", "text": "استفاده از **ملین** و **شیاف**."}
+      ]
+    },
+    {
+      "section_id": "§11.8.2",
+      "bullets": [
+        {"content_ref": "b1", "text": "روده LMN (ضایعات S2-S4 / دم اسب): حرکات دودی رفلکسی **وجود ندارد**؛ اسفنکتر **آتوئیک** (شل) → خطر نشت و بی‌اختیاری."}
+      ]
+    },
+    {
+      "section_id": "§11.8.3",
+      "bullets": [
+        {"content_ref": "b1", "text": "برنامه روتین: زمان‌بندی‌شده، ترجیحاً پس از صرف غذا؛ روزانه، سپس ممکن است به ==critical==هر ۲ روز==/critical== کاهش یابد."},
+        {"content_ref": "b2", "text": "نشستن روی توالت برای استفاده از جاذبه."},
+        {"content_ref": "b3", "text": "رژیم غذایی پر فیبر."},
+        {"content_ref": "b4", "text": "داروها: نرم‌کننده‌های مدفوع، ملین‌های محرک/هایپرسامولار؛ برای UMN: انما (تنقیه کوچک) و شیاف (به سمت جدار روده)."},
+        {"content_ref": "b5", "text": "داروهای ارتقادهنده ترانزیت: **PEG**، **لیناکولتاید**."},
+        {"content_ref": "b6", "text": "روش‌های مکانیکی: **تحریک دیجیتال** (انگشتی) ← مناسب برای **UMN**؛ **تخلیه دیجیتال** ← مناسب برای **LMN**؛ **ماساژ شکم** کمکی."}
+      ]
+    },
+    {
+      "section_id": "§11.9",
+      "bullets": [
+        {"content_ref": "b1", "text": "مثانه رفلکسی (UMN): تون حفظ شده، دفع رفلکسی، از دست رفتن کنترل ارادی، **DO** (بیش‌فعالی دترسور)."},
+        {"content_ref": "b2", "text": "مثانه آرفلکسی (LMN): شل، عدم دفع رفلکسی، نشت مداوم."},
+        {"content_ref": "b3", "text": "گزینه‌های مدیریت: **کاتتر ماندگار**، **کاتتریزاسیون متناوب**، **سیستوپالستی سوپراپوییک** (دفع رفلکسی)."},
+        {"content_ref": "b4", "text": "اهداف مدیریت: پیشگیری از **UTI**، **هیدرونفروز**، **AD**."},
+        {"content_ref": "b5", "text": "کاتتریزاسیون متناوب: تکنیک آسپتیک، برنامه منظم؛ داروهای آنتی‌کولینرژیک/آگونیست‌های بتا؛ بو‌تاکس در صورت نیاز؛ سیستوپالستی افزایشی در صورت لزوم."},
+        {"content_ref": "b6", "text": "دفع رفلکسی (فقط مردان): **کاندوم شیت** + **ضربه زدن روی سوپراپوییک**؛ خطر: رفلاکس ادرار ← هیدرونفروز، UTI، AD؛ مانیتورینگ حجم باقیمانده ضروری."},
+        {"content_ref": "b7", "text": "کاتتر ماندگار (سوپراپوییک): برای کسانی که قادر به کاتتریزاسیون متناوب نیستند؛ خطرات: UTI، سنگ‌های ادراری، سرطان مثانه."}
+      ]
+    },
+    {
+      "section_id": "§11.10",
+      "bullets": [
+        {"content_ref": "b1", "text": "پیشگیری از زخم فشار در تخت: تشک‌های فشار متناوب یا high-air-loss؛ تغییر وضعیت هر ==critical==۲ ساعت==/critical==، بیمار ==critical==۱۵ دقیقه==/critical== در وضعیت جدید بماند."},
+        {"content_ref": "b2", "text": "در ویلچر: کوسن‌های کاهش فشار، قابلیت‌های شیب/تکیه‌گاه/ایستادن، تکنیک‌های کاهش فشار دستی هر ==critical==۱۵ تا ۳۰ دقیقه==/critical== (خم شدن به جلو/طرفین، پوش‌آپ روی دسته‌ها)."}
+      ]
+    }
+  ],
+  "status": "COMPLETE",
+  "last_covered": "§11.10",
+  "resume_from": null
+}

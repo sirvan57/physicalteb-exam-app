@@ -19,6 +19,10 @@ export const useAuth = () => useContext(AuthContext);
  * (همیشه یک خروجی ثابت برای یک ورودی) به یک ایمیل معتبر تبدیل می‌کنیم،
  * بدون اینکه چیزی از کاراکترهاش حذف بشه (هیچ دو نام کاربری متفاوتی به یک
  * ایمیل تبدیل نمی‌شن).
+ *
+ * ⚠️ توجه: دامنه‌ی example.com (طبق RFC 2606) یک دامنه‌ی رزروشده برای مستندات
+ * است و Supabase/GoTrue آن را نامعتبر رد می‌کند («Email address is invalid»).
+ * به همین دلیل از یک دامنه‌ی ساختگی اما غیررزرو استفاده می‌کنیم.
  */
 const usernameToEmail = (rawUsername: string) => {
   const trimmed = rawUsername.trim();
@@ -27,7 +31,7 @@ const usernameToEmail = (rawUsername: string) => {
   const hex = Array.from(bytes)
     .map((b) => b.toString(16).padStart(2, '0'))
     .join('');
-  return `u${hex}@example.com`;
+  return `u${hex}@physicalteb-users.app`;
 };
 
 export const AuthProvider: React.FC<{ children: React.ReactNode }> = ({ children }) => {

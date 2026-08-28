@@ -2,6 +2,7 @@ import { useEffect, useState } from 'react';
 import { supabase } from '../lib/supabaseClient';
 import { useParams, useNavigate } from 'react-router-dom';
 import { useAuth } from '../contexts/AuthContext';
+import { renderFormattedText } from '../utils/formatText';
 
 const Stage4 = () => {
   const { sessionId } = useParams<{ sessionId: string }>();
@@ -117,7 +118,7 @@ const Stage4 = () => {
                 </div>
 
                 <div className="card card-pad">
-                  <p className="text-lg font-medium leading-loose text-slate-800">{item.stem}</p>
+                  <p className="text-lg font-medium leading-loose text-slate-800">{renderFormattedText(item.stem)}</p>
 
                   <div className="mt-5 flex flex-col gap-2.5">
                     {Object.entries(item.options).map(([key, value]) => {
@@ -151,7 +152,7 @@ const Stage4 = () => {
                           >
                             {key}
                           </span>
-                          <span className="text-[15px] text-slate-800">{value as string}</span>
+                          <span className="text-[15px] text-slate-800">{renderFormattedText(value as string)}</span>
                         </button>
                       );
                     })}
@@ -170,7 +171,7 @@ const Stage4 = () => {
                       <p className={`font-bold ${isCorrect ? 'text-emerald-600' : 'text-rose-600'}`}>
                         {isCorrect ? 'پاسخ صحیح بود! ✓' : 'پاسخ اشتباه بود.'}
                       </p>
-                      <p className="mt-2 text-sm leading-loose text-slate-600">{item.rationale}</p>
+                      <p className="mt-2 text-sm leading-loose text-slate-600">{renderFormattedText(item.rationale)}</p>
                       <button onClick={handleNext} className="btn btn-secondary mt-4">
                         سوال بعدی
                       </button>

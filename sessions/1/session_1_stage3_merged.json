@@ -1,0 +1,174 @@
+{
+  "session_id": "pmr_foundations",
+  "stage": 3,
+  "registry": [
+    {"section_id": "§1", "parent_id": null, "level": 1, "order_index": 1, "title_fa": "تعریف رشته طب فیزیکی و توان‌بخشی", "title_en": "Definition of Physical Medicine and Rehabilitation"},
+    {"section_id": "§1.1", "parent_id": "§1", "level": 2, "order_index": 1, "title_fa": "حیطه‌های اصلی", "title_en": "Main Domains"},
+    {"section_id": "§1.1.1", "parent_id": "§1.1", "level": 3, "order_index": 1, "title_fa": "طب فیزیکی (Physical Medicine)", "title_en": "Physical Medicine"},
+    {"section_id": "§1.1.2", "parent_id": "§1.1", "level": 3, "order_index": 2, "title_fa": "توان‌بخشی (Rehabilitation)", "title_en": "Rehabilitation"},
+    {"section_id": "§1.1.3", "parent_id": "§1.1", "level": 3, "order_index": 3, "title_fa": "پزشکی تشخیصی الکترودیاگنوستیک (Electrodiagnostic Medicine)", "title_en": "Electrodiagnostic Medicine"},
+    {"section_id": "§2", "parent_id": null, "level": 1, "order_index": 2, "title_fa": "توان‌بخشی (Rehabilitation) و سطوح پیشگیری", "title_en": "Rehabilitation and Levels of Prevention"},
+    {"section_id": "§2.1", "parent_id": "§2", "level": 2, "order_index": 1, "title_fa": "سطوح پیشگیری", "title_en": "Levels of Prevention"},
+    {"section_id": "§2.2", "parent_id": "§2", "level": 2, "order_index": 2, "title_fa": "تفاوت Disease و Disability", "title_en": "Difference between Disease and Disability"},
+    {"section_id": "§2.3", "parent_id": "§2", "level": 2, "order_index": 3, "title_fa": "فعالیت‌های روزمره زندگی (ADL)", "title_en": "Activities of Daily Living (ADL)"},
+    {"section_id": "§2.4", "parent_id": "§2", "level": 2, "order_index": 4, "title_fa": "تیم توان‌بخشی", "title_en": "Rehabilitation Team"},
+    {"section_id": "§2.5", "parent_id": "§2", "level": 2, "order_index": 5, "title_fa": "اهداف اصلی توان‌بخشی", "title_en": "Main Goals of Rehabilitation"},
+    {"section_id": "§3", "parent_id": null, "level": 1, "order_index": 3, "title_fa": "شیوع ناتوانی در جامعه و آمار", "title_en": "Disability Prevalence and Statistics"},
+    {"section_id": "§4", "parent_id": null, "level": 1, "order_index": 4, "title_fa": "تاریخچه رشته", "title_en": "History of the Specialty"},
+    {"section_id": "§4.1", "parent_id": "§4", "level": 2, "order_index": 1, "title_fa": "در ایران", "title_en": "In Iran"},
+    {"section_id": "§5", "parent_id": null, "level": 1, "order_index": 5, "title_fa": "دوره آموزشی و فلوشیپ‌ها", "title_en": "Training and Fellowships"},
+    {"section_id": "§6", "parent_id": null, "level": 1, "order_index": 6, "title_fa": "اقدامات درمانی در طب فیزیکی و توان‌بخشی", "title_en": "Rehabilitation Interventions"},
+    {"section_id": "§6.1", "parent_id": "§6", "level": 2, "order_index": 1, "title_fa": "مودالیته‌های فیزیکی (Physical Modalities)", "title_en": "Physical Modalities"},
+    {"section_id": "§6.2", "parent_id": "§6", "level": 2, "order_index": 2, "title_fa": "سایر اقدامات", "title_en": "Other Interventions"},
+    {"section_id": "§7", "parent_id": null, "level": 1, "order_index": 7, "title_fa": "نقش پزشکان عمومی", "title_en": "Role of General Practitioners"}
+  ],
+  "sections": [
+    {
+      "section_id": "§1",
+      "bullets": [
+        {"content_ref": "b1.1", "text": "رشته‌ای تخصصی در طب بالینی با تمرکز بر تشخیص، درمان و پیشگیری بیماری‌های **سیستم‌های عضلانی-استخوانی-عصبی (neuromusculoskeletal systems)**."},
+        {"content_ref": "b1.2", "text": "متخصص این رشته ==physiatrist (فیزِیَتریست؛ پزشک متخصص طب فیزیکی)== نامیده می‌شود."},
+        {"content_ref": "b1.3", "text": "فیزیاتریست (physiatrist) می‌تواند مستقیماً بیمار را درمان کند، یک گروه بین‌رشته‌ای را رهبری کند، یا به‌عنوان مشاور عمل کند."}
+      ]
+    },
+    {
+      "section_id": "§1.1",
+      "bullets": []
+    },
+    {
+      "section_id": "§1.1.1",
+      "bullets": [
+        {"content_ref": "b1.1.1.1", "text": "تمرکز بر درمان بیماری‌های **سیستم‌های عضلانی-استخوانی-عصبی (neuromusculoskeletal)** با استفاده از روش‌های ==غیردارویی و غیرجراحی==."},
+        {"content_ref": "b1.1.1.2", "text": "تشخیص و درمان آسیب‌های عضلانی-استخوانی و سندرم‌های درد."}
+      ]
+    },
+    {
+      "section_id": "§1.1.2",
+      "bullets": [
+        {"content_ref": "b1.1.2.1", "text": "ارزیابی، تشخیص، درمان و پیشگیری در افراد با ==هر سنی== که دارای ناتوانی یا معلولیت‌های جسمی و/یا ذهنی هستند."}
+      ]
+    },
+    {
+      "section_id": "§1.1.3",
+      "bullets": [
+        {"content_ref": "b1.1.3.1", "text": "نقش مشورتی برای سایر متخصصین، عمدتاً با استفاده از الکترودیاگنوستیک (electrodiagnostic) مانند **نوار عصب و عضله (EMG-NCS)**."}
+      ]
+    },
+    {
+      "section_id": "§2",
+      "bullets": []
+    },
+    {
+      "section_id": "§2.1",
+      "bullets": [
+        {"content_ref": "b2.1.1", "text": "اقدامات بازتوانی (rehabilitation) در سه سطح انجام می‌شود:"},
+        {"content_ref": "b2.1.2", "text": "**سطح اولیه (Primary)**: اقدامات بهداشتی برای جلوگیری از بیماری‌ها و عفونت‌ها. مثال: آموزش به فرد مبتلا به کمر درد برای فعالیت‌های روزمره (نحوه نشستن، خوابیدن، بلند کردن اشیا و ورزش‌های تقویتی)."},
+        {"content_ref": "b2.1.3", "text": "**سطح ثانویه (Secondary)**: اقدامات درمانی برای مدیریت بیماری و جلوگیری از عوارض ناشی از بستری شدن. مثال: آموزش برای پیشگیری از ==زخم بستر (bed sore)==، عفونت‌های کلیوی و تنفسی در بیماران بستری."},
+        {"content_ref": "b2.1.4", "text": "**سطح ثالثیه (Tertiary)**: جلوگیری از ایجاد عوارض بیشتر در بیماران."},
+        {"content_ref": "b2.1.5", "text": "سیر بیماری: disease (بیماری) → اختلال در سیستم بدن → impairment (نقص عضو) → disability (ناتوانی) → **handicap (معلولیت/محدودیت)** → زمین‌گیر شدن."}
+      ]
+    },
+    {
+      "section_id": "§2.2",
+      "bullets": [
+        {"content_ref": "b2.2.1", "text": "شدت disability (ناتوانی) لزوماً متناسب با شدت disease (بیماری) اولیه نیست. مثال: آسیب عصب رادیال با شدت یکسان می‌تواند در دست غالب یا غیرغالب disability (ناتوانی) متفاوتی ایجاد کند."},
+        {"content_ref": "b2.2.2", "text": "ممکن است برای disease (بیماری) درمان دارویی/جراحی وجود نداشته باشد، اما disability (ناتوانی) قابل کنترل است. مثال: بیمار قطع نخاعی با استفاده از ==ارتزها (orthoses)== و وسایل کمکی می‌تواند بایستد و قدم بردارد."}
+      ]
+    },
+    {
+      "section_id": "§2.3",
+      "bullets": [
+        {"content_ref": "b2.3.1", "text": "هدف اصلی، مدیریت و برطرف کردن اختلال در ==فعالیت‌های روزمره زندگی (ADL)== است."},
+        {"content_ref": "b2.3.2", "text": "بررسی فعالیت‌هایی مانند: غذاخوردن به‌تنهایی، نوشتن، رعایت بهداشت شخصی، جابه‌جاشدن در اتاق و از تخت به ویلچر."},
+        {"content_ref": "b2.3.3", "text": "برای بهبود ADL (فعالیت‌های روزمره زندگی) از وسایل کمک‌توانبخشی (Assistive devices) استفاده می‌شود. مثال: ==تغییر در دسته قاشق==، تغییر در دسته صندلی، وسایل کمک‌کننده برای پوشیدن جوراب."}
+      ]
+    },
+    {
+      "section_id": "§2.4",
+      "bullets": [
+        {"content_ref": "b2.4.1", "text": "توان‌بخشی یک کار تیمی است. بیماران باید به‌صورت جامع (As A Whole) از جنبه‌های ==پزشکی، اجتماعی، احساسی و شغلی== بررسی شوند."},
+        {"content_ref": "b2.4.2", "text": "اعضای تیم توان‌بخشی:"},
+        {"content_ref": "b2.4.3", "text": "**پزشک متخصص طب فیزیکی (فیزیاتریست)** (هماهنگ‌کننده)، متخصصین سایر حیطه‌ها (روماتولوژیست، ارتوپد، نورولوژیست، داخلی، روان‌پزشک، متخصص طب سالمندان)، پرستار توان‌بخشی، فیزیوتراپیست، کاردرمانگر، مشاور شغلی، ==اورتوتیست (orthotist؛ تکنسین ارتوپدی فنی)==، گفتاردرمانگر، مددکار اجتماعی، روان‌شناس، متخصص تغذیه، متخصص اورولوژی، پزشک خانواده و در برخی کشورها **متخصص تفریح درمانی (recreational therapist)**."}
+      ]
+    },
+    {
+      "section_id": "§2.5",
+      "bullets": [
+        {"content_ref": "b2.5.1", "text": "هر اقدامی در توان‌بخشی باید در راستای دو هدف اصلی باشد:"},
+        {"content_ref": "b2.5.2", "text": "1. افزایش **کیفیت زندگی (Quality of life)** بیمار."},
+        {"content_ref": "b2.5.3", "text": "2. افزایش **سطح عملکردی (functional level)** بیمار."}
+      ]
+    },
+    {
+      "section_id": "§3",
+      "bullets": [
+        {"content_ref": "b3.1", "text": "حدود ==10%== افراد جامعه به دلایل مختلف (تروما، تصادف، بیماری‌ها) دچار ناتوانی در انجام امور روزمره هستند."},
+        {"content_ref": "b3.2", "text": "==50%== افراد جامعه به اقدامات تخصصی طب فیزیکی نیاز پیدا خواهند کرد."},
+        {"content_ref": "b3.3", "text": "از افرادی که دچار اختلال می‌شوند، ==3 تا 5%== به خدمات تخصصی طب فیزیکی نیازمندند."}
+      ]
+    },
+    {
+      "section_id": "§4",
+      "bullets": [
+        {"content_ref": "b4.1", "text": "رشته‌ای نسبتاً جدید. بورد تخصصی این رشته اولین‌بار در سال ==1947== در آمریکا تصویب شد."},
+        {"content_ref": "b4.2", "text": "کمتر از ==80== سال است که در آمریکا به رسمیت شناخته شده است."},
+        {"content_ref": "b4.3", "text": "عوامل رشد رشته: افزایش جمعیت مسن، پیشرفت در کنترل بیماری‌ها و عفونت‌ها، افزایش ==survival rate (نرخ بقا)== بیماران و پیشرفت تکنولوژی و درمان."}
+      ]
+    },
+    {
+      "section_id": "§4.1",
+      "bullets": [
+        {"content_ref": "b4.1.1", "text": "اولین بار در سال ==۱۳۶۱== در **دانشگاه علوم پزشکی شیراز** راه‌اندازی شد."},
+        {"content_ref": "b4.1.2", "text": "سپس در دانشگاه‌های ارتش (۱۳۷۱)، تبریز، بهشتی، اصفهان (۱۳۸۷) و ... راه‌اندازی شد."},
+        {"content_ref": "b4.1.3", "text": "در کل کشور حدود ==۴۵۰== نفر متخصص طب فیزیکی وجود دارد."},
+        {"content_ref": "b4.1.4", "text": "بر اساس حداقل استاندارد، ایران به ==۴۵۰== نفر متخصص نیاز دارد. (توزیع نامتوازن؛ بسیاری از شهرستان‌ها حتی یک متخصص ندارند.)"},
+        {"content_ref": "b4.1.5", "text": "مقایسه: در کشور ترکیه بیش از ==۵۰۰۰== متخصص طب فیزیکی مشغول به کار هستند."}
+      ]
+    },
+    {
+      "section_id": "§5",
+      "bullets": [
+        {"content_ref": "b5.1", "text": "پس از گذراندن دوره پزشکی عمومی و قبولی در آزمون رزیدنتی، دوره تخصص ==4 ساله== است."},
+        {"content_ref": "b5.2", "text": "در سال آخر، آزمون بورد کتبی و آسکی (شفاهی) برگزار می‌شود."},
+        {"content_ref": "b5.3", "text": "امکان ادامه تحصیل تا مقطع فلوشیپ (در برخی کشورها) در حیطه‌های:"},
+        {"content_ref": "b5.4", "text": "- **آسیب مغزی تروماتیک (Traumatic Brain Injury - TBI)**"},
+        {"content_ref": "b5.5", "text": "- **آسیب نخاعی (Spinal Cord Injury - SCI)**"},
+        {"content_ref": "b5.6", "text": "- **توان‌بخشی قلبی-ریوی (Cardiopulmonary Rehabilitation)**"},
+        {"content_ref": "b5.7", "text": "- **توان‌بخشی کودکان (Pediatric Rehabilitation)**"},
+        {"content_ref": "b5.8", "text": "- **توان‌بخشی سالمندان (Geriatric Rehabilitation)**"},
+        {"content_ref": "b5.9", "text": "- **پزشکی تشخیصی الکترودیاگنوستیک (Electrodiagnostic Medicine)**"}
+      ]
+    },
+    {
+      "section_id": "§6",
+      "bullets": []
+    },
+    {
+      "section_id": "§6.1",
+      "bullets": [
+        {"content_ref": "b6.1.1", "text": "اقدامات مبتنی بر اصول فیزیکی:"},
+        {"content_ref": "b6.1.2", "text": "**حرارت‌درمانی (Thermotherapy)**: لیزر، کیف آب گرم، ==امواج کوتاه (Short Wave Diathermy)==، امواج مافوق صوت."},
+        {"content_ref": "b6.1.3", "text": "**سرمادرمانی (Cryotherapy)**: ماساژ با یخ و ..."},
+        {"content_ref": "b6.1.4", "text": "**الکتروتراپی (Electrotherapy)**: استفاده از جریان الکتریکی با دستگاه‌های مختلف."},
+        {"content_ref": "b6.1.5", "text": "**تمرین‌درمانی (Exercise Therapy)**: به‌طور گسترده در انواع ایزومتریک، ایزوتونیک، کششی، قدرتی و ..."}
+      ]
+    },
+    {
+      "section_id": "§6.2",
+      "bullets": [
+        {"content_ref": "b6.2.1", "text": "**تکنیک‌های دستی (Manual Techniques)**: ماساژ، mobilization (حرکت‌درمانی مفصلی)، و مهارت‌های خاص."}
+      ]
+    },
+    {
+      "section_id": "§7",
+      "bullets": [
+        {"content_ref": "b7.1", "text": "تقریباً تمام پزشکان با بیماران نیازمند به خدمات توان‌بخشی سروکار دارند؛ اما عده محدودی در این زمینه مطالعه دارند."},
+        {"content_ref": "b7.2", "text": "متأسفانه آشنایی با رشته طب فیزیکی و توان‌بخشی در اکثر دانشکده‌های پزشکی کشور موردتوجه قرار نگرفته است."},
+        {"content_ref": "b7.3", "text": "پزشکان عمومی باید با اصول اولیه طب توان‌بخشی آشنا باشند تا نیاز به توان‌بخشی را در بیمار خود تشخیص دهند و در صورت لزوم بیمار را به مراکز مناسب ارجاع دهند."}
+      ]
+    }
+  ],
+  "status": "COMPLETE",
+  "last_covered": "§7",
+  "resume_from": null
+}

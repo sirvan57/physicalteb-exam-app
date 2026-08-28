@@ -1,0 +1,275 @@
+{
+  "session_id": "14-مدالیته-های-فیزیکی",
+  "stage": 3,
+  "registry": [
+    {"section_id": "§1", "parent_id": null, "level": 1, "order_index": 1, "title_fa": "مقدمه و تعاریف", "title_en": "Introduction and Definitions"},
+    {"section_id": "§1.1", "parent_id": "§1", "level": 2, "order_index": 1, "title_fa": "مدالیته چیست؟", "title_en": "What is a Modality?"},
+    {"section_id": "§1.2", "parent_id": "§1", "level": 2, "order_index": 2, "title_fa": "موارد مورد بحث", "title_en": "Topics to be Discussed"},
+    {"section_id": "§2", "parent_id": null, "level": 1, "order_index": 2, "title_fa": "گرما درمانی", "title_en": "Thermotherapy"},
+    {"section_id": "§2.1", "parent_id": "§2", "level": 2, "order_index": 1, "title_fa": "مکانیسم‌های انتقال حرارت", "title_en": "Mechanisms of Heat Transfer"},
+    {"section_id": "§2.2", "parent_id": "§2", "level": 2, "order_index": 2, "title_fa": "نکات مهم و موارد احتیاط", "title_en": "Important Notes and Precautions"},
+    {"section_id": "§2.3", "parent_id": "§2", "level": 2, "order_index": 3, "title_fa": "تاثیرات فیزیولوژیک گرما", "title_en": "Physiological Effects of Heat"},
+    {"section_id": "§2.4", "parent_id": "§2", "level": 2, "order_index": 4, "title_fa": "موارد احتیاط یا منع مصرف گرما", "title_en": "Precautions or Contraindications of Heat"},
+    {"section_id": "§2.5", "parent_id": "§2", "level": 2, "order_index": 5, "title_fa": "اندیکاسیون‌های استفاده از گرما", "title_en": "Indications for Heat"},
+    {"section_id": "§2.6", "parent_id": "§2", "level": 2, "order_index": 6, "title_fa": "پک‌های داغ (Hot Packs)", "title_en": "Hot Packs"},
+    {"section_id": "§2.7", "parent_id": "§2", "level": 2, "order_index": 7, "title_fa": "حمام پارافین", "title_en": "Paraffin Bath"},
+    {"section_id": "§2.8", "parent_id": "§2", "level": 2, "order_index": 8, "title_fa": "گرمای عمقی (Deep Heat)", "title_en": "Deep Heat"},
+    {"section_id": "§2.8.1", "parent_id": "§2.8", "level": 3, "order_index": 1, "title_fa": "اولتراسوند (Ultrasound)", "title_en": "Ultrasound"},
+    {"section_id": "§2.8.2", "parent_id": "§2.8", "level": 3, "order_index": 2, "title_fa": "دیاترمی موج کوتاه و مایکروویو", "title_en": "Shortwave and Microwave Diathermy"},
+    {"section_id": "§3", "parent_id": null, "level": 1, "order_index": 3, "title_fa": "سرمادرمانی (Cryotherapy)", "title_en": "Cryotherapy"},
+    {"section_id": "§3.1", "parent_id": "§3", "level": 2, "order_index": 1, "title_fa": "موارد کاربرد و احتیاط", "title_en": "Indications and Precautions"},
+    {"section_id": "§3.2", "parent_id": "§3", "level": 2, "order_index": 2, "title_fa": "انواع کرایوتراپی", "title_en": "Types of Cryotherapy"},
+    {"section_id": "§3.2.1", "parent_id": "§3.2", "level": 3, "order_index": 1, "title_fa": "پک‌های سرد (Cold Pack)", "title_en": "Cold Pack"},
+    {"section_id": "§3.2.2", "parent_id": "§3.2", "level": 3, "order_index": 2, "title_fa": "ماساژ یخ (Ice Massage)", "title_en": "Ice Massage"},
+    {"section_id": "§3.2.3", "parent_id": "§3.2", "level": 3, "order_index": 3, "title_fa": "غوطه‌وری در آب سرد", "title_en": "Cold Water Immersion"},
+    {"section_id": "§3.2.4", "parent_id": "§3.2", "level": 3, "order_index": 4, "title_fa": "یونیت‌های کرایو-فشاری", "title_en": "Cryo-Compression Units"},
+    {"section_id": "§4", "parent_id": null, "level": 1, "order_index": 4, "title_fa": "هیدروتراپی", "title_en": "Hydrotherapy"},
+    {"section_id": "§4.1", "parent_id": "§4", "level": 2, "order_index": 1, "title_fa": "مخازن هابارد و حمام‌های گردابی", "title_en": "Hubbard Tanks and Whirlpools"},
+    {"section_id": "§4.2", "parent_id": "§4", "level": 2, "order_index": 2, "title_fa": "حمام کنتراست (Contrast Bath)", "title_en": "Contrast Bath"},
+    {"section_id": "§5", "parent_id": null, "level": 1, "order_index": 5, "title_fa": "یونتوفورز (Iontophoresis)", "title_en": "Iontophoresis"},
+    {"section_id": "§6", "parent_id": null, "level": 1, "order_index": 6, "title_fa": "فونوفورز (Phonophoresis)", "title_en": "Phonophoresis"},
+    {"section_id": "§7", "parent_id": null, "level": 1, "order_index": 7, "title_fa": "لیزر درمانی", "title_en": "Laser Therapy"},
+    {"section_id": "§8", "parent_id": null, "level": 1, "order_index": 8, "title_fa": "تحریک الکتریکی (TENS)", "title_en": "TENS"},
+    {"section_id": "§9", "parent_id": null, "level": 1, "order_index": 9, "title_fa": "شاک‌ویو تراپی (Shock Wave)", "title_en": "Shock Wave Therapy"}
+  ],
+  "sections": [
+    {
+      "section_id": "§1",
+      "bullets": [
+        {"content_ref": "b1", "text": "مدالیته‌های فیزیکی (Physical Agent Modalities): روش‌هایی در فیزیوتراپی که برای کاهش دردهای فیزیکی استفاده می‌شوند."}
+      ]
+    },
+    {
+      "section_id": "§1.1",
+      "bullets": [
+        {"content_ref": "b1", "text": "مدالیته (Modality): به معنای عوامل فیزیکی (physical agent) هستند که با استفاده از خواص خود مانند: سرما، گرما، انرژی لیزر، مغناطیس و صوت در بهبود دردها به کار می‌روند تا ==critical==کاهش درد==/critical== برای بیمار ایجاد شود."},
+        {"content_ref": "b2", "text": "تعریف تکمیلی (پاور): مدالیته‌ها عوامل فیزیکی هستند که برای ایجاد پاسخ درمانی در بافت‌ها به کار می‌روند. این عوامل شامل گرما، سرما، آب، صوت، الکتریسیته و امواج الکترومغناطیسی (شامل نور مادون قرمز، مرئی یا ماوراء بنفش؛ امواج کوتاه؛ و مایکروویو) هستند."}
+      ]
+    },
+    {
+      "section_id": "§1.2",
+      "bullets": [
+        {"content_ref": "b1", "text": "موارد مورد بحث: گرما، سرما، آب درمانی، الکتریسیته، الکترومغناطیس، لیزر، **short wave**، **microwave**، **shock wave**"}
+      ]
+    },
+    {
+      "section_id": "§2",
+      "bullets": [
+        {"content_ref": "b1", "text": "گرما از نظر عمق نفوذ دو مدل دارد:"},
+        {"content_ref": "b2", "text": "1. سطحی (Superficial): **fluidotherapy**، پک‌های داغ (hot packs)، پدهای گرمایشی، حمام پارافین، حمام‌های گردابی (whirlpool) و گرمای تابشی."},
+        {"content_ref": "b3", "text": "2. عمقی (Deep): **اولتراسوند (ultrasound)**، **امواج کوتاه (shortwave)**، **مایکروویو (microwave)**"}
+      ]
+    },
+    {
+      "section_id": "§2.1",
+      "bullets": [
+        {"content_ref": "b1", "text": "مکانیسم‌های انتقال حرارت: تشعشع (radiation) 60%، همرفت (convection) 22%، رسانایی (conduction) 15%، تبخیر (evaporation) 3%"}
+      ]
+    },
+    {
+      "section_id": "§2.2",
+      "bullets": [
+        {"content_ref": "b1", "text": "قبل از استفاده از مدالیته‌های گرمایی یا سرمایی باید **اندیکاسیون** (indication) و **کنترااندیکاسیون** (contraindication) بررسی شود."},
+        {"content_ref": "b2", "text": "مثال: در بیمار با **پیس میکر (pacemaker)**، نباید از TENS و shockwave در نزدیکی آن استفاده شود."},
+        {"content_ref": "b3", "text": "در فرد با نوروپاتی (neuropathy) مانند دیابتی، گرما و سرمای شدید ==critical==کنترااندیکه==/critical== است."},
+        {"content_ref": "b4", "text": "عناصر نسخه برای گرما یا سرما: اندیکاسیون یا تشخیص، مدالیته، محل، شدت، مدت زمان، تعداد دفعات (فرکانس)."}
+      ]
+    },
+    {
+      "section_id": "§2.3",
+      "bullets": [
+        {"content_ref": "b1", "text": "تاثیرات فیزیولوژیک گرما:"},
+        {"content_ref": "b2", "text": "همودینامیک (خونرسانی): افزایش جریان خون، کاهش التهاب مزمن، افزایش التهاب حاد، افزایش ادم (تورم)، افزایش خونریزی."},
+        {"content_ref": "b3", "text": "نوروماسکولار (عصبی-عضلانی): افزایش سرعت هدایت عصبی، احتمال افزایش نرخ شلیک فیبرهای گروه a1 (دوک عضلانی)، کاهش نرخ شلیک فیبرهای گروه ۲ (دوک عضلانی)، افزایش نرخ شلیک فیبرهای گروه b1 (اندام وتری گلژی)."},
+        {"content_ref": "b4", "text": "مفصل و بافت همبند: افزایش قابلیت کشسانی تاندون، افزایش فعالیت کلژناز، کاهش خشکی مفصل."},
+        {"content_ref": "b5", "text": "سایر موارد: کاهش درد، آرامش عمومی."}
+      ]
+    },
+    {
+      "section_id": "§2.4",
+      "bullets": [
+        {"content_ref": "b1", "text": "موارد احتیاط یا منع مصرف گرما:"},
+        {"content_ref": "b2", "text": "**ترومای حاد (Acute Trauma)** و التهاب: به هیچ عنوان از گرما استفاده نمی‌شود. زیرا گرما باعث افزایش خونریزی و تورم میشود. مثال: در بازیکنان فوتبال لحظه آسیب، اسپری یخ (ice) روی موضع می‌زنند."},
+        {"content_ref": "b3", "text": "**اسکار بزرگ (Large Scar)**: گرما باید با احتیاط روی محل گذاشته شود. اسکار گرما را در خود نگه می‌دارد و ممکن است باعث سوختگی شدیدتر شود."},
+        {"content_ref": "b4", "text": "**اختلال حس (Impaired Sensation)**: مانند نوروپاتی دیابتی، بیمار حس ندارد و ممکن است دچار سوختگی شود."},
+        {"content_ref": "b5", "text": "**اختلال شناختی یا ارتباطی** که مانع از گزارش درد شود: مانند عقب‌ماندگی ذهنی (mental retardation) یا ناتوانی در بیان حس‌ها."},
+        {"content_ref": "b6", "text": "**بدخیمی (Malignancy)**: گرما می‌تواند باعث افزایش **میتوز (mitosis)** شود، بنابراین در ناحیه تومور نباید استفاده شود."},
+        {"content_ref": "b7", "text": "اختلالات **سیستم گردش خون (circulation)**، **ادم حاد**، **اختلالات انعقادی / دیاتز خونریزی‌دهنده**."}
+      ]
+    },
+    {
+      "section_id": "§2.5",
+      "bullets": [
+        {"content_ref": "b1", "text": "اندیکاسیون‌های استفاده از گرما:"},
+        {"content_ref": "b2", "text": "بیماری‌های اسکلتی-عضلانی (تاندونیت، تونسینوویت، بورسیت، کپسولیت و غیره)"},
+        {"content_ref": "b3", "text": "درد (گردن، کمر، میوفاسیال، نوروم‌ها، درد پس از هرپس و غیره)"},
+        {"content_ref": "b4", "text": "آرتروز، **کنتراکچر (contracture)**، **اسپاسم عضلانی (muscle spasm)**، **سفتی (tightness)**، التهاب مزمن، دردهای مفصلی"}
+      ]
+    },
+    {
+      "section_id": "§2.6",
+      "bullets": [
+        {"content_ref": "b1", "text": "پک‌های داغ (Hot Packs): اولین و ساده‌ترین مدالیته گرمایی. در فیزیوتراپی، پک‌ها را در دمای ==critical==۷۴ درجه سانتی‌گراد==/critical== (۱۶۶ درجه فارنهایت) قرار داده، پس از ۲۰ دقیقه خارج کرده، دورشان را حوله خشک می‌پیچند و روی موضع (مثال کمر) به مدت ۲۰ دقیقه می‌گذارند."},
+        {"content_ref": "b2", "text": "عمق نفوذ: ۱ تا ۲ سانتی‌متر. افزایش دما: حدود ۱ تا ۲ درجه."},
+        {"content_ref": "b3", "text": "جزئیات فنی (پاور): پک‌های هیدروکولاتور حاوی دی‌اکسید سیلیکون در یک پک برزنتی هستند. زمان کل درمان معمولاً ۳۰ دقیقه است. استفاده از پک هیدروکولاتور روی ران خلفی، افزایش دمای بافتی حدود ==critical==۱.۳ و ۳.۳ درجه سانتی‌گراد==/critical== را به ترتیب در عمق ۱ و ۲ سانتی‌متری ایجاد کرد."}
+      ]
+    },
+    {
+      "section_id": "§2.7",
+      "bullets": [
+        {"content_ref": "b1", "text": "حمام پارافین: باکس‌هایی حاوی پارافین و روغن معدنی. دمای باکس بین ==critical==۵۲.۲ تا ۵۴.۴ درجه سانتی‌گراد==/critical== (۱۲۶ تا ۱۳۰ درجه فارنهایت) است."},
+        {"content_ref": "b2", "text": "روش کار: بیمار دست را داخل پارافین مایع برده و خارج می‌کند تا یک لایه نازک تشکیل شود. این کار چندین بار تکرار می‌شود تا چندین لایه تشکیل شود. سپس دور آن حوله پیچیده شده و به مدت ۲۰ دقیقه نگه داشته می‌شود."},
+        {"content_ref": "b3", "text": "موارد کاربرد: معمولاً برای اندام فوقانی مثل مچ دست و انگشتان. روش‌های کاربرد: غوطه‌وری، فرو بردن و برس کشیدن."},
+        {"content_ref": "b4", "text": "نکته: نسبت پارافین به روغن معدنی ۶ به ۱ یا ۷ به ۱ است."}
+      ]
+    },
+    {
+      "section_id": "§2.8",
+      "bullets": [
+        {"content_ref": "b1", "text": "گرمای عمقی (Deep Heat): شامل اولتراسوند، دیاترمی موج کوتاه و مایکروویو."}
+      ]
+    },
+    {
+      "section_id": "§2.8.1",
+      "bullets": [
+        {"content_ref": "b1", "text": "اولتراسوند (Ultrasound): تبدیل انرژی صوت به گرما. عمق نفوذ: بیش از ۱ تا ۳ سانتی‌متر. افزایش دما: ۱ تا ۳ درجه."},
+        {"content_ref": "b2", "text": "نکته: آستانه تحمل گرمایی بدن (threshold) حدود ==critical==۴۵ درجه سانتی‌گراد==/critical== است و بیش از آن سبب درد تیرکشنده می‌شود."},
+        {"content_ref": "b3", "text": "نکات مهم اولتراسوند: در افراد با آرتروپلاستی زانو، اگر جنس پروتز ناقل گرما باشد، استفاده از اولتراسوند ==critical==کنترااندیکه==/critical== است. در نواحی که **لامینکتومی (laminectomy)** انجام شده، به دلیل داغ شدن بیش از حد، استفاده توصیه نمی‌شود."},
+        {"content_ref": "b4", "text": "دمای هدف درمانی معمولاً ==critical==۴۰ تا ۴۵ درجه سانتی‌گراد==/critical== (۱۰۴ تا ۱۱۳ درجه فارنهایت) در نظر گرفته می‌شود."},
+        {"content_ref": "b5", "text": "موارد احتیاط اولتراسوند: احتیاط‌های کلی گرما + نزدیک مغز، چشم‌ها، اندام‌های تناسلی، رحم باردار یا در دوران قاعدگی، نزدیک پیس میکر، نزدیک ستون فقرات (محل‌های لامینکتومی)، بدخیمی، نابالغی اسکلتی، آرتروپلاستی (مفاصل مصنوعی)."}
+      ]
+    },
+    {
+      "section_id": "§2.8.2",
+      "bullets": [
+        {"content_ref": "b1", "text": "دیاترمی موج کوتاه (Shortwave Diathermy) و مایکروویو (Microwave Diathermy): هر دو از طریق تبدیل (conversion) امواج الکترومغناطیس به گرما برای کاهش درد استفاده می‌شوند. تفاوت آن‌ها در طول موج است."},
+        {"content_ref": "b2", "text": "دیاترمی موج کوتاه: نوسان میدان‌های الکتریکی و مغناطیسی با فرکانس بالا باعث حرکت یون‌ها، چرخش مولکول‌های قطبی و تولید گرما می‌شود."},
+        {"content_ref": "b3", "text": "دیاترمی مایکروویو: فرکانس‌های درمانی: ==critical==۹۱۵ مگاهرتز (طول موج ۳۳ سانتی‌متر) و ۲۴۵۶ مگاهرتز (طول موج ۱۲ سانتی‌متر)==/critical==."}
+      ]
+    },
+    {
+      "section_id": "§3",
+      "bullets": [
+        {"content_ref": "b1", "text": "سرمادرمانی (Cryotherapy): برای تمام مواردی که در گرما گفتیم استفاده می‌شود: **sprains**، **strains**، **tendinitis**، **tenosynovitis**، **bursitis**، **capsulitis**."},
+        {"content_ref": "b2", "text": "تنها فرق: گرما باعث افزایش **stretchability** (قابلیت کشسانی) بافت نرم می‌شود، اما کرایو این خاصیت را ندارد."}
+      ]
+    },
+    {
+      "section_id": "§3.1",
+      "bullets": [
+        {"content_ref": "b1", "text": "موارد کاربرد کلی کرایوتراپی: بیماری‌های اسکلتی-عضلانی، میوفاسیال، پس از برخی جراحی‌های ارتوپدی، مدیریت اسپاستیسیته، درمان اورژانسی سوختگی‌های جزئی."},
+        {"content_ref": "b2", "text": "موارد احتیاط و منع مصرف: عدم تحمل سرما، نوروپراکسی یا آکسونوتوزیس ناشی از کرایوتراپی، نارسایی شریانی، اختلال در حس، نقص‌های شناختی یا ارتباطی."},
+        {"content_ref": "b3", "text": "بیماری‌های خاص: **پدیده رینود (Raynaud phenomenon)**، **هموگلوبینوری سرد پاروکسیسمال (Paroxysmal Cold Hemoglobinuria)**، **سرماپاتی‌ها (Cryopathies)**، حساسیت به آب یا هوای سرد."}
+      ]
+    },
+    {
+      "section_id": "§3.2",
+      "bullets": [
+        {"content_ref": "b1", "text": "طبقه‌بندی انواع مختلف سرمایش بر اساس شکل اصلی انتقال انرژی:"},
+        {"content_ref": "b2", "text": "رسانایی (Conduction): پک‌های سرد، ماساژ یخ، غوطه‌وری در آب سرد، واحدهای کرایوتراپی-فشاری."},
+        {"content_ref": "b3", "text": "تبخیر (Evaporation): اسپری‌های خنک‌کننده (Vapocoolant spray)."},
+        {"content_ref": "b4", "text": "همرفت (Convection): حمام‌های گردابی (whirlpool)."}
+      ]
+    },
+    {
+      "section_id": "§3.2.1",
+      "bullets": [
+        {"content_ref": "b1", "text": "پک‌های سرد (Cold Pack): شامل پک‌های هیدروکولاتور، پک‌های ژلی شیمیایی اندوترمیک و پک‌های یخ."},
+        {"content_ref": "b2", "text": "پک‌های هیدروکولاتور در فریزر تا دمای ==critical==۱۲- درجه سانتی‌گراد==/critical== (۱۰ درجه فارنهایت) سرد شده و روی یک حوله مرطوب قرار می‌گیرند."},
+        {"content_ref": "b3", "text": "مدت زمان استفاده معمولاً ==critical==۲۰ دقیقه==/critical== است و عمق ۲ سانتی‌متری بافت پس از ۲۰ دقیقه حدود ==critical==۵ درجه سانتی‌گراد==/critical== خنک می‌شود."},
+        {"content_ref": "b4", "text": "می‌تواند عضو را تا عمق ۲ سانتی‌متر خنک کند. ممکن است احساس درد ایجاد کند."}
+      ]
+    },
+    {
+      "section_id": "§3.2.2",
+      "bullets": [
+        {"content_ref": "b1", "text": "ماساژ یخ (Ice Massage): استفاده مستقیم از یخ روی پوست با حرکات نوازشی ملایم. آب در یک لیوان کاغذی منجمد می‌شود و با ذوب شدن یخ، لبه کاغذی پاره شده و یخ در معرض پوست قرار می‌گیرد."},
+        {"content_ref": "b2", "text": "معمولاً برای علائم موضعی استفاده شده و برای هر ناحیه ==critical==۵ تا ۱۰ دقیقه==/critical== اعمال می‌شود."}
+      ]
+    },
+    {
+      "section_id": "§3.2.3",
+      "bullets": [
+        {"content_ref": "b1", "text": "غوطه‌وری در آب سرد (Cold Water Immersion): برای سرمایش محیطی اندام‌ها در دمای ==critical==۵ تا ۱۳ درجه سانتی‌گراد==/critical== انجام می‌شود."},
+        {"content_ref": "b2", "text": "اغلب ناراحت‌کننده است و تحمل آن ضعیف است، اما برای سوختگی‌های موضعی موثر است."}
+      ]
+    },
+    {
+      "section_id": "§3.2.4",
+      "bullets": [
+        {"content_ref": "b1", "text": "یونیت‌های کرایو-فشاری (Cryo-Compression Units): شامل یک کاف یا بوت هستند که آب سرد از طریق آن‌ها جریان می‌یابد و می‌توانند به صورت استاتیک یا با عمل پمپاژ متوالی از دیستال به پروگزیمال، فشار پنوماتیک ایجاد کنند."},
+        {"content_ref": "b2", "text": "دماهای معمول: ==critical==۷.۲ درجه سانتی‌گراد==/critical== (۴۵ درجه فارنهایت) و فشارهای تا ==critical==۶۰ میلی‌متر جیوه==/critical==."},
+        {"content_ref": "b3", "text": "کاربرد: پس از آسیب‌های اسکلتی-عضلانی حاد همراه با تورم بافت نرم و پس از برخی جراحی‌ها."}
+      ]
+    },
+    {
+      "section_id": "§4",
+      "bullets": [
+        {"content_ref": "b1", "text": "هیدروتراپی (Hydrotherapy): شامل مخازن هابارد (Hubbard tanks)، حمام‌های گردابی (whirlpool)، تخت دوش (shower cart) و حمام کنتراست (contrast bath)."}
+      ]
+    },
+    {
+      "section_id": "§4.1",
+      "bullets": [
+        {"content_ref": "b1", "text": "مخازن هابارد (Hubbard Tanks): مخازن بزرگ‌تری هستند که عموماً برای غوطه‌وری کل بدن به کار می‌روند."},
+        {"content_ref": "b2", "text": "حمام‌های گردابی (Whirlpool): معمولاً برای درمان یک اندام یا ضایعه موضعی استفاده می‌شوند."}
+      ]
+    },
+    {
+      "section_id": "§4.2",
+      "bullets": [
+        {"content_ref": "b1", "text": "حمام کنتراست (Contrast Bath): عضو را چند دقیقه داخل آب سرد و چند دقیقه داخل آب گرم می‌گذاریم."},
+        {"content_ref": "b2", "text": "روش معمول: با ==critical==۱۰ دقیقه==/critical== غوطه‌وری در آب گرم شروع شده، سپس به صورت متناوب ۱ دقیقه در آب سرد و ۴ دقیقه در آب گرم ادامه می‌یابد و جلسه با غوطه‌وری در آب سرد به پایان می‌رسد."},
+        {"content_ref": "b3", "text": "مجموعاً حدود ۱۰ دقیقه طول می‌کشد. این انقباض و انبساط سبب کاهش ادم و درد می‌شود. کاربرد زیادی در آرتریت روماتوئید ناحیه انگشتان دارد."}
+      ]
+    },
+    {
+      "section_id": "§5",
+      "bullets": [
+        {"content_ref": "b1", "text": "یونتوفورز (Iontophoresis): استفاده از جریان الکتریسیته برای افزایش عمق نفوذ دارو از سطحی به عمقی."},
+        {"content_ref": "b2", "text": "مکانیزم: دارو به صورت یون باردار استفاده می‌شود. الکترود/پلیت هم‌بار با دارو روی پوست قرار می‌گیرد. بارهای هم‌نام همدیگر را دفع می‌کنند و دارو به داخل پوست رانده می‌شود."},
+        {"content_ref": "b3", "text": "کاربرد: رساندن مستقیم داروها (بی‌حس‌کننده‌های موضعی، کورتیکواستروئیدها، مسکن‌ها و آنتی‌بیوتیک‌ها) به بافت‌های نرم."}
+      ]
+    },
+    {
+      "section_id": "§6",
+      "bullets": [
+        {"content_ref": "b1", "text": "فونوفورز (Phonophoresis): شبیه یونتوفورز است، اما با استفاده از **اولتراسوند (ultrasound)** انجام می‌شود و شایع‌تر و کاربردی‌تر است."},
+        {"content_ref": "b2", "text": "روش: مقدار کمی از کرم موضعی (topical) روی ناحیه قرار داده و پروب اولتراسوند را به صورت چرخشی روی موضع حرکت می‌دهند تا دارو جذب شود."},
+        {"content_ref": "b3", "text": "پارامترهای درمانی معمول: حالت پالسی، فرکانس مبدل ==critical==۱ مگاهرتز==/critical==، تکنیک حرکات نوازشی، با شدت ==critical==۱.۰ تا ۱.۵ وات بر سانتی‌متر مربع==/critical==، برای حدود ==critical==۵ دقیقه==/critical== در هر ناحیه."},
+        {"content_ref": "b4", "text": "اثرات ضدالتهابی اولتراسوند و کورتیکواستروئیدها هم‌افزا (synergistic) هستند."}
+      ]
+    },
+    {
+      "section_id": "§7",
+      "bullets": [
+        {"content_ref": "b1", "text": "لیزر (Laser): دو نوع دارد: Low power و High power."},
+        {"content_ref": "b2", "text": "لیزر کم‌توان (Low-energy laser): توان خروجی کمتر از ==critical==۰.۵ وات==/critical==، به عنوان LLLT (لیزر درمانی سطح پایین) طبقه‌بندی می‌شود. تأیید شده (approved) اما مقالات زیادی برای استفاده مؤثرش وجود دارد."},
+        {"content_ref": "b3", "text": "لیزر پرتوان (High power laser): لیزرهایی با توان خروجی بیش از ==critical==۵۰۰ میلی‌وات یا ۰.۵ وات==/critical==، HPLT نامیده می‌شوند."},
+        {"content_ref": "b4", "text": "کاربرد: رفع سفتی (tightness)، گرفتگی عضلات، کاهش دردهای **ماسکولوسکلتیال (musculoskeletal)**، التهاب، نوروپاتی‌ها."}
+      ]
+    },
+    {
+      "section_id": "§8",
+      "bullets": [
+        {"content_ref": "b1", "text": "TENS (Transcutaneous Electrical Nerve Stimulation): تحریک الکتریکی عصبی از طریق پوست."},
+        {"content_ref": "b2", "text": "مکانیزم: ایجاد تحریک الکتریکی روی پوست، اعصاب آوران پیام را به نخاع می‌برند و یک **lock** ایجاد می‌کنند که پیام درد به صورت وابران منتقل نشود."},
+        {"content_ref": "b3", "text": "روش: دو پلیت در دو طرف عضو دردناک قرار داده می‌شود. جریان برقرار شده و پس از ==critical==۲۰ دقیقه==/critical== اثر می‌کند و احساس لرزشی در آن عضو ایجاد می‌شود."}
+      ]
+    },
+    {
+      "section_id": "§9",
+      "bullets": [
+        {"content_ref": "b1", "text": "شاک‌ویو تراپی (Shock Wave Therapy - ESWT): مدالیته‌ای جدید که با استفاده از جریان شوک الکترومغناطیس و آکوستیک وارد بازار شده است."},
+        {"content_ref": "b2", "text": "مکانیزم: باعث **نئوواسکولاریزیشن (neovascularization)** می‌شود و به بافت کمک می‌کند تا ترمیم شود. به ویژه برای بافت‌های فیبروزه (fibrosis) که دنبال التهاب مزمن هستند، مؤثر است."},
+        {"content_ref": "b3", "text": "موارد کاربرد: کاهش اسکار (scar) سوختگی، کاهش سفتی (tightness)، تاثیر بر استخوان‌های **مال یونیون (mal-union)** و **نان یونیون (non-union)**."},
+        {"content_ref": "b4", "text": "نکته ویژه: نوع **فوکوس (Focus) shock wave** برای درمان ==critical==خار پاشنه==/critical== بسیار مؤثر است، به ویژه برای مواردی که به درمان‌های دیگر پاسخ نمی‌دهند."},
+        {"content_ref": "b5", "text": "تأثیرات آن در هر دو زمینه زیبایی و **ماسکولوسکلتیال (musculoskeletal)** بسیار گسترده است."},
+        {"content_ref": "b6", "text": "شاک‌ویو یک درمان غیرتهاجمی است که روند طبیعی بهبود بدن را تحریک کرده، درد را تسکین می‌دهد و باعث بهبود تاندون‌ها، رباط‌ها و سایر بافت‌های نرم آسیب‌دیده از طریق آزاد کردن فاکتورهای رشد می‌شود."}
+      ]
+    }
+  ],
+  "status": "COMPLETE",
+  "last_covered": "§9",
+  "resume_from": null
+}

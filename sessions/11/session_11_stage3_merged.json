@@ -1,0 +1,132 @@
+{
+  "session_id": "assistive_devices_001",
+  "stage": 3,
+  "registry": [
+    {"section_id": "§1", "parent_id": null, "level": 1, "order_index": 1, "title_fa": "تعریف و هدف وسایل کمک حرکتی", "title_en": "Introduction to Assistive Devices"},
+    {"section_id": "§2", "parent_id": null, "level": 1, "order_index": 2, "title_fa": "وسایل کمک حرکتی کم‌تکنولوژی", "title_en": "Low-tech Assistive Devices"},
+    {"section_id": "§3", "parent_id": null, "level": 1, "order_index": 3, "title_fa": "وسایل کمک حرکتی پرتکنولوژی", "title_en": "High Technology Devices"},
+    {"section_id": "§4", "parent_id": null, "level": 1, "order_index": 4, "title_fa": "اورتز (Orthosis) - کلیات", "title_en": "Orthosis – General"},
+    {"section_id": "§5", "parent_id": null, "level": 1, "order_index": 5, "title_fa": "اورتز اندام فوقانی", "title_en": "Upper Limb Orthosis"},
+    {"section_id": "§6", "parent_id": null, "level": 1, "order_index": 6, "title_fa": "اورتز اندام تحتانی", "title_en": "Lower Limb Orthosis"},
+    {"section_id": "§7", "parent_id": null, "level": 1, "order_index": 7, "title_fa": "اورتزهای گردنی و توراکولومبار", "title_en": "Cervical and Thoracolumbar Orthoses"},
+    {"section_id": "§8", "parent_id": null, "level": 1, "order_index": 8, "title_fa": "اورتز لومبوساکرال", "title_en": "Lumbosacral Orthoses"},
+    {"section_id": "§9", "parent_id": null, "level": 1, "order_index": 9, "title_fa": "اورتز سرویکوتوراکولومبوساکرال", "title_en": "Cervicothoracolumbosacral Orthosis"},
+    {"section_id": "§10", "parent_id": null, "level": 1, "order_index": 10, "title_fa": "CTLSO: اورتز میلواکی", "title_en": "CTLSO: Milwaukee Orthosis"},
+    {"section_id": "§11", "parent_id": null, "level": 1, "order_index": 11, "title_fa": "کفش‌ها", "title_en": "Footwear"}
+  ],
+  "sections": [
+    {
+      "section_id": "§1",
+      "bullets": [
+        {"content_ref": "b1", "text": "وسایل کمک حرکتی (Assistive Devices) به دستگاه، وسیله، امکانات، تجهیزات یا تکنولوژی گفته می‌شود که به فرد ناتوان در کنترل، جبران و بهبود **disability** (ناتوانی) کمک می‌کند."},
+        {"content_ref": "b2", "text": "هدف اصلی: بهبود **فعالیت‌های روزمره (ADL)** و کاهش وابستگی به دیگران برای انجام این فعالیت‌ها."},
+        {"content_ref": "b3", "text": "ناتوانی می‌تواند در زمینه‌های **motor** (حرکتی)، **upper motor neuron**، **spasticity** (اسپاستیسیتی؛ سفتی غیرطبیعی عضله) و **cognition** (شناخت) باشد."}
+      ]
+    },
+    {
+      "section_id": "§2",
+      "bullets": [
+        {"content_ref": "b1", "text": "**Weighted spoons** (قاشق‌های سنگین): کمک به افراد با **tremor** (لرزش) ناشی از پارکینسون، کهولت سن یا **weakness** (ضعف)؛ وزن بیشتر مانع ریختن غذا در اثر لرزش می‌شود."},
+        {"content_ref": "b2", "text": "**Scoop plates** (بشقاب‌های لبه‌دار): تسهیل برداشت غذا."},
+        {"content_ref": "b3", "text": "**One‑handed buttoner** (دکمه‌زن یک‌دستی): کمک به بستن دکمه با یک دست."},
+        {"content_ref": "b4", "text": "**Long‑handled hair brushes** (برس‌های موی دسته‌بلند): برای افراد با **shoulder impingement** (ایمپینجمنت شانه؛ گیرافتادگی تاندون) و درد/محدودیت حرکت شانه."},
+        {"content_ref": "b5", "text": "**Built‑up pencil grips** (روکش‌های ضخیم‌شده مداد): برای افراد با **DJD** یا **OA** مفاصل دست، یا **de Quervain syndrome** (سندرم دکوروان؛ التهاب تاندون‌های شست) که نوشتن و گرفتن اشیا سخت شده است. راهکار دیگر: پیچیدن پارچه یا چند الیه چسب دور چاقو برای راحت‌تر گرفتن."},
+        {"content_ref": "b6", "text": "**Bath chairs** (صندلی حمام): برای نشستن ایمن در حمام."},
+        {"content_ref": "b7", "text": "**Universal cuff** (دستبند جهانی): برای افرادی با **weakness** یا درد مفاصل دست که **grip** (گرفتن) مختل شده و در غذا خوردن وابسته‌اند."},
+        {"content_ref": "b8", "text": "**Toothpaste dispenser** (خمیردندان‌ریز): تسهیل خروج خمیردندان."}
+      ]
+    },
+    {
+      "section_id": "§3",
+      "bullets": [
+        {"content_ref": "b1", "text": "وسایل پرتکنولوژی برای افراد با **اختلالات ارتباطی** که قصد شرکت در ارتباطات جمعی، پژوهش‌ها یا کنفرانس‌ها را دارند."},
+        {"content_ref": "b2", "text": "علل اختلالات ارتباطی: عقب‌ماندگی ذهنی، فلج مغزی، آپراکسی کلامی رشدی، آسیب مغزی تروماتیک، سکته مغزی، **MS**، **ALS** و لارنژکتومی."},
+        {"content_ref": "b3", "text": "دستگاه‌های **AAC** (Augmentative and Alternative Communication) از اختلالات زبان بیانی پشتیبانی یا جایگزین آن می‌شوند."},
+        {"content_ref": "b4", "text": "نمونه‌های ساده: **Big Mac** (دکمه قرمز – با فشردن صدا پخش می‌شود و مراقب را فراخوانی می‌کند)، **Chatbox** (جهت اعلام)، **Supertalker** (تاپ کنندهٔ صحبت‌های فرد)."},
+        {"content_ref": "b5", "text": "نمونه‌های پیشرفته: **Vmax**، **Tango** که خروجی متن به گفتار ضبط‌شده یا ترکیبی دارند و تعاملات زبانی پیچیده تولید می‌کنند (نیازمند **cognition**)."}
+      ]
+    },
+    {
+      "section_id": "§4",
+      "bullets": [
+        {"content_ref": "b1", "text": "**Orthosis** (اورتز) وسیله‌ای روی سطح خارجی سگمان بدن برای اصلاح ویژگی‌های سیستم اسکلتی‑عضلانی‑عصبی از نظر ساختاری و عملکردی."},
+        {"content_ref": "b2", "text": "اهداف: ۱) محدودیت **range of motion** به عضو دردناک یا تروما‌دیده تا فرصت **repair** (ترمیم) پیدا کند. ۲) جبران **weakness** (ضعف) – مثال: **radial palsy splint** برای **wrist drop** و حفظ **grip**. ۳) ثابت‌نگه‌داشتن مفاصل (مثل **wrist orthosis**)."},
+        {"content_ref": "b3", "text": "اصطلاحات **splint** و **brace** کمتر ترجیح داده می‌شوند چون صرفاً بی‌حرکتی را القا می‌کنند؛ در حالی که **orthosis** بهبود عملکرد، محدودیت/تسهیل حرکت یا حمایت از سگمنت بدن را شامل می‌شود."},
+        {"content_ref": "b4", "text": "انواع بر اساس هدف: محافظتی (مثل **figure of 8 orthosis**)، اصلاحی (مثل **joint jack splint**) و کمک‌کننده به عملکرد."}
+      ]
+    },
+    {
+      "section_id": "§5",
+      "bullets": [
+        {"content_ref": "b1", "text": "اهداف اورتزهای اندام فوقانی: ۱) محافظتی – تثبیت اجزای استخوانی ناپایدار و تسریع بهبود بافت (مثل **figure of 8 orthosis**). ۲) اصلاحی – اصلاح انقباضات مفصلی، نیمه‌دررفتگی، کاهش بدشکلی (مثل **joint jack splint**). ۳) کمک به عملکرد – جبران بدشکلی، ضعف عضلانی یا افزایش تون."},
+        {"content_ref": "b2", "text": "**Thumb spica splint**: بی‌حرکت‌سازی شست در تاندینیت، درد شست، شکستگی شست یا **CMC**؛ ایجاد فرصت **repair**."},
+        {"content_ref": "b3", "text": "اصلاح **swan neck deformity** با سیستم **three‑point pressure** (دو حلقه از بالای بند انگشتان و یک حلقه از زیر) برای اصلاح **hyperextension**."},
+        {"content_ref": "b4", "text": "**Finger hook splint**: برای آسیب تاندون‌های فلکسور دست."},
+        {"content_ref": "b5", "text": "**Cock up splint**: برای بیماران **CTS** (سندرم تونل کارپال) – مچ را در حالت **neutral** نگه می‌دارد."},
+        {"content_ref": "b6", "text": "**Tennis elbow band**: با محدود کردن اوریجین عضلات اکستانسور برای بهبود درد **lateral epicondylitis**."},
+        {"content_ref": "b7", "text": "**Blank spastic splint**: انگشتان را در حالت **abduction** و **extension** قرار می‌دهد؛ برای افراد **CP** یا **CVA** پس از تزریق بوتاکس، در خواب استفاده می‌شود (مستعد فلکشن کنترکچر)."}
+      ]
+    },
+    {
+      "section_id": "§6",
+      "bullets": [
+        {"content_ref": "b1", "text": "اهداف اورتزهای اندام تحتانی: کمک به راه‌رفتن، کاهش درد، کاهش تحمل وزن، کنترل حرکت، به‌حداقل‌رساندن پیشرفت بدشکلی."},
+        {"content_ref": "b2", "text": "**AFO** (ankle foot orthoses): شامل **plantar fascia night splint**، **foot drop AFO (PLS)**، **plantar spasticity AFO**، **lumbar spinal cord AFO** (جنس فلزی و پلاستیکی)."},
+        {"content_ref": "b3", "text": "**Foot orthoses**: **medial longitudinal arch support**، **metatarsal pad**، **heel pad**، **lateral wedge**."}
+      ]
+    },
+    {
+      "section_id": "§7",
+      "bullets": [
+        {"content_ref": "b1", "text": "**Philadelphia** و **Boston** collars: هر دو در ترومای گردنی استفاده می‌شوند، ولی **Boston** تا استرنوم ادامه دارد و **rigid** است."},
+        {"content_ref": "b2", "text": "**Halo orthosis**: بسیار **rigid**، برای بعد از جراحی شکستگی مهره‌های گردنی به منظور محدودیت حرکت شدید (به جمجمه **pin** می‌شود)."},
+        {"content_ref": "b3", "text": "**CASH** (Cruciform anterior spinal hyperextension): سیستم **three‑point pressure**."},
+        {"content_ref": "b4", "text": "**Body jacket**: سیستم **three‑point pressure** و **circumferential compression**."},
+        {"content_ref": "b5", "text": "**Jewett hyperextension**: سیستم **three‑point pressure**."},
+        {"content_ref": "b6", "text": "این اورتزها به طور کلی از **فلکشن ستون مهره‌ها** جلوگیری می‌کنند (به دنبال عمل‌های جراحی یا شکستگی‌های **thoracolumbar**). همگی دارای سیستم **three‑point**."}
+      ]
+    },
+    {
+      "section_id": "§8",
+      "bullets": [
+        {"content_ref": "b1", "text": "کمربند فنر دار (**spring belt**) برای بیماری‌های دیسکوپاتی و دردهای رادیکولر به مدت ==critical==۲ تا ۳ هفته==/critical== توصیه می‌شود و محدودیت ایجاد می‌کند."},
+        {"content_ref": "b2", "text": "معمولاً **چهار میله** دارد: دو میله در ناحیه **lateral** و دو میله در سمت دیگر."}
+      ]
+    },
+    {
+      "section_id": "§9",
+      "bullets": [
+        {"content_ref": "b1", "text": "اورتز سرویکوتوراکولومبوساکرال (CTLSO) از گردن تا ساکروم را حمایت می‌کند."}
+      ]
+    },
+    {
+      "section_id": "§10",
+      "bullets": [
+        {"content_ref": "b1", "text": "اورتز **Milwaukee** (میلواکی) ضخیم، بزرگ و سنگین است؛ گاهی روی لباس بسته می‌شود."},
+        {"content_ref": "b2", "text": "بیشتر برای **کودکان و جوانان** برای ممانعت از پیشرفت **اسکولیوز** و دفرمیتی تجویز می‌شود؛ در فرد مسن سودمند نیست."},
+        {"content_ref": "b3", "text": "از طریق سیستم **three‑point**، **کیفوز** و **اسکولیوز** را اصلاح می‌کند."},
+        {"content_ref": "b4", "text": "میله روی استرنوم تا زیر مندیبل و حمایت پشت کمر باعث می‌شود فرد صاف بایستد و کیفوز برطرف شود."},
+        {"content_ref": "b5", "text": "در رفع اسکولیوز بسته به نقاط **three‑point** اصلاح رخ می‌دهد."},
+        {"content_ref": "b6", "text": "==critical==جزو بهترین اورتزها است زیرا **active** است و عوارضی مانند **weakness** عضلات ندارد==/critical==."},
+        {"content_ref": "b7", "text": "برای اصلاح ناهنجاری‌های اندام تحتانی مثل **genu varum** و **genu valgum** نیز از همین مکانیسم استفاده می‌شود."}
+      ]
+    },
+    {
+      "section_id": "§11",
+      "bullets": [
+        {"content_ref": "b1", "text": "دو نوع کلی کفش: **Blucher** و **Bal**."},
+        {"content_ref": "b2", "text": "**Blucher**: زبانه در امتداد رویه (**vamp**) و کناره‌ها (**quarter**) قرار دارد؛ زبانه به سمت بالا حرکت می‌کند و با شل شدن بندها دهانه ورودی بازتر می‌شود – مناسب برای استفاده‌کنندگان **AFO**."},
+        {"content_ref": "b3", "text": "**Bal**: رویه کفش جلوتر از زبانه است و از هم جدا هستند؛ زبانه نمی‌تواند به سمت بالا حرکت کند، دهانه ورودی تغییر سایز نمی‌دهد – برای استفاده با اورتز مناسب نیست."},
+        {"content_ref": "b4", "text": "اجزای کفش: **toe box** (جلوی کفش)، **quarter** (کناره)، **tongue** (زبانه)، **heel** (پاشنه)، **shank** (قسمت mid foot – حمایت قوس پا، جنس کربن یا فلز)، **heel counter** (پشته کفش – محکم‌ترین قسمت، کمک به عدم خروج پا؛ گاهی فلز داخل آن باعث زخم پشت پا می‌شود)."},
+        {"content_ref": "b5", "text": "در **pes planus** (صافی کف پا) توصیه می‌شود **shank فلزی** در کفش قرار داده شود تا قوس پا نیفتد و در گذر زمان اصلاح شود."},
+        {"content_ref": "b6", "text": "کفش‌های **rocker bottom** جدیداً مطرح شده‌اند؛ برای همه مناسب نیستند! باعث **فلکشن زانو** و افزایش خطر **falling** و کنترکچر در سالمندان می‌شوند."},
+        {"content_ref": "b7", "text": "موارد استفاده **rocker bottom**: فقط برای افراد با درد پاشنه (**plantar fasciitis**، **pallus valgus**، **pallus rigidus**) یا درد متاتارس."},
+        {"content_ref": "b8", "text": "مکانیسم کاهش درد پاشنه: نقطه تماس ضربه پاشنه را به سمت قدامی استخوان پاشنه دردناک منتقل می‌کند و نیروی عکس‌العمل زمین نیز به سمت قدامی پاشنه منتقل می‌شود."},
+        {"content_ref": "b9", "text": "مکانیسم کاهش درد متاتارس: نیروی وارد بر سر متاتارس در فاز **push‑off** را کاهش می‌دهد."}
+      ]
+    }
+  ],
+  "status": "COMPLETE",
+  "last_covered": "§11",
+  "resume_from": null
+}
