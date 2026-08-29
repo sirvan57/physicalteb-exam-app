@@ -2,6 +2,7 @@ import { useEffect, useState } from 'react';
 import { supabase } from '../lib/supabaseClient';
 import { useNavigate, useParams, useLocation } from 'react-router-dom';
 import { renderFormattedText } from '../utils/formatText';
+import { sortRegistryHierarchically, RegistryNodeLike } from '../utils/registrySort';
 
 interface Stage1Props {
   sessionId?: string;
@@ -58,7 +59,8 @@ const Stage1: React.FC<Stage1Props> = ({ sessionId: sessionIdProp }) => {
         setQuestionSectionIds(assessmentSections?.map((item) => item.section_id) ?? []);
 
         if (nodes && blocks) {
-          const grouped = nodes
+          const sortedNodes = sortRegistryHierarchically(nodes as RegistryNodeLike[]);
+          const grouped = sortedNodes
             .map((node) => {
               const sectionBlocks = blocks.filter((b) => b.section_id === node.section_id);
               return {
